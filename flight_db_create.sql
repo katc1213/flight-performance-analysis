@@ -22,26 +22,24 @@ create table airport (
   primary key (airport_id)
 ) engine = innodb;
 
-create table departures (
+create table flight (
   -- OP_UNIQUE_CARRIER char(4) not null,
   -- OP_CARRIER_FL_NUM int not null,
   flight_id char(10) not null,
   flight_date date not null,
-  flight_time time not null,
+  depart_crs_time time not null,
+  arrive_crs_time time not null,
+  depart_time time not null,
+  arrive_time time not null,
   origin char(4) not null,
   dest char(4) not null,
+  carrier_delay int,
+  weather_delay int,
+  nas_delay int,
+  security_delay int,
   primary key (flight_id)
 ) engine = innodb;
 
-/*we might not need this*/
-create table arrivals (
-  flight_id char(10) not null,
-  flight_date date not null,
-  flight_time time not null,
-  origin char(4) not null,
-  dest char(4) not null,
-  primary key (flight_id)
-) engine = innodb;
 
 create table delay_type (
 	delay_id int not null,
