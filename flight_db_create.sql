@@ -27,21 +27,32 @@ create table flight (
   -- OP_CARRIER_FL_NUM int not null,
   flight_id char(10) not null,
   flight_date date not null,
-  depart_crs_time time not null,
-  arrive_crs_time time not null,
-  depart_time time not null,
-  arrive_time time not null,
+  
+  crs_dep_time int not null,
+  dep_time int,
+  dep_del15 tinyint,
+  
+  crs_arr_time int not null,
+  arr_time int,
+  arr_del15 tinyint,
+  
   origin char(4) not null,
   dest char(4) not null,
-  carrier_delay int,
-  weather_delay int,
-  nas_delay int,
-  security_delay int,
+
   primary key (flight_id)
 ) engine = innodb;
 
 
-create table delay_type (
-	delay_id int not null,
-    delay_name char(20) not null
+create table delay (
+    flight_id char(10),
+    
+    carrier_delay int,
+    weather_delay int,
+    nas_delay int,
+    security_delay int,
+    late_aircraft_delay int,
+    
+    
+    primary key (flight_id),
+    foreign key (flight_id) references flight(flight_id)
 ) engine = innodb;
