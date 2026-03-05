@@ -28,12 +28,12 @@ create table flight (
   flight_id char(10) not null,
   flight_date date not null,
   
-  crs_dep_time int not null,
-  dep_time int,
+  crs_dep_time time not null,
+  dep_time time,
   dep_del15 tinyint,
   
-  crs_arr_time int not null,
-  arr_time int,
+  crs_arr_time time not null,
+  arr_time time,
   arr_del15 tinyint,
   
   origin char(4) not null,
@@ -51,7 +51,6 @@ create table delay (
     nas_delay int,
     security_delay int,
     late_aircraft_delay int,
-    
     
     primary key (flight_id),
     foreign key (flight_id) references flight(flight_id)
