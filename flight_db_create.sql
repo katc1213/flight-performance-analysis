@@ -16,35 +16,50 @@ create table airline (
 ) engine = innodb;
 
 create table airport (
-  airport_id char(4) not null,
-  city char(20) not null,
-  state char(3) not null,
+  airport_id varchar(4) not null,
+  city varchar(25) not null,
+  state varchar(3) not null,
   primary key (airport_id)
 ) engine = innodb;
 
 create table flight (
-  -- OP_UNIQUE_CARRIER char(4) not null,
-  -- OP_CARRIER_FL_NUM int not null,
-  flight_id char(10) not null,
+  flight_id varchar(10) not null,
   flight_date date not null,
+  
+  origin_id varchar(4) not null,
+  dest_id varchar(4) not null,
   
   crs_dep_time time not null,
   dep_time time,
-  dep_del15 tinyint,
+  dep_total_delay int,
+  dep_del15 boolean not null default 0,
   
   crs_arr_time time not null,
   arr_time time,
-  arr_del15 tinyint,
+  arr_total_delay int,
+  arr_del15 boolean not null default 0,
   
-  origin char(4) not null,
-  dest char(4) not null,
-
-  primary key (flight_id)
+  cancelled boolean not null default 0,
+  air_time int,
+  flights tinyint,
+  distance int,
+  
+  carrier_delay int,
+  weather_delay int,
+  nas_delay int,
+  sec_delay int,
+  late_aircraft_delay int,
+  total_add_gtime int,
+  
+  primary key (flight_id, flight_date,crs_dep_time)
+   -- constraint fk_name1 foreign key (origin_id) references airport (airport_id) on delete cascade on update cascade,
+--    constraint fk_name2 foreign key (dest_id) references airport (airport_id) on delete cascade on update cascade
+-- update later in separate file
 ) engine = innodb;
 
 
 create table delay (
-    flight_id char(10),
+    flight_id varchar(10),
     
     carrier_delay int,
     weather_delay int,
@@ -53,5 +68,5 @@ create table delay (
     late_aircraft_delay int,
     
     primary key (flight_id),
-    foreign key (flight_id) references flight(flight_id)
+    foreign key (flight_id) references flight(flight_id) on delete cascade on update cascade
 ) engine = innodb;
