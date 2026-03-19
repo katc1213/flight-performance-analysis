@@ -30,3 +30,17 @@ df_us.to_csv("airports_us_only.csv", index=False)
 print("Done! Saved as airports_us_only.csv")
 print("Original rows:", len(df))
 print("US rows:", len(df_us))
+
+
+# split Description column
+df_us[["CityState", "AirportName"]] = df_us["Description"].str.split(": ", expand=True)
+df_us[["City", "State"]] = df_us["CityState"].str.split(", ", expand=True)
+
+# keep only needed columns
+airport_df = df_us[["Code", "City", "State"]]
+
+# rename to match SQL table
+airport_df.columns = ["airport_id", "city", "state"]
+
+# save
+airport_df.to_csv("airports_us_only.csv", index=False)

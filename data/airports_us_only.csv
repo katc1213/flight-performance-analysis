@@ -1,2947 +1,2947 @@
-Code,Description
-01A,"Afognak Lake, AK: Afognak Lake Airport"
-03A,"Granite Mountain, AK: Bear Creek Mining Strip"
-04A,"Lik, AK: Lik Mining Camp"
-05A,"Little Squaw, AK: Little Squaw Airport"
-05K,"Port Alsworth, AK: Wilder Runway"
-06A,"Kizhuyak, AK: Kizhuyak Bay"
-07A,"Klawock, AK: Klawock Seaplane Base"
-08A,"Elizabeth Island, AK: Elizabeth Island Airport"
-09A,"Homer, AK: Augustin Island"
-1AK,"Mertarvik, AK: Mertarvik Quarry Road Landing Strip"
-1B1,"Hudson, NY: Columbia County"
-1CA,"Rio Vista, CA: Rio Vista Municipal"
-1CT,"Somers, CT: Valley Farm"
-1FL,"Titusville, FL: Space Florida Launch Landing Facility"
-1G4,"Peach Springs, AZ: Grand Canyon West"
-1GA,"Hampton, GA: Atlanta Speedway"
-1N7,"Blairstown, NJ: Blairstown Airport"
-1NC,"Roanoke Rapids, NC: Halifax Northampton Regional"
-1NJ,"Andover, NJ: Aeroflex Andover"
-1NY,"Penn Yan, NY: Penn Yan Yates County"
-1OH,"Willoughby, OH: Lake County Executive"
-1PA,"Connellsville, PA: Joseph A Hardy Connellsville"
-1TN,"Lexington Parsons, TN: Beech River Regional"
-1TX,"Dumas, TX: Moore County"
-1VA,"Warrenton, VA: Warrenton Fauquier"
-1WA,"Deer Park, WA: Deer Park Airport"
-2AK,"Deerpark, AK: Deer Park"
-2CA,"Delano, CA: Delano Municipal"
-2FL,"West Palm Beach, FL: North Palm Beach County Gen Aviation"
-2GA,"Camilla, GA: Camilla Mitchell County"
-2NC,"Asheboro, NC: Asheboro Regional"
-2NJ,"Williamstown, NJ: Southern Cross"
-2NY,"Port Washington, NY: Sands Point Seaplane Base"
-2OH,"Coshocton, OH: Richard Downing"
-2PA,"Philadelphia, PA: Heliport 76er"
-2TN,"Dayton, TN: Mark Anton"
-2TX,"Brenham, TX: Brenham Municipal"
-2VA,"Williamsburg, VA: Camp Peary Landing Strip"
-2WA,"Tacoma, WA: Tacoma Seaplane Base"
-2WK,"Odessa, WA: Odessa Municipal"
-3AK,"Tintina, AK: Gold Mining Landing Strip"
-3CA,"Garberville, CA: Garberville Airport"
-3FL,"Wauchula, FL: Wauchula Municipal"
-3GA,"Blakely, GA: Early County"
-3NC,"Hendersonville, NC: Hendersonville Airport"
-3NJ,"Camden, NJ: 76ers Camden Heliport"
-3NY,"Suffolk, NY: Sebonac"
-3PA,"Conshohocken, PA: Conshohocken Heliport"
-3TN,"Elizabethon, TN: Elizabethton Municipal"
-3TX,"Lancaster, TX: Lancaster Regional"
-3VA,"West Point, VA: Middle Peninsula Regional"
-4AK,"North Pole, AK: Bradley Sky Ranch"
-4CA,"Davis, CA: University"
-4CL,"El Mirage, CA: El Mirage Field Adelanto"
-4FL,"Quincy, FL: Quincy Municipal"
-4GA,"Atlanta, GA: Paulding Memorial Hospital Heliport"
-4NC,"Andrews, NC: Western Carolina Regional"
-4NJ,"Pomona, NJ: Pomona Airport"
-4NY,"Millbrook, NY: Johnson Landing Strip"
-4PA,"Bensalem, PA: Total Rf Heliport"
-4PN,"Eagles Mere, PA: Merritt Field"
-4TX,"Lajitas, TX: Lajitas International"
-5AK,"Lawing, AK: Lawing Airport"
-5CA,"Palmdale, CA: Gray Butte Field"
-5FL,"Apalachicola, FL: St George Island"
-5GA,"Calhoun, GA: Tom B David Field"
-5NJ,"Newark, NJ: Prudential Center Heliport"
-5NY,"Malone, NY: Malone Dufort"
-5PA,"Allentown, PA: Allentown Queen City Municipal"
-5TX,"Edinburg, TX: South Texas International at Edinburg"
-6AK,"Newtok, AK: Newtok Seaplane Base"
-6B0,"Middlebury, VT: Middlebury State"
-6CA,"Little River, CA: Little River Airport"
-6FL,"Arcadia, FL: Arcadia Municipal"
-6GA,"Cornelia, GA: Habersham County"
-6NJ,"Atlantic City, NJ: Ocean Casino Resort"
-6NY,"New York, NY: Sag Harbor"
-6PA,"Chambersburg, PA: Franklin County Regional"
-6TX,"Leakey, TX: Real County"
-7AK,"Akun, AK: Akun Airport"
-7CA,"Lincoln, CA: Lincoln Regional Karl Harder Field"
-7FL,"West Palm Beach, FL: Wellington Aero Club"
-7NJ,"East Rutherford, NJ: Meadowlands 2 Nj Complex Heliport"
-7NY,"New York, NY: Shelter Island"
-7TX,"Graford, TX: Possum Kingdom"
-81W,"Lopez Island, WA: Fishermans Bay"
-8AK,"Nuiqsut, AK: Willow Conocophillips"
-8F3,"Crosbyton, TX: Crosbyton Municipal"
-8FL,"Keystone Heights, FL: Keystone Heights Airport"
-8NJ,"Kearny, NJ: Helo Kearny Heliport"
-8NY,"New York, NY: Noyack"
-8TX,"Waco, TX: McGregor Exec"
-9AK,"Palmer, AK: Wolf Lake"
-9NY,"Shelter Island, NY: Sbnysh"
-9TX,"Center, TX: Center Municipal"
-A01,"Fairbanks/Ft. Wainwright, AK: Blair Lake"
-A02,"Deadmans Bay, AK: Deadmans Bay Airport"
-A03,"Hallo Bay, AK: Hallo Bay Airport"
-A04,"Red Lake, AK: Red Lake Airport"
-A05,"Shell Lake, AK: Shell Lake Airport"
-A06,"Kougarok, AK: Navigator Airstrip"
-A07,"Selawik, AK: Roland Norton Memorial"
-A08,"Pillar Bay, AK: Pillar Bay Airport"
-A09,"Johnstone Point, AK: Johnstone Point Airport"
-A11,"Bell Creek, AK: Bell Creek Airport"
-A12,"Cinnabar, AK: Cinnabar Airport"
-A13,"Mountaintop Mine, AK: Mountaintop Mine Airport"
-A14,"Whitebear, AK: Whitebear Airport"
-A15,"Puviaq, AK: Puviaq Airport"
-A16,"Arley Lake, AK: Arley Lake Airport"
-A17,"Port Vita, AK: Port Vita Airport"
-A18,"Kantishna, AK: Kantishna Airport"
-A1K,"Deadhorse1, AK: Point Thomson Airstrip"
-A1L,"Cullman, AL: Cullman Regional Folsom Field"
-A20,"Alpine, AK: Alpine Airstrip"
-A21,"Serpentine, AK: Serpentine Airport"
-A22,"Driftwood Bay, AK: Driftwood Bay Airport"
-A23,"Bradley Lake, AK: Bradley Lake Airport"
-A24,"Chilkat Lake, AK: Chilkat Lake Airport"
-A25,"Nugget Creek, AK: Nugget Creek Airport"
-A26,"Ivotuk, AK: Ivotuk Airstrip"
-A27,"Pogo Mines, AK: Pogo Mines Airport"
-A28,"Ayakulik River, AK: Ayakulik River Airport"
-A29,"Kiluda Bay, AK: Kiluda Bay Airport"
-A2K,"Bartletts, AK: Bartletts Airport"
-A2L,"Fort Payne, AL: Isbell Field"
-A30,"Terror Lake, AK: Terror Lake Airport"
-A31,"Selief Bay, AK: Selief Bay Airport"
-A34,"Laura Lake, AK: Laura Lake Airport"
-A35,"Kaktovik, AK: Bullen Point AFS"
-A36,"Deep Bay, AK: Deep Bay Airport"
-A37,"Kako, AK: Kako Airport"
-A38,"Molly Creek, AK: Molly Creek Airport"
-A39,"Ptarmigan Lake, AK: Ptarmigan Lake Airport"
-A3K,"Smith Bay, AK: Smith Bay Airport"
-A40,"Cape Simpson, AK: Cape Simpson Airport"
-A41,"Kogru River, AK: Kogru River Airport"
-A42,"Teshepkuk Lake, AK: Teshepkuk Lake Airport"
-A43,"Kodiak Island, AK: Trident Basin Seaplane Base"
-A45,"Lake Florence, AK: Lake Florence Airport"
-A46,"Lake Hasselborg, AK: Lake Hasselborg Airport"
-A47,"Distin Lake, AK: Distin Lake Airport"
-A48,"Port Hobron, AK: Port Hobron Airport"
-A49,"Mooseville Airstrip, AK: Mooseville Airstrip Airport"
-A4K,"Dune Lake, AK: Dune Lake Airport"
-A50,"Big Bay, AK: Big Bay Airport"
-A51,"Wien Lake, AK: Wien Lake Airport"
-A52,"Silver Salmon Creek, AK: Silver Salmon Creek Airport"
-A53,"Blear Lake, AK: Blear Lake Airport"
-A54,"Cannery Bay, AK: Cannery Bay Airport"
-A56,"Bear Lake, AK: Johnsons Landing"
-A57,"International Seafoods, AK: International Seafoods Airport"
-A58,"Cosna River, AK: Cosna River Airport"
-A59,"Ivatuk, AK: Ivatuk Airport"
-A5K,"Paxson, AK: Paxson Airport"
-A61,"Cape Sarichef, AK: Cape Sarichef Airport"
-A62,"Taylor Mountain Mine, AK: Taylor Mountain"
-A63,"Yukon Charley Rivvers, AK: Coal Creek"
-A65,"Karluk Portage, AK: Karluk Portage Airport"
-A66,"Hope, AK: Hope Airport"
-A67,"Viekoda Bay, AK: Viekoda Bay Airport"
-A69,"Cold Bay, AK: Cathedral Strip"
-A6K,"Fairbanks1, AK: Van Curlers Sandbar"
-A70,"Village Islands, AK: Village Islands Airport"
-A71,"Homer, AK: Bear Cove Farm"
-A72,"Chinitna Bay, AK: Chinitna Bay Airport"
-A73,"McKinley Park, AK: McKinley National Park"
-A74,"Nanwalek, AK: Dog Fish Bay"
-A75,"Malina Bay, AK: Malina Bay Airport"
-A76,"Red Fox Bay, AK: Red Fox Bay Airport"
-A77,"Shearwater, AK: Shearwater Airport"
-A78,"Cape Simpson, AK: Lake"
-A79,"Cape Simpson, AK: Cape Simpson No. 1"
-A7K,"Nakochna, AK: Nakochna Airport"
-A80,"Cape Simpson, AK: Cape Simpson No. 7"
-A81,"Aglaq, AK: Cape Simpson #1"
-A82,"Nikiski, AK: Nikiski Private Airstrip"
-A83,"Petrof Point, AK: Petrof Point Airport"
-A84,"Denali, AK: Denali West Lodge Private"
-A85,"Big River, AK: Big River Airport"
-A87,"Carry Inlet, AK: Carry Inlet Airport"
-A89,"Montague Island, AK: Montague Island Airport"
-A8K,"Granite Point, AK: Granite Point Ndb"
-A90,"Shannon Pond, AK: Shannon Pond Airport"
-A91,"Omalik Lagoon, AK: Omalik Lagoon Airport"
-A92,"Omolik Lagoon, AK: Omolik Lagoon Airport"
-A93,"Bradley Lake Project, AK: Bradley Lake Project Airport"
-A94,"Barrow, AK: Ice Strip"
-A95,"Barrow, AK: Ice Strip"
-A96,"Barrow, AK: Ice Strip"
-A97,"Akulik, AK: Akulik Air Strip"
-A98,"Deadfall, AK: Deadfall Air Strip"
-A99,"Eagle Creek, AK: Eagle Creek Airport"
-A9K,"Healy, AK: Temsco Helicopters Inc Heliport"
-AA1,"Bethel, AK: Ice Kong"
-AA2,"Naknek-1, AK: Icicle Seafoods"
-AA4,"Kachemak Bay, AK: Glacier Split"
-AA5,"Selby Lake, AK: Selby Lake Airport"
-AA7,"Independence Creek, AK: Independence Creek Airport"
-AA8,"Deadhorse, AK: Badami"
-AA9,"Napaimute, AK: Napaimute Pioneer Airfield"
-AAF,"Apalachicola, FL: Apalachicola Regional Cleve Randolph Field"
-ABE,"Allentown/Bethlehem/Easton, PA: Lehigh Valley International"
-ABI,"Abilene, TX: Abilene Regional"
-ABL,"Ambler, AK: Ambler River"
-ABQ,"Albuquerque, NM: Albuquerque International Sunport"
-ABR,"Aberdeen, SD: Aberdeen Regional"
-ABY,"Albany, GA: Southwest Georgia Regional"
-ACB,"Bellaire, MI: Antrim County"
-ACK,"Nantucket, MA: Nantucket Memorial"
-ACT,"Waco, TX: Waco Regional"
-ACV,"Arcata/Eureka, CA: California Redwood Coast Humboldt County"
-ACY,"Atlantic City, NJ: Atlantic City International"
-ADK,"Adak Island, AK: Adak"
-ADM,"Ardmore, OK: Ardmore Municipal"
-ADQ,"Kodiak, AK: Kodiak Airport"
-ADS,"Dallas, TX: Addison"
-ADT,"Ada, OK: Ada Regional"
-ADW,"Camp Springs, MD: Joint Base Andrews"
-AED,"Aleneva, AK: Aleneva Airport"
-AET,"Allakaket, AK: Allakaket Airport"
-AEX,"Alexandria, LA: Alexandria International"
-AFF,"Colorado Springs, CO: USAF Academy Davis Airfield"
-AFK,"Nebraska, NE: Nebraska City Municipal"
-AFM,"Ambler, AK: Ambler Airport"
-AFO,"Afton, WY: Afton Lincoln County Gen Boyd L Eddins Field"
-AFP,"Wadesboro, NC: Anson County Jeff Cloud Field"
-AFW,"Dallas/Fort Worth, TX: Perot Field Fort Worth Alliance"
-AGC,"Pittsburgh, PA: Allegheny County"
-AGN,"Angoon, AK: Angoon Seaplane Base"
-AGS,"Augusta, GA: Augusta Regional at Bush Field"
-AHD,"Ardmore, OK: Ardmore Downtown Executive"
-AHN,"Athens, GA: Athens/Ben Epps"
-AHT,"Amchitka Island, AK: Amchitka"
-AIA,"Alliance, NE: Alliance Municipal"
-AIB,"Anita Bay, AK: Anita Bay Airport"
-AID,"Anderson, IN: Anderson Regional"
-AIK,"Aiken, SC: Aiken Regional"
-AIN,"Wainwright, AK: Wainwright Airport"
-AIO,"Atlantic, IA: Atlantic Municipal"
-AIY,"Atlantic City, NJ: Bader Field"
-AIZ,"Lake of the Ozarks, MO: Lee C Fine Memorial"
-AK1,"Seward Peninsula, AK: Kelly Creek Airstrip"
-AK2,"Bear Fish Camp, AK: Bear Fish Camp Airport"
-AK3,"Fairbanks, AK: Gold King Creek"
-AK4,"Squaw Lake, AK: Squaw Lake Airport"
-AK5,"Qugruc, AK: Qugruc Airport"
-AK6,"Gold King 2, AK: Gold King 2 Airport"
-AK7,"Rampart, AK: Hunter Creek Mine"
-AK8,"Zips, AK: Zips Airport"
-AK9,"Tolstoi Bay, AK: Tolstoi Bay Airport"
-AKB,"Atka, AK: Atka Airport"
-AKC,"Akron, OH: Akron Fulton International"
-AKI,"Akiak, AK: Akiak Airport"
-AKK,"Akhiok, AK: Akhiok Airport"
-AKN,"King Salmon, AK: King Salmon Airport"
-AKO,"Akron, CO: Colorado Plains Regional"
-AKP,"Anaktuvuk Pass, AK: Anaktuvuk Pass Airport"
-AL1,"Albertville, AL: Albertville Regional-Thomas J Brumlik Field"
-AL2,"Alabaster, AL: Shelby County"
-AL3,"Huntsville, AL: Huntsville Executive Tom Sharp Jr"
-AL4,"Andalusia/Opp, AL: South Alabama Regional at Bill Benton Field"
-AL5,"Demopolis, AL: Demopolis Regional"
-AL6,"Fairhope, AL: H. L. Sonny Callahan"
-AL7,"Jasper, AL: Walker County Bevill Field"
-AL8,"Scottsboro, AL: Scottsboro Municipal Word Field"
-AL9,"Sylacauga, AL: Merkel Field Sylacauga Municipal"
-ALB,"Albany, NY: Albany International"
-ALE,"Alpine, TX: Alpine Casparis Municipal"
-ALI,"Alice, TX: Alice International"
-ALM,"Alamogordo, NM: Alamogordo White Sands Regional"
-ALN,"Alton, IL: St. Louis Regional"
-ALO,"Waterloo, IA: Waterloo Regional"
-ALS,"Alamosa, CO: San Luis Valley Regional/Bergman Field"
-ALW,"Walla Walla, WA: Walla Walla Regional"
-ALX,"Alexander City, AL: Thomas C. Russell Field"
-ALZ,"Lazy Bay, AK: Alitak Seaplane Base"
-AMA,"Amarillo, TX: Rick Husband Amarillo International"
-AMK,"Durango, CO: Animas Air Park"
-AMN,"Alma, MI: Gratiot Community"
-AMW,"Ames, IA: Ames Municipal"
-ANA,"Anaheim, CA: Anaheim-Disneyland HP"
-ANB,"Anniston, AL: Anniston Regional"
-ANC,"Anchorage, AK: Ted Stevens Anchorage International"
-AND,"Anderson, SC: Anderson Regional"
-ANI,"Aniak, AK: Aniak Airport"
-ANN,"Annette, AK: Annette Island"
-ANP,"Annapolis, MD: Lee"
-ANV,"Anvik, AK: Anvik Airport"
-ANW,"Ainsworth, NE: Ainsworth Regional"
-AOH,"Lima, OH: Lima Allen County"
-AOO,"Altoona, PA: Altoona-Blair County"
-AOS,"Amook Bay, AK: Amook Bay Airport"
-APA,"Denver, CO: Centennial"
-APC,"Napa, CA: Napa County"
-APF,"Naples, FL: Naples Municipal"
-APG,"Aberdeen, MD: Phillips AAF"
-APH,"Fort A P Hill, VA: Mary Walker Lz"
-APN,"Alpena, MI: Alpena County Regional"
-APT,"Jasper, TN: Marion County Brown Field"
-APV,"Apple Valley, CA: Apple Valley Airport"
-AQY,"Girdwood, AK: Girdwood Airport"
-AR1,"Russellville, AR: Russellville Regional"
-AR2,"Conway, AR: Dennis F Cantrell Field"
-AR3,"Bentonville, AR: Bentonville Municipal Louise M Thaden Field"
-AR4,"Colt, AR: Delta Regional"
-ARA,"New Iberia, LA: Acadiana Regional"
-ARB,"Ann Arbor, MI: Ann Arbor Municipal"
-ARC,"Arctic Village, AK: Arctic Village Airport"
-ARG,"Walnut Ridge, AR: Walnut Ridge Regional"
-ART,"Watertown, NY: Watertown International"
-ARV,"Minocqua/Woodruff, WI: Lakeland/Noble F. Lee Memorial Field"
-ARX,"Asbury Park, NJ: Asbury Park/Monmouth County"
-ASE,"Aspen, CO: Aspen Pitkin County Sardy Field"
-ASH,"Nashua, NH: Boire Field"
-ASL,"Marshall, TX: Harrison County"
-ASN,"Talladega, AL: Talladega Municipal"
-ASQ,"Austin, NV: Austin Airport"
-AST,"Astoria/Seaside, OR: Astoria Regional"
-ASX,"Ashland, WI: John F Kennedy Memorial"
-ASY,"Ashley, ND: Ashley Municipal"
-ATE,"Antlers, OK: Antlers Municipal"
-ATK,"Atqasuk, AK: Atqasuk Edward Burnell Sr. Memorial"
-ATL,"Atlanta, GA: Hartsfield-Jackson Atlanta International"
-ATO,"Athens, OH: Ohio University"
-ATS,"Artesia, NM: Artesia Municipal"
-ATT,"Atmautluak, AK: Atmautluak Airport"
-ATU,"Attu, AK: Casco Cove CGS"
-ATW,"Appleton, WI: Appleton International"
-ATY,"Watertown, SD: Watertown Regional"
-AUG,"Augusta/Waterville, ME: Augusta State"
-AUK,"Alakanuk, AK: Alakanuk Airport"
-AUM,"Austin/Albert Lea, MN: Austin Municipal"
-AUN,"Auburn, CA: Auburn Municipal"
-AUO,"Auburn, AL: Auburn University Regional"
-AUS,"Austin, TX: Austin - Bergstrom International"
-AUW,"Wausau, WI: Wausau Downtown"
-AUZ,"Aurora, IL: Aurora Municipal"
-AVL,"Asheville, NC: Asheville Regional"
-AVO,"Avon Park, FL: Avon Park Executive"
-AVP,"Scranton/Wilkes-Barre, PA: Wilkes Barre Scranton International"
-AVW,"Tucson, AZ: Marana Regional"
-AVX,"Avalon, CA: Catalina"
-AWM,"West Memphis, AR: West Memphis Municipal"
-AWX,"Andrews, TX: Andrews County"
-AXB,"Alexandria Bay, NY: Maxson Airfield"
-AXN,"Alexandria, MN: Alexandria Regional Chandler Field"
-AXS,"Altus, OK: Altus/Quartz Mountain Regional"
-AXV,"Wapakoneta, OH: Neil Armstrong"
-AXX,"Eagle Nest, NM: Angel Fire"
-AYS,"Waycross, GA: Waycross-Ware County"
-AZ1,"Grand Canyon, AZ: Valle"
-AZ2,"Williams, AZ: H. A. Clark Memorial Field"
-AZ3,"Glendale, AZ: Glendale Regional"
-AZ4,"Salome, AZ: Sheepy Hollow Ranch"
-AZ5,"Springerville, AZ: Springerville Municipal"
-AZ6,"Gila Bend, AZ: Gila Bend Municipal"
-AZ7,"Colorado City, AZ: Colorado City Municipal"
-AZ8,"Green Valley, AZ: Ruby Star Airpark"
-AZ9,"Coolidge, AZ: Coolidge Municipal"
-AZA,"Phoenix, AZ: Mesa Gateway"
-AZO,"Kalamazoo, MI: Kalamazoo/Battle Creek International"
-B19,"Biddeford, ME: Biddeford Municipal"
-B21,"Carrabassett, ME: Sugarloaf Regional"
-BAB,"Marysville, CA: Beale AFB"
-BAD,"Shreveport, LA: Barksdale AFB"
-BAF,"Westfield, MA: Westfield Barnes Regional"
-BAM,"Battle Mountain, NV: Battle Mountain Airport"
-BAR,"Baker Island, AK: Baker AAF"
-BBC,"Bay City, TX: Bay City Regional"
-BBD,"Brady, TX: Curtis Field"
-BBF,"Burlington, MA: N Eng Heliport"
-BBW,"Broken Bow, NE: Broken Bow Municipal Keith Glaze Field"
-BBX,"Blue Bell, PA: Wings Field"
-BCB,"Blacksburg, VA: Virginia Tech Montgomery Exec"
-BCC,"Bear Creek, AK: Bear Creek Airport"
-BCE,"Bryce Canyon, UT: Bryce Canyon Airport"
-BCJ,"Crestone, CO: Baca Grande"
-BCS,"Belle Chasse, LA: Southern Seaplane"
-BCT,"Boca Raton, FL: Boca Raton Public"
-BDE,"Baudette, MN: Baudette International"
-BDG,"Blanding, UT: Blanding Municipal"
-BDL,"Hartford, CT: Bradley International"
-BDR,"Bridgeport, CT: Bridgeport Sikorsky"
-BDY,"Bandon, OR: Bandon State"
-BEC,"Wichita, KS: Beech Factory"
-BED,"Bedford, MA: Laurence G Hanscom Field"
-BEH,"Benton Harbor/St. Joseph, MI: Southwest Michigan Regional"
-BET,"Bethel, AK: Bethel Airport"
-BFB,"Blue Fox Bay, AK: Blue Fox Bay Airport"
-BFD,"Bradford, PA: Bradford Regional"
-BFF,"Scottsbluff, NE: Scottsbluff W Neb Regional Wm B Heilig Field"
-BFG,"Glen Canyon, UT: Bullfrog Basin"
-BFI,"Seattle, WA: Boeing Field/King County International"
-BFK,"Aurora, CO: Buckley Sfb"
-BFL,"Bakersfield, CA: Meadows Field"
-BFM,"Mobile, AL: Mobile International"
-BFP,"Beaver Falls, PA: Beaver County"
-BFR,"Bedford, IN: Virgil I Grissom Municipal"
-BFT,"Beaufort, SC: Beaufort Executive"
-BGD,"Borger, TX: Hutchinson County"
-BGE,"Bainbridge, GA: Decatur County Industrial Air Park"
-BGM,"Binghamton, NY: Greater Binghamton/Edwin A. Link Field"
-BGQ,"Big Lake, AK: Big Lake Airport"
-BGR,"Bangor, ME: Bangor International"
-BGS,"Big Spring, TX: Big Spring McMahon-Wrinkle"
-BGT,"Bagdad, AZ: Bagdad Airport"
-BHB,"Bar Harbor, ME: Hancock County-Bar Harbor"
-BHC,"Bullhead City, AZ: Laughlin Bullhead International"
-BHM,"Birmingham, AL: Birmingham-Shuttlesworth International"
-BIC,"Big Creek, AK: Big Creek Airport"
-BID,"Block Island, RI: Block Island State"
-BIE,"Beatrice, NE: Beatrice Municipal"
-BIF,"El Paso, TX: Biggs AAF"
-BIG,"Big Delta, AK: Allen AAF"
-BIH,"Bishop, CA: Bishop Airport"
-BIL,"Billings, MT: Billings Logan International"
-BIS,"Bismarck/Mandan, ND: Bismarck Municipal"
-BIX,"Biloxi, MS: Keesler AFB"
-BJC,"Broomfield, CO: Rocky Mountain Metro"
-BJI,"Bemidji, MN: Bemidji Regional"
-BJJ,"Wooster, OH: Wayne County"
-BKC,"Buckland, AK: Buckland Airport"
-BKE,"Baker, OR: Baker City Municipal"
-BKF,"Brooks Lake, AK: Brooks Lake Airport"
-BKG,"Branson, MO: Branson Airport"
-BKL,"Cleveland, OH: Burke Lakefront"
-BKT,"Blackstone, VA: Allan C Perkinson Blackstone AAF"
-BKW,"Beckley, WV: Raleigh County Memorial"
-BKX,"Brookings, SD: Brookings Regional"
-BLD,"Boulder City, NV: Boulder City Municipal"
-BLF,"Princeton/Bluefield, WV: Mercer County"
-BLH,"Blythe, CA: Blythe Airport"
-BLI,"Bellingham, WA: Bellingham International"
-BLM,"Belmar/Farmingdale, NJ: Monmouth Executive"
-BLV,"Belleville, IL: Scott AFB MidAmerica St Louis"
-BMC,"Brigham City, UT: Brigham City Regional"
-BMG,"Bloomington, IN: Monroe County"
-BMI,"Bloomington/Normal, IL: Central Il Regional Airport at Bloomington"
-BML,"Berlin, NH: Berlin Regional"
-BMT,"Beaumont, TX: Beaumont Municipal"
-BMX,"Big Mountain, AK: Big Mountain AFS"
-BNA,"Nashville, TN: Nashville International"
-BNF,"Baranof, AK: Warm Spring Bay Seaplane Base"
-BNG,"Banning, CA: Banning Municipal"
-BNH,"Boston, MA: Boston Harbor Seaplane Base"
-BNL,"Barnwell, SC: Barnwell Regional"
-BNO,"Burns, OR: Burns Municipal"
-BOI,"Boise, ID: Boise Air Terminal"
-BOK,"Brookings, OR: Brookings Airport"
-BOS,"Boston, MA: Logan International"
-BOW,"Bartow, FL: Bartow Executive"
-BPI,"Big Piney, WY: Miley Memorial Field"
-BPT,"Beaumont/Port Arthur, TX: Jack Brooks Regional"
-BQK,"Brunswick, GA: Brunswick Golden Isles"
-BQV,"Bartlett Cove, AK: Bartlett Cove Seaplane Base"
-BRD,"Brainerd, MN: Brainerd Lakes Regional"
-BRG,"Whitesburg, KY: Whitesburg Municipal"
-BRL,"Burlington, IA: Southeast Iowa Regional"
-BRO,"Brownsville, TX: Brownsville South Padre Island International"
-BRW,"Barrow, AK: Wiley Post/Will Rogers Memorial"
-BRY,"Bardstown, KY: Samuels Field"
-BSM,"Austin, TX: Austin - Bergstrom International"
-BSQ,"Bisbee, AZ: Bisbee Municipal"
-BSW,"Boswell Bay, AK: Boswell Bay Airport"
-BTI,"Barter Island, AK: Barter Island Airport"
-BTL,"Battle Creek, MI: Battle Creek Executive at Kellogg Field"
-BTM,"Butte, MT: Bert Mooney"
-BTP,"Butler, PA: Pittsburgh Butler Regional"
-BTR,"Baton Rouge, LA: Baton Rouge Metropolitan/Ryan Field"
-BTT,"Bettles, AK: Bettles Airport"
-BTV,"Burlington, VT: Patrick Leahy Burlington International"
-BTY,"Beatty, NV: Beatty Airport"
-BUF,"Buffalo, NY: Buffalo Niagara International"
-BUM,"Butler, MO: Butler Memorial"
-BUR,"Burbank, CA: Bob Hope"
-BVD,"Beaver Inlet, AK: Beaver Inlet Seaport"
-BVO,"Bartlesville, OK: Bartlesville Municipal"
-BVR,"St. James, MI: Beaver Island"
-BVU,"Beluga, AK: Beluga Airport"
-BVX,"Batesville, AR: Batesville Regional"
-BVY,"Beverly, MA: Beverly Regional"
-BWC,"Brawley, CA: Brawley Municipal"
-BWD,"Brownwood, TX: Brownwood Regional"
-BWG,"Bowling Green, KY: Bowling Green-Warren County Regional"
-BWI,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall"
-BWM,"Bowman, ND: Bowman Municipal"
-BWS,"Blaine, WA: Blaine Municipal"
-BXC,"Boxborough, MA: Sheraton Inn Heliport"
-BXK,"Buckeye, AZ: Buckeye Municipal"
-BXS,"Borrego Springs, CA: Borrego Valley"
-BYA,"Boundary, AK: Boundary Airport"
-BYG,"Buffalo, WY: Johnson County"
-BYH,"Blytheville, AR: Arkansas International"
-BYI,"Burley/Rupert, ID: Burley Municipal"
-BYW,"Blakely Island, WA: Blakely Island Airport"
-BZN,"Bozeman, MT: Bozeman Yellowstone International"
-BZS,"Washington, DC: Buzzards Point Seaplane Base"
-BZT,"Brazoria, TX: Eagle Air Park"
-C01,"Camarillo, CA: Camarillo Airport"
-C02,"Bakersfield, CA: Bakersfield Municipal"
-C1A,"Patterson, CA: Del Mar Farms"
-CA6,"Chemehuevi Valley, CA: Chemehuevi Valley Airport"
-CA7,"Tracy, CA: Tracy Municipal"
-CAD,"Cadillac, MI: Wexford County"
-CAE,"Columbia, SC: Columbia Metropolitan"
-CAK,"Akron, OH: Akron-Canton Regional"
-CAR,"Caribou, ME: Caribou Municipal"
-CBA,"Corner Bay, AK: Corner Bay Airport"
-CBE,"Cumberland, MD: Greater Cumberland Regional"
-CBF,"Council Bluffs, IA: Council Bluffs Municipal"
-CBK,"Colby, KS: Murray"
-CBM,"Columbus, MS: Columbus AFB"
-CCR,"Concord, CA: Buchanan Field"
-CCY,"Charles City, IA: Northeast Iowa Regional"
-CDB,"Cold Bay, AK: Cold Bay Airport"
-CDC,"Cedar City, UT: Cedar City Regional"
-CDH,"Camden, AR: Harrell Field"
-CDL,"Candle, AK: Candle 2"
-CDN,"Camden, SC: Woodward Field"
-CDR,"Chadron, NE: Chadron Municipal"
-CDV,"Cordova, AK: Merle K Mudhole Smith"
-CDW,"Caldwell, NJ: Essex County"
-CEA,"Wichita, KS: Cessna Aircraft Field"
-CEC,"Crescent City, CA: Jack McNamara Field"
-CEF,"Chicopee Falls, MA: Westover ARB Metropolitan"
-CEM,"Central, AK: Central Airport"
-CEU,"Clemson, SC: Oconee County Regional"
-CEV,"Connersville, IN: Mettel Field"
-CEW,"Crestview, FL: Bob Sikes"
-CEX,"Chena Hot Springs, AK: Chena Hot Springs Airport"
-CEY,"Murray, KY: Kyle-Oakley Field"
-CEZ,"Cortez, CO: Cortez Municipal"
-CFA,"Coffee Point, AK: Coffee Point Airport"
-CFT,"Clifton, AZ: Greenlee County"
-CFV,"Coffeyville, KS: Coffeyville Municipal"
-CGA,"Craig, AK: Craig Seaplane Base"
-CGE,"Cambridge, MD: Cambridge Dorchester Regional"
-CGF,"Cleveland, OH: Cuyahoga County"
-CGI,"Cape Girardeau, MO: Cape Girardeau Regional"
-CGS,"College Park, MD: College Park Airport"
-CGX,"Chicago, IL: Meigs Field"
-CGZ,"Casa Grande, AZ: Casa Grande Municipal"
-CHA,"Chattanooga, TN: Lovell Field"
-CHD,"Chandler, AZ: Chandler Municipal"
-CHI,"Chicago, IL: Chicago Metropolitan Area"
-CHL,"Challis, ID: Challis Airport"
-CHO,"Charlottesville, VA: Charlottesville Albemarle"
-CHP,"Circle Hot Springs, AK: Circle Hot Springs Airport"
-CHS,"Charleston, SC: Charleston AFB/International"
-CHU,"Chuathbaluk, AK: Chuathbaluk Airport"
-CHZ,"Chiloquin, OR: Chiloquin State"
-CIB,"Avalon, CA: Catalina"
-CIC,"Chico, CA: Chico Regional"
-CID,"Cedar Rapids/Iowa City, IA: The Eastern Iowa"
-CIG,"Craig, CO: Craig-Moffat"
-CIK,"Chalkyitsik, AK: Chalkyitsik Airport"
-CIL,"Council, AK: Council Airport"
-CIN,"Carroll, IA: Arthur N Neu"
-CIR,"Cairo, IL: Cairo Regional"
-CIU,"Sault Ste. Marie, MI: Chippewa County International"
-CIV,"Chomley, AK: Chomley Airport"
-CJI,"Crafton Island, AK: Crafton Island Airport"
-CJR,"Culpeper, VA: Culpeper Regional"
-CJW,"Clay Center, KS: Clay Center Municipal"
-CKB,"Clarksburg/Fairmont, WV: North Central West Virginia"
-CKD,"Crooked Creek, AK: Crooked Creek Airport"
-CKE,"Clear Lake, CA: Pearce Field"
-CKM,"Clarksdale, MS: Fletcher Field"
-CKU,"Cordova, AK: Cordova Municipal"
-CKV,"Clarksville, TN: Outlaw Field"
-CKX,"Chicken, AK: Chicken Airport"
-CLC,"Clear Lake City, TX: Clear Lake Metroport"
-CLD,"Carlsbad, CA: McClellan-Palomar"
-CLE,"Cleveland, OH: Cleveland-Hopkins International"
-CLF,"Clear, AK: Clear Mews"
-CLG,"Coalinga, CA: New Coalinga Municipal"
-CLI,"Clintonville, WI: Clintonville Municipal"
-CLK,"Clinton, OK: Clinton Regional"
-CLL,"College Station/Bryan, TX: Easterwood Field"
-CLM,"Port Angeles, WA: William R. Fairchild International"
-CLP,"Clarks Point, AK: Clarks Point Airport"
-CLR,"Calipatria, CA: Cliff Hatfield Memorial"
-CLS,"Chehalis, WA: Chehalis Centralia"
-CLT,"Charlotte, NC: Charlotte Douglas International"
-CLU,"Columbus, IN: Columbus Municipal"
-CMH,"Columbus, OH: John Glenn Columbus International"
-CMI,"Champaign/Urbana, IL: University of Illinois/Willard"
-CMX,"Hancock/Houghton, MI: Houghton County Memorial"
-CNE,"Canon City, CO: Fremont County"
-CNK,"Concordia, KS: Blosser Municipal"
-CNM,"Carlsbad, NM: Cavern City Air Terminal"
-CNO,"Chino, CA: Chino Airport"
-CNW,"Waco, TX: TSTC Waco"
-CNY,"Moab, UT: Canyonlands Regional"
-CO1,"Monte Vista, CO: Monte Vista Municipal"
-CO3,"Marina, CA: Marina Municipal"
-CO6,"Buena, CO: Central Colorado Regional"
-CO7,"Meeker, CO: Meeker Coulter Field"
-COA,"Columbia, CA: Columbia Airport"
-COD,"Cody, WY: Yellowstone Regional"
-COE,"Coeur d'Alene, ID: Coeur d'Alene - Pappy Boyington Field"
-COF,"Cocoa Beach, FL: Patrick Sfb"
-COM,"Coleman, TX: Coleman Municipal"
-CON,"Concord, NH: Concord Municipal"
-COS,"Colorado Springs, CO: City of Colorado Springs Municipal"
-COT,"Cotulla, TX: Cotulla-La Salle County"
-COU,"Columbia, MO: Columbia Regional"
-CPR,"Casper, WY: Casper/Natrona County International"
-CPS,"St. Louis, MO: Bi-State Parks"
-CQL,"Carbondale, CO: Glen-Aspen"
-CQW,"Cheraw, SC: Cheraw Municipal/Lynch Bellinger Field"
-CRE,"Myrtle Beach, SC: Grand Strand"
-CRG,"Jacksonville, FL: Jacksonville Executive at Craig"
-CRP,"Corpus Christi, TX: Corpus Christi International"
-CRS,"Corsicana, TX: C David Campbell Field-Corsicana Municipal"
-CRW,"Charleston/Dunbar, WV: West Virginia International Yeager"
-CRX,"Corinth, MS: Roscoe Turner"
-CSE,"Crested Butte, CO: Crested Butte Airpark"
-CSG,"Columbus, GA: Columbus Airport"
-CSM,"Clinton, OK: Clinton Sherman"
-CSN,"Carson City, NV: Carson City Airport"
-CSP,"Cape Spencer, AK: Cape Spencer C.G. Helipad"
-CSU,"Cape Sabine, AK: Cape Sabine Airport"
-CSV,"Crossville, TN: Crossville Memorial-Whitson Field"
-CT1,"Plainville, CT: Robertson Field"
-CT2,"Simsbury, CT: Simsbury Airport"
-CT3,"Willimantic, CT: Windham"
-CT4,"New Milford, CT: Candlelight Farms"
-CT5,"Danielson, CT: Danielson Airport"
-CT6,"East Haddam, CT: Goodspeed"
-CT7,"Chester, CT: Chester Airport"
-CT8,"Belie Haven, CT: Sbctbh"
-CT9,"Meriden, CT: Meriden Markham Municipal"
-CTB,"Cut Bank, MT: Cut Bank International"
-CTH,"Coatesville, PA: Chester County G. O. Carlson"
-CTO,"Calverton, NY: Calverton Executive Airpark"
-CTW,"Cottonwood, AZ: Cottonwood Airport"
-CTX,"Cortland, NY: Cortland County Chase Field"
-CTY,"Cross City, FL: Cross City Airport"
-CTZ,"Clinton, NC: Clinton Sampson County"
-CUB,"Columbia, SC: Jim Hamilton L. B. Owens"
-CUW,"Cube Cove, AK: Cube Cove Airport"
-CVA,"Pittsburgh, PA: Civic Arena H/P"
-CVG,"Cincinnati, OH: Cincinnati/Northern Kentucky International"
-CVN,"Clovis, NM: Clovis Regional"
-CVO,"Corvallis, OR: Corvallis Municipal"
-CVS,"Clovis, NM: Cannon AFB"
-CVX,"Charlevoix, MI: Charlevoix Municipal"
-CWA,"Mosinee, WI: Central Wisconsin"
-CWF,"Lake Charles, LA: Chennault International"
-CWI,"Clinton, IA: Clinton Municipal"
-CWS,"Center Island, WA: Center Island Airport"
-CXC,"Chitina, AK: Chitina Airport"
-CXF,"Coldfoot, AK: Coldfoot Airport"
-CXL,"Calexico, CA: Calexico International"
-CXO,"Conroe, TX: Conroe North Houston Regional"
-CYF,"Chefornak, AK: Chefornak Airport"
-CYM,"Chatham, AK: Chatham Airport"
-CYS,"Cheyenne, WY: Cheyenne Regional/Jerry Olson Field"
-CYT,"Cape Yakataga, AK: Yakataga"
-CZC,"Copper Center, AK: Copper Center 2"
-CZF,"Cape Romanzof, AK: Cape Romanzof LRRS"
-CZN,"Chisana, AK: Chisana Airport"
-CZO,"Chistochina, AK: Chistochina Airport"
-CZP,"Cape Pole, AK: Cape Pole Airport"
-DAB,"Daytona Beach, FL: Daytona Beach International"
-DAG,"Daggett, CA: Barstow/Daggett"
-DAL,"Dallas, TX: Dallas Love Field"
-DAN,"Danville, VA: Danville Regional"
-DAY,"Dayton, OH: James M Cox/Dayton International"
-DBN,"Dublin, GA: W H Bud Barron"
-DBQ,"Dubuque, IA: Dubuque Regional"
-DCA,"Washington, DC: Ronald Reagan Washington National"
-DCK,"Dahl Creek, AK: Dahl Creek Airport"
-DCU,"Decatur, AL: Pryor Field Regional"
-DDC,"Dodge City, KS: Dodge City Regional"
-DE2,"Middletown, DE: Summit"
-DE3,"Dover-Cheswold, DE: Delware Airpark"
-DEC,"Decatur, IL: Decatur Airport"
-DEH,"Decorah, IA: Decorah Municipal"
-DEN,"Denver, CO: Denver International"
-DET,"Detroit, MI: Coleman A. Young Municipal"
-DFI,"Defiance, OH: Defiance Memorial"
-DFW,"Dallas/Fort Worth, TX: Dallas/Fort Worth International"
-DGB,"Danger Bay, AK: Danger Bay Airport"
-DGW,"Douglas, WY: Converse County"
-DHB,"Deer Harbor, WA: Deer Harbor Marina"
-DHN,"Dothan, AL: Dothan Regional"
-DHT,"Dalhart, TX: Dalhart Municipal"
-DIK,"Dickinson, ND: Dickinson - Theodore Roosevelt Regional"
-DIO,"Diomede Island, AK: Diomede Heliport"
-DJN,"Delta Junction, AK: Delta Junction Airport"
-DKK,"Dunkirk, NY: Chautauqua County/Dunkirk"
-DLF,"Del Rio, TX: Laughlin AFB"
-DLG,"Dillingham, AK: Dillingham Airport"
-DLH,"Duluth, MN: Duluth International"
-DLL,"Dillon, SC: Dillon County"
-DLO,"Dolomi, AK: Dolomi Airport"
-DLS,"The Dalles, OR: Columbia Gorge Regional/The Dalles Municipal"
-DMA,"Tucson, AZ: Davis Monthan AFB"
-DMN,"Deming, NM: Deming Municipal"
-DMO,"Sedalia, MO: Sedalia Regional"
-DNC,"Duncan Canal, AK: Duncan Canal Airport"
-DNE,"Dallas/Fort Worth, TX: Dallas North"
-DNL,"Augusta, GA: Daniel Field"
-DNN,"Dalton, GA: Dalton Municipal"
-DNV,"Danville, IL: Vermilion Regional"
-DOF,"Dora Bay, AK: Dora Bay Airport"
-DOV,"Dover, DE: Dover AFB"
-DPA,"Chicago, IL: Du Page County"
-DPG,"Dugway, UT: Michael AAF"
-DQC,"Sebastian, FL: Sebastian Municipal"
-DQD,"Soda Springs, ID: Allen H Tigert"
-DQE,"Holtville, CA: Holtville Airport"
-DQF,"Phoenix, AZ: Williams Gateway"
-DQH,"Alpine, AK: Alpine Airstrip"
-DQI,"Colusa, CA: Colusa County"
-DQJ,"Killdeer, ND: Dunn County Weydahl Field"
-DQK,"Fort Drum, NY: Wheeler-Sack AAF"
-DQL,"Anchorage, AK: Lake Hood"
-DQN,"New Smyrna Beach, FL: New Smyrna Beach Municipal Jack Bolt Field"
-DQO,"Delhi, LA: Delhi Municipal"
-DQP,"Georgetown, KY: Marshall Field"
-DQQ,"Cozad, NE: Cozad Municipal"
-DQR,"Peach Springs, AZ: Grand Canyon West"
-DQS,"Whitmore, AZ: Grand Canyon Bar Ten Airstrip"
-DQU,"Ketchikan, AK: Neets Bay"
-DQV,"Haines, AK: Glacier Point"
-DQW,"Peach Springs, AZ: Hualapai"
-DQX,"Tsui River, AK: Tsui River Airport"
-DQY,"Cape Canaveral, FL: Cape Canaveral Sfs Skid Strip"
-DQZ,"Platinum, AK: Platinum Mine"
-DRA,"Mercury, NV: Desert Rock"
-DRE,"Drummond Island, MI: Drummond Island Airport"
-DRF,"Drift River, AK: Drift River Airport"
-DRG,"Deering, AK: Deering Airport"
-DRO,"Durango, CO: Durango La Plata County"
-DRT,"Del Rio, TX: Del Rio International"
-DRU,"Drummond, MT: Drummond Airport"
-DSI,"Destin, FL: Destin Executive"
-DSM,"Des Moines, IA: Des Moines International"
-DTA,"Delta, UT: Delta Municipal"
-DTH,"Death Valley, CA: Furnace Creek"
-DTL,"Detroit Lakes, MN: Detroit Lakes-Wething Field"
-DTN,"Shreveport, LA: Shreveport Downtown"
-DTO,"Denton, TX: Denton Enterprise"
-DTR,"Decatur Island, WA: Decatur"
-DTT,"Detroit, MI: Detroit Metropolitan Area"
-DTW,"Detroit, MI: Detroit Metro Wayne County"
-DUA,"Durant, OK: Eaker Field"
-DUC,"Duncan, OK: Halliburton Field"
-DUF,"Duck, NC: Pine Island"
-DUG,"Douglas, AZ: Bisbee Douglas International"
-DUJ,"DuBois, PA: DuBois Regional"
-DUT,"Unalaska, AK: Unalaska Airport"
-DVL,"Devils Lake, ND: Devils Lake Regional"
-DVN,"Davenport, IA: Davenport Municipal"
-DVT,"Phoenix, AZ: Phoenix - Deer Valley"
-DWA,"Davis/Woodland/Winters, CA: Yolo County"
-DWH,"Houston, TX: David Wayne Hooks Memorial"
-DWS,"Orlando, FL: Walt Disney World"
-DXR,"Danbury, CT: Danbury Municipal"
-DYL,"Doylestown, PA: Doylestown Airport"
-DYS,"Abilene, TX: Dyess AFB"
-EAA,"Eagle, AK: Eagle Airport"
-EAG,"Noatak, AK: Eagle Creek Strip"
-EAN,"Wheatland, WY: Phifer Airfield"
-EAR,"Kearney, NE: Kearney Regional"
-EAT,"Wenatchee, WA: Pangborn Memorial"
-EAU,"Eau Claire, WI: Chippewa Valley Regional"
-ECA,"East Tawas, MI: Iosco County"
-ECG,"Elizabeth City, NC: Elizabeth City CGAS/Regional"
-ECP,"Panama City, FL: Northwest Florida Beaches International"
-ECS,"Newcastle, WY: Mondell Field"
-ECU,"Rocksprings, TX: Edwards County"
-EDA,"Edna Bay, AK: Edna Bay Airport"
-EDE,"Edenton, NC: Northeastern Regional"
-EDF,"Anchorage, AK: Elmendorf AFB"
-EDW,"Edwards, CA: Edwards AFB"
-EED,"Needles, CA: Needles Airport"
-EEK,"Eek, AK: Eek Airport"
-EEN,"Keene, NH: Dillant Hopkins"
-EFB,"Eight Fathom Bight, AK: Eight Fathom Bight Airport"
-EFD,"Houston, TX: Ellington"
-EFK,"Newport, VT: Northeast Kingdom International"
-EGA,"Chenega, AK: Chenega Airport"
-EGE,"Eagle, CO: Eagle County Regional"
-EGI,"Crestview, FL: Duke Field"
-EGP,"Eagle Pass, TX: Eagle Pass Municipal"
-EGT,"Wellington, KS: Wellington Municipal"
-EGV,"Eagle River, WI: Eagle River Union"
-EGX,"Egegik, AK: Egegik Airport"
-EHM,"Cape Newenham, AK: Cape Newenham LRRS"
-EHR,"Eagle Harbor, AK: Eagle Harbor Airport"
-EHT,"East Hartford, CT: Rentschler Heliport"
-EIL,"Fairbanks, AK: Eielson AFB"
-EKA,"Eureka, CA: Murray Field"
-EKI,"Elkhart, IN: Elkhart Municipal"
-EKN,"Elkins, WV: Elkins Randolph County"
-EKO,"Elko, NV: Elko Regional"
-EKX,"Elizabethtown, KY: Addington Field"
-EKY,"Bessemer, AL: Bessemer Ntl"
-ELA,"Eagle Lake, TX: Eagle Lake Airport"
-ELD,"El Dorado, AR: South Arkansas Regional at Goodwin Field"
-ELI,"Elim, AK: Elim Airport"
-ELM,"Elmira/Corning, NY: Elmira/Corning Regional"
-ELN,"Ellensburg, WA: Bowers Field"
-ELP,"El Paso, TX: El Paso International"
-ELV,"Elfin Cove, AK: Elfin Cove Seaplane Base"
-ELW,"Ellamar, AK: Ellamar Seaplane Base"
-ELY,"Ely, NV: Ely Airport/Yelland Field"
-EMK,"Emmonak, AK: Emmonak Airport"
-EMM,"Kemmerer, WY: Kemmerer Municipal"
-EMP,"Emporia, KS: Emporia Municipal"
-EMT,"El Monte, CA: San Gabriel Valley"
-ENA,"Kenai, AK: Kenai Municipal"
-END,"Enid, OK: Vance AFB"
-ENL,"Centralia, IL: Centralia Municipal"
-ENN,"Nenana, AK: Nenana Municipal"
-ENV,"Wendover, UT: Wendover Airport"
-ENW,"Kenosha, WI: Kenosha Regional"
-EOK,"Keokuk, IA: Keokuk Municipal"
-EPH,"Ephrata/Moses Lake, WA: Ephrata Municipal"
-ERI,"Erie, PA: Erie International/Tom Ridge Field"
-ERV,"Kerrville, TX: Kerrville Municipal/Louis Schreiner Field"
-ESC,"Escanaba, MI: Delta County"
-ESD,"Eastsound, WA: Orcas Island"
-ESF,"Alexandria, LA: Esler Regional"
-ESN,"Easton, MD: Easton/Newnam Field"
-ESP,"Stroudsburg, PA: Stroudsburg Pocono"
-EST,"Estherville, IA: Estherville Municipal"
-ETB,"West Bend, WI: West Bend Municipal"
-ETN,"Eastland, TX: Eastland Municipal"
-ETS,"Enterprise, AL: Enterprise Municipal"
-EUE,"Eureka, NV: Eureka Airport"
-EUF,"Eufaula, AL: Weedon Field"
-EUG,"Eugene, OR: Mahlon Sweet Field"
-EVC,"Eva Creek, AK: Eva Creek Airport"
-EVM,"Eveleth, MN: Eveleth Virginia Municipal"
-EVV,"Evansville, IN: Evansville Regional"
-EVW,"Evanston, WY: Evanston-Uinta County Burns Field"
-EWB,"New Bedford/Fall River, MA: New Bedford Regional"
-EWK,"Newton, KS: Newton City County"
-EWN,"New Bern/Morehead/Beaufort, NC: Coastal Carolina Regional"
-EWR,"Newark, NJ: Newark Liberty International"
-EWU,"Mertarvik, AK: Newtok"
-EXI,"Excursion Inlet, AK: Excursion Inlet Seaplane Base"
-EYW,"Key West, FL: Key West International"
-F70,"Murrieta/Temecula, CA: French Valley"
-FAI,"Fairbanks, AK: Fairbanks International"
-FAK,"False Island, AK: False Island Airport"
-FAL,"Roma, TX: Falcon State Park"
-FAM,"Farmington, MO: Farmington Regional"
-FAR,"Fargo, ND: Hector International"
-FAT,"Fresno, CA: Fresno Yosemite International"
-FAU,"Fairmount Island, AK: Fairmount Island Airport"
-FAY,"Fayetteville, NC: Fayetteville Regional/Grannis Field"
-FBG,"Fort Bragg, NC: Simmons AAF"
-FBK,"Fairbanks, AK: Ladd AAF"
-FBR,"Fort Bridger, WY: Fort Bridger Airport"
-FBS,"Friday Harbor, WA: Friday Harbor Seaplane Base"
-FCA,"Kalispell, MT: Glacier Park International"
-FCH,"Fresno, CA: Fresno Chandler Executive"
-FCM,"Minneapolis, MN: Flying Cloud"
-FCS,"Colorado Springs, CO: Butts AHP"
-FDK,"Frederick, MD: Frederick Municipal"
-FDR,"Frederick, OK: Frederick Regional"
-FDY,"Findlay, OH: Findlay Airport"
-FEP,"Freeport, IL: Albertus"
-FET,"Fremont, NE: Fremont Municipal"
-FEW,"Cheyenne, WY: Francis E. Warren AFB Heliport"
-FFL,"Fairfield, IA: Fairfield Municipal"
-FFM,"Fergus Falls, MN: Fergus Falls Municipal-Einar Mickelson Field"
-FFO,"Dayton, OH: Wright-Patterson AFB"
-FFT,"Frankfort, KY: Capital City"
-FHB,"Fernandina Beach, FL: Fernandina Beach Municipal"
-FHU,"Fort Huachuca, AZ: Sierra Vista Municipal-Libby AAF"
-FIC,"Fire Cove, AK: Fire Cove Airport"
-FID,"Fishers Island, NY: Elizabeth Field"
-FIL,"Fillmore, UT: Fillmore Municipal"
-FKL,"Franklin/Oil City, PA: Venango Regional"
-FL1,"Zephyrhills, FL: Zephyrhills Municipal"
-FL2,"Valkaria, FL: Valkaria Airport"
-FL3,"Chipley, FL: Vosikas"
-FL4,"Bunnell, FL: Flagler Executive"
-FL5,"Williston, FL: Williston Regional"
-FL6,"Clewiston, FL: Airglades"
-FL7,"Placida, FL: Coral Creek"
-FL8,"Deland, FL: Deland Municipal Sidney H Taylor Field"
-FL9,"Lake Wales, FL: Lake Wales Municipal"
-FLD,"Fond Du Lac, WI: Fond Du Lac County"
-FLG,"Flagstaff, AZ: Flagstaff Pulliam"
-FLJ,"Falls Bay, AK: Falls Bay Airport"
-FLL,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International"
-FLO,"Florence, SC: Florence Regional"
-FLT,"Flat, AK: Flat Airport"
-FLU,"New York, NY: Flushing"
-FLV,"Leavenworth, KS: Sherman AAF"
-FLX,"Fallon, NV: Fallon Municipal"
-FMC,"Five Mile Camp, AK: Five Mile Camp Airport"
-FME,"Fort Meade, MD: Tipton"
-FMH,"Falmouth, MA: Cape Cod CGAS"
-FMN,"Farmington, NM: Four Corners Regional"
-FMS,"Fort Madison, IA: Fort Madison Municipal"
-FMY,"Fort Myers, FL: Page Field"
-FNL,"Fort Collins/Loveland, CO: Northern Colorado Regional"
-FNR,"Funter Bay Alaska, AK: Funter Bay"
-FNT,"Flint, MI: Bishop International"
-FOA,"Fortuna Ledge, AK: Marshall Field"
-FOB,"Fort Bragg, CA: Fort Bragg Airport"
-FOD,"Fort Dodge, IA: Fort Dodge Regional"
-FOE,"Topeka, KS: Topeka Regional"
-FOK,"Westhampton, NY: Francis S. Gabreski"
-FPR,"Fort Pierce, FL: Treasure Coast International"
-FPY,"Perry, FL: Perry-Foley"
-FQA,"Patching Lake, AK: Patching Lake Airport"
-FQB,"Ventura, CA: San Nicolas Island NOLF"
-FQC,"Kodiak, AK: Lilly Lake"
-FQD,"Katmai National Park, AK: Trident Volcano"
-FQE,"Annex Creek, AK: Annex Creek Airport"
-FQF,"Davidson Creek, AK: Davidson Creek Airport"
-FQG,"Snettisham, AK: Snettisham Airport"
-FQH,"Fire Island, AK: Fire Island Airport"
-FQI,"Scott, KY: Georgetown Scott County Regional"
-FQJ,"Greens Creek, AK: Greens Creek Airport"
-FQK,"Gull Cove, AK: Gull Cove Airport"
-FQL,"Flora, IL: Flora Municipal"
-FQN,"Karta Lake, AK: Karta Lake Airport"
-FQO,"Manzanita Lake, AK: Manzanita Lake Airport"
-FQP,"Shrimp Bay, AK: Shrimp Bay Airport"
-FQQ,"Dry Bay, AK: Dry Bay Airport"
-FQR,"Josephine Lake, AK: Josephine Lake Airport"
-FQU,"Libby, MT: Libby Airport"
-FQV,"Volcano Bay, AK: Volcano Bay Airport"
-FQW,"Fort Glenn, AK: Fort Glenn Airport"
-FQX,"Babe Islands, AK: Babe Islands Airport"
-FQY,"Kahli Cove, AK: Kahli Cove Airport"
-FRD,"Friday Harbor, WA: Friday Harbor Airport"
-FRG,"East Farmingdale, NY: Republic"
-FRH,"French Lick, IN: French Lick Municipal"
-FRM,"Fairmont, MN: Fairmont Municipal"
-FRP,"Fresh Water Bay, AK: Fresh Water Bay Airport"
-FRR,"Front Royal, VA: Front Royal-Warren County"
-FRY,"Fryeburg, ME: Eastern Slopes Regional"
-FSD,"Sioux Falls, SD: Joe Foss Field"
-FSI,"Fort Sill, OK: Henry Post AAF"
-FSK,"Fort Scott, KS: Fort Scott Municipal"
-FSM,"Fort Smith, AR: Fort Smith Regional"
-FST,"Ft. Stockton, TX: Fort Stockton Pecos County"
-FTC,"Fort Collins, CO: Fort Collins Airpark"
-FTG,"Denver, CO: Colorado Air and Space Port"
-FTK,"Fort Knox, KY: Godman AAF"
-FTL,"Fortuna Ledge, AK: Fortuna Ledge Airport"
-FTW,"Dallas/Fort Worth, TX: Fort Worth Meacham International"
-FTY,"Atlanta, GA: Fulton County Exec Charlie Brown Field"
-FUL,"Fullerton, CA: Fullerton Municipal"
-FVA,"Osprey Lodge, AK: Osprey Lodge Airport"
-FVD,"Sonora, TX: Sonora Municipal"
-FVE,"Fallbrook, CA: Fallbrook Community Airpark"
-FVG,"Wickenburg, AZ: Wickenburg Municipal"
-FVH,"Othello, WA: Othello Municipal"
-FVI,"Lake Providence, LA: Byerley"
-FVL,"Colusa, CA: Colusa Airport"
-FVN,"Culbertson, MT: Big Sky Field"
-FVO,"Aurora, OR: Aurora State"
-FVP,"Quincy, CA: Gansner Field"
-FVQ,"Donlin Creek Mine, AK: Donlin Creek Mine Airport"
-FVR,"Three Forks, MT: Three Forks Airport"
-FVS,"Rexburg, ID: Rexburg-Madison County"
-FVV,"Kernville, CA: Kern Valley"
-FVW,"Golden Creek Mine, AK: Golden Creek Mine Airport"
-FVX,"Grace Harbor, AK: Grace Harbor Airport"
-FVY,"Unuk River, AK: Unuk River Airport"
-FVZ,"Deadhorse, AK: Inigok"
-FWA,"Fort Wayne, IN: Fort Wayne International"
-FWH,"Fort Worth, TX: Fort Worth NAS JRB/Carswell Field"
-FWL,"Farewell, AK: Farewell Airport"
-FWS,"Fort Worth, TX: Fort Worth Spinks"
-FXE,"Fort Lauderdale, FL: Fort Lauderdale Executive"
-FXM,"Flaxman Island, AK: Flaxman AFS"
-FXR,"Clinton, IN: Frankfort Clinton County Regional"
-FXY,"Forest City, IA: Forest City Municipal Trimble Field"
-FYU,"Fort Yukon, AK: Fort Yukon Airport"
-FYV,"Fayetteville, AR: Drake Field"
-GA0,"Eastman, GA: Heart of Georgia Regional"
-GA1,"Lafayette, GA: Barwick Lafayette"
-GA2,"Carrollton, GA: West Georgia Regional - O V Gray Field"
-GA3,"Atlanta, GA: Newnan Coweta County"
-GA4,"Jefferson, GA: Jackson County"
-GA5,"Thomson, GA: Thomson McDuffie County"
-GA6,"Canton, GA: Cherokee County Regional"
-GA7,"Greensboro, GA: Greene County Regional"
-GA8,"Monroe, GA: Cy Nunnally Memorial"
-GA9,"Cartersville, GA: Cartersville Airport"
-GAD,"Gadsden, AL: Northeast Alabama Regional"
-GAI,"Gaithersburg, MD: Montgomery County Airpark"
-GAL,"Galena, AK: Edward G. Pitka Sr."
-GAM,"Gambell, AK: Gambell Airport"
-GBA,"Goose Bay, AK: Goose Bay AAF"
-GBD,"Great Bend, KS: Great Bend Municipal"
-GBG,"Galesburg, IL: Harrel W Timmons Galesburg Regional"
-GBH,"Galbraith Lake, AK: Galbraith Lake Airport"
-GBR,"Great Barrington, MA: Walter J. Koladza"
-GCC,"Gillette, WY: Northeast Wyoming Regional"
-GCK,"Garden City, KS: Garden City Regional"
-GCN,"Grand Canyon, AZ: Grand Canyon National Park"
-GCY,"Greeneville, TN: Municipal"
-GDC,"Greenville, SC: Donaldson Field"
-GDH,"Golden Horn Lodge, AK: Golden Horn Lodge Seaplane Base"
-GDM,"Gardner, MA: Gardner Municipal"
-GDV,"Glendive, MT: Dawson Community"
-GDW,"Gladwin, MI: Gladwin Zettel Memorial"
-GED,"Georgetown, DE: Delaware Coastal"
-GEG,"Spokane, WA: Spokane International"
-GEK,"Ganes Creek, AK: Ganes Creek Airport"
-GEY,"Greybull, WY: South Big Horn County"
-GEZ,"Shelbyville, IN: Shelbyville Municipal"
-GFA,"Great Falls, MT: Malmstrom AFB Heliport"
-GFB,"Togiak Fish, AK: Togiak Fish Airport"
-GFK,"Grand Forks, ND: Grand Forks International"
-GFL,"Glens Falls, NY: Floyd Bennett Memorial"
-GGE,"Georgetown, SC: Georgetown County"
-GGG,"Longview, TX: East Texas Regional"
-GGW,"Glasgow, MT: Wokal Field Glasgow Valley County"
-GJT,"Grand Junction, CO: Grand Junction Regional"
-GKN,"Gulkana, AK: Gulkana Airport"
-GLD,"Goodland, KS: Renner Field Goodland Municipal"
-GLE,"Gainesville, TX: Gainesville Municipal"
-GLH,"Greenville, MS: Greenville Mid Delta"
-GLQ,"Glennallen, AK: Glennallen Airport"
-GLR,"Gaylord, MI: Gaylord Regional"
-GLS,"Galveston, TX: Scholes International at Galveston"
-GLV,"Golovin, AK: Golovin Airport"
-GLW,"Glasgow, KY: Glasgow Municipal"
-GMT,"Granite Mountain, AK: Granite Mountain AS"
-GMU,"Greenville, SC: Greenville Downtown"
-GNT,"Grants, NM: Grants Milan Municipal"
-GNU,"Goodnews Bay, AK: Goodnews"
-GNV,"Gainesville, FL: Gainesville Regional"
-GOL,"Gold Beach, OR: Gold Beach Municipal"
-GON,"New London/Groton, CT: Groton-New London"
-GPM,"Grand Prairie, TX: Grand Prairie Municipal"
-GPT,"Gulfport/Biloxi, MS: Gulfport-Biloxi International"
-GPZ,"Grand Rapids, MN: Grand Rapids/Itasca County-Gordon Newstrom Field"
-GQQ,"Galion, OH: Horning"
-GRB,"Green Bay, WI: Green Bay Austin Straubel International"
-GRD,"Greenwood, SC: Greenwood County"
-GRF,"Tacoma, WA: Gray AAF"
-GRI,"Grand Island, NE: Central Nebraska Regional"
-GRK,"Killeen, TX: Robert Gray AAF"
-GRR,"Grand Rapids, MI: Gerald R. Ford International"
-GSB,"Goldsboro, NC: Seymour Johnson AFB"
-GSH,"Goshen, IN: Goshen Municipal"
-GSO,"Greensboro/High Point, NC: Piedmont Triad International"
-GSP,"Greer, SC: Greenville-Spartanburg International"
-GST,"Gustavus, AK: Gustavus Airport"
-GSW,"Dallas/Fort Worth, TX: Greater Southwest International"
-GTF,"Great Falls, MT: Great Falls International"
-GTR,"Columbus, MS: Golden Triangle Regional"
-GTU,"Georgetown, TX: Georgetown Exec"
-GTY,"Gettysburg, PA: Gettysburg Regional"
-GUC,"Gunnison, CO: Gunnison-Crested Butte Regional"
-GUF,"Gulf Shores, AL: Gulf Shores International Jack Edwards Field"
-GUP,"Gallup, NM: Gallup Municipal"
-GUS,"Peru, IN: Grissom ARB"
-GUY,"Guymon, OK: Guymon Municipal"
-GVE,"Gordonville, VA: Gordonsville Municipal"
-GVL,"Gainesville, GA: Lee Gilmer Memorial"
-GVQ,"Batavia, NY: Genesee County"
-GVT,"Greenville, TX: Majors"
-GVW,"Grandview, MO: Richards/Gebaur AFB"
-GWI,"Gwinner, ND: Gwinner Municipal"
-GWO,"Greenwood, MS: Greenwood/Leflore"
-GWR,"Gwinner, ND: Gwinner-Roger Melroe Field"
-GWS,"Glenwood Springs, CO: Kgws Sumers Airpark"
-GYR,"Goodyear, AZ: Phoenix Goodyear"
-GYY,"Gary, IN: Gary/Chicago International"
-HAB,"Hamilton, AL: Marion County"
-HAE,"Havasupai, AZ: Havasupai Airport"
-HAF,"Half Moon Bay, CA: Half Moon Bay Airport"
-HAO,"Hamilton, OH: Butler County Regional Hogan Field"
-HAR,"Harrisburg, PA: Capital City"
-HAY,"Haycock, AK: Haycock Airport"
-HBC,"Hanus Bay, AK: Hanus Bay Airport"
-HBG,"Hattiesburg, MS: Hattiesburg Bobby L. Chain Municipal"
-HBH,"Hobart Bay, AK: Hobart Bay Airport"
-HBV,"Hebbronville, TX: Jim Hogg County"
-HBY,"Hood Bay, AK: Hood Bay Airport"
-HCA,"Big Spring, TX: Howard County"
-HCB,"Shoal Cove, AK: Shoal Cove Airport"
-HCR,"Holy Cross, AK: Holy Cross Airport"
-HCW,"Cheraw, SC: Cheraw Municipal/Lynch Bellinger Field"
-HDA,"Hidden Falls, AK: Hidden Falls Airport"
-HDE,"Holdrege, NE: Brewster Field"
-HDH,"Mokuleia, HI: Dillingham"
-HDN,"Hayden, CO: Yampa Valley"
-HED,"Herendeen, AK: Herendeen Bay"
-HES,"Hermiston, OR: Hermiston Municipal"
-HEZ,"Natchez, MS: Hardy-Anders Field Natchez-Adams County"
-HFD,"Hartford, CT: Hartford Brainard"
-HFF,"Hoffman, NC: Mackall AAF"
-HGR,"Hagerstown, MD: Hagerstown Regional-Richard A. Henson Field"
-HGZ,"Hogatza, AK: Hogatza Airport"
-HHH,"Hilton Head, SC: Hilton Head Airport"
-HHR,"Hawthorne, CA: Jack Northrop Field/Hawthorne Municipal"
-HIB,"Hibbing, MN: Range Regional"
-HIE,"Whitefield, NH: Mount Washington Regional"
-HIF,"Ogden, UT: Hill AFB"
-HII,"Lake Havasu City, AZ: Lake Havasu City Airport"
-HIK,"Honolulu, HI: Daniel K Inouye International"
-HIO,"Hillsboro, OR: Portland Hillsboro"
-HKA,"Blytheville, AR: Blytheville Municipal"
-HKB,"Healy, AK: Healy River"
-HKP,"Kaanapali, HI: Kaanapali Airport"
-HKS,"Jackson, MS: Hawkins Field"
-HKY,"Hickory, NC: Hickory Regional"
-HLG,"Wheeling, WV: Wheeling Ohio County"
-HLI,"Hollister, CA: Hollister Municipal"
-HLM,"Holland, MI: Park Township"
-HLN,"Helena, MT: Helena Regional"
-HLO,"Holbrook, AZ: Holbrook Municipal"
-HMN,"Alamogordo, NM: Holloman AFB"
-HMS,"Homeshore, AK: Homeshore Airport"
-HMT,"Hemet, CA: Hemet-Ryan"
-HNB,"Huntingburg, IN: Huntingburg Airport"
-HNC,"Hatteras, NC: Billy Mitchell"
-HNH,"Hoonah, AK: Hoonah Airport"
-HNL,"Honolulu, HI: Daniel K Inouye International"
-HNM,"Hana, HI: Hana Airport"
-HNS,"Haines, AK: Haines Airport"
-HOB,"Hobbs, NM: Lea County Regional"
-HOL,"Holikachuk, AK: Holikachuk Airport"
-HOM,"Homer, AK: Homer Airport"
-HON,"Huron, SD: Huron Regional"
-HOP,"Hopkinsville, KY: Campbell AAF"
-HOT,"Hot Springs, AR: Memorial Field"
-HOU,"Houston, TX: William P Hobby"
-HPB,"Hooper Bay, AK: Hooper Bay Airport"
-HPN,"White Plains, NY: Westchester County"
-HPT,"Hampton, IA: Hampton Municipal"
-HPV,"Hanalei, HI: Princeville"
-HPY,"Baytown, TX: Baytown Airport"
-HQM,"Hoquiam, WA: Bowerman Field"
-HRL,"Harlingen/San Benito, TX: Valley International"
-HRO,"Harrison, AR: Boone County"
-HSH,"Las Vegas, NV: Henderson Executive"
-HSI,"Hastings, NE: Hastings Municipal"
-HSL,"Huslia, AK: Huslia Airport"
-HSP,"Hot Springs, VA: Ingalls Field"
-HST,"Homestead, FL: Homestead ARB"
-HSV,"Huntsville, AL: Huntsville International-Carl T Jones Field"
-HTH,"Hawthorne, NV: Hawthorne Industrial"
-HTO,"East Hampton, NY: East Hampton Town"
-HTS,"Ashland, WV: Tri-State/Milton J. Ferguson Field"
-HTV,"Huntsville, TX: Huntsville Municipal"
-HUA,"Huntsville, AL: Redstone AAF"
-HUF,"Terre Haute, IN: Terre Haute Regional"
-HUL,"Houlton, ME: Houlton International"
-HUM,"Houma, LA: Houma Terrebonne"
-HUS,"Hughes, AK: Hughes Airport"
-HUT,"Hutchinson, KS: Hutchinson Regional"
-HVC,"Hopkinsville, KY: Hopkinsville-Christian County"
-HVN,"New Haven, CT: Tweed New Haven"
-HVR,"Havre, MT: Havre City-County"
-HVS,"Hartsville, SC: Hartsville Regional"
-HWD,"Hayward, CA: Hayward Executive"
-HWI,"Hawk Inlet, AK: Hawk Inlet Airport"
-HYA,"Hyannis, MA: Cape Cod Gateway"
-HYG,"Hydaburg, AK: Hydaburg Seaplane Base"
-HYL,"Hollis, AK: Hollis Seaplane Base"
-HYR,"Hayward, WI: Sawyer County"
-HYS,"Hays, KS: Hays Regional"
-HZL,"Hazleton, PA: Hazleton Regional"
-IA1,"Shenandoah, IA: Shenandoah Municipal"
-IA2,"Webster City, IA: Webster City Municipal"
-IA3,"Red Oak, IA: Red Oak Municipal"
-IA4,"Pella, IA: Pella Municipal"
-IAB,"Wichita, KS: McConnell AFB"
-IAD,"Washington, DC: Washington Dulles International"
-IAG,"Niagara Falls, NY: Niagara Falls International"
-IAH,"Houston, TX: George Bush Intercontinental/Houston"
-IAN,"Kiana, AK: Bob Baker Memorial"
-ICT,"Wichita, KS: Wichita Dwight D Eisenhower National"
-ICY,"Icy Bay, AK: Icy Bay Airport"
-ID1,"Driggs, ID: Driggs-Reed Memorial"
-ID2,"Montpelier, ID: Montpelier Airport"
-ID3,"Sandpoint, ID: Sandpoint Airport"
-ID4,"Caldwell, ID: Caldwell Exec"
-IDA,"Idaho Falls, ID: Idaho Falls Regional"
-IDI,"Indiana, PA: Indiana County Jimmy Stewart Field"
-IDP,"Independence, KS: Independence Municipal"
-IFP,"Bullhead City, AZ: Laughlin/Bullhead International"
-IGG,"Igiugig, AK: Igiugig Airport"
-IGM,"Kingman, AZ: Kingman Airport"
-IGX,"Chapel Hill, NC: Horace Williams"
-II1,"Rantoul, IL: Rantoul National Aviation Center"
-II2,"Chicago/Romeoville, IL: Lewis University"
-II3,"De Kalb, IL: De Kalb Taylor Municipal"
-II4,"Lincoln, IL: Logan County"
-IJX,"Jacksonville, IL: Jacksonville Municipal"
-IKB,"Wilkesboro, NC: Wilkes County"
-IKK,"Kankakee, IL: Greater Kankakee"
-IKO,"Nikolski, AK: Nikolski AS"
-IKV,"Ankeny, IA: Ankeny Regional"
-IL2,"Effingham, IL: Effingham County Regional"
-IL3,"Litchfield, IL: Litchfield Municipal"
-IL4,"Pittsfield, IL: Pittsfield Penstone Municipal"
-ILE,"Killeen, TX: Skylark Field"
-ILG,"Wilmington, DE: New Castle"
-ILI,"Iliamna, AK: Iliamna Airport"
-ILL,"Willmar, MN: Willmar Municipal"
-ILM,"Wilmington, NC: Wilmington International"
-ILN,"Wilmington, OH: Wilmington Air Park"
-IML,"Imperial, NE: Imperial Municipal"
-IMM,"Immokalee, FL: Immokalee Regional"
-IMT,"Iron Mountain/Kingsfd, MI: Ford"
-IN1,"Auburn, IN: De Kalb County"
-IN2,"Indianapolis, IN: Indianapolis Executive"
-IN3,"Indianapolis, IN: Indianapolis Metro"
-IN4,"Indianapolis, IN: Eagle Creek Airpark"
-IN6,"Jeffersonville, IN: Clark Regional"
-IN7,"Indianapolis, IN: Indy South Greenwood"
-IN9,"Washington, IN: Daviess County"
-IND,"Indianapolis, IN: Indianapolis International"
-INL,"International Falls, MN: Falls International Einarson Field"
-INR,"Sault Ste. Marie, MI: Kincheloe AFB"
-INS,"Indian Springs, NV: Creech AFB"
-INT,"Winston-Salem, NC: Smith Reynolds"
-INW,"Winslow, AZ: Winslow-Lindbergh Regional"
-IOW,"Iowa City, IA: Iowa City Municipal"
-IPL,"El Centro, CA: Imperial County"
-IPT,"Williamsport, PA: Williamsport Regional"
-IRC,"Circle, AK: Circle City"
-IRK,"Kirksville, MO: Kirksville Regional"
-IRS,"Sturgis, MI: Sturgis Airport"
-IRV,"Bayou La Batre, AL: Roy E. Ray"
-ISM,"Orlando, FL: Kissimmee Gateway"
-ISN,"Williston, ND: Sloulin Field International"
-ISO,"Kinston, NC: Kinston Regional Jetport at Stallings Field"
-ISP,"Islip, NY: Long Island MacArthur"
-ISQ,"Manistique, MI: Schoolcraft County"
-ISS,"Wiscasset, ME: Wiscasset Airport"
-ISW,"Wisconsin Rapids, WI: Alexander Field South Wood County"
-ITH,"Ithaca/Cortland, NY: Ithaca Tompkins International"
-ITO,"Hilo, HI: Hilo International"
-IWD,"Ironwood, MI: Gogebic-Iron County"
-IWS,"Houston, TX: West Houston"
-IYK,"Inyokern, CA: Inyokern Airport"
-JAC,"Jackson, WY: Jackson Hole"
-JAJ,"Atlanta, GA: Perimeter Mall Helipad"
-JAN,"Jackson/Vicksburg, MS: Jackson Medgar Wiley Evers International"
-JAO,"Atlanta, GA: Beaver Ruin"
-JAX,"Jacksonville, FL: Jacksonville International"
-JBC,"Boston, MA: Boston City Heliport"
-JBK,"Oakland, CA: Berkeley Municipal Heliport"
-JBP,"Commerce, CA: Commerce Business Park Heliport"
-JBR,"Jonesboro, AR: Jonesboro Municipal"
-JCC,"San Francisco, CA: China Basin Heliport"
-JCE,"Oakland, CA: Oakland Convention Center Heliport"
-JCI,"Olathe, KS: New Century Aircenter"
-JCT,"Junction, TX: Kimble County"
-JDA,"John Day, OR: Grant County Regional/Ogilvie Field"
-JDB,"Dallas/Fort Worth, TX: Downtown Heliport"
-JDG,"Seattle, WA: Edgewater Inn Helipad Sea Wash"
-JDM,"Miami, FL: Miami Downtown Heliport"
-JDT,"Minneapolis, MN: Minneapolis Heliport"
-JDX,"Houston, TX: Houston Central Business District Heliport"
-JEF,"Jefferson City, MO: Jefferson City Memorial"
-JFB,"Seattle, WA: Seattle 1st National.Bank Helipad"
-JFK,"New York, NY: John F. Kennedy International"
-JFN,"Jefferson, OH: Northeast Ohio Regional"
-JGC,"Grand Canyon, AZ: Grand Canyon Heliport"
-JGG,"Williamsburg, VA: Waltrip Williamsburg Exec"
-JGL,"Atlanta, GA: Galleria"
-JGP,"Houston, TX: Greenway Plaza Heliport"
-JGQ,"Houston, TX: Transco Tower Galleria Heliport"
-JHC,"Garden City, NY: Island Heliport"
-JHM,"Kapalua, HI: Kapalua Airport"
-JHW,"Jamestown, NY: Chautauqua County/Jamestown"
-JHY,"Cambridge, MA: Cambridge Airport"
-JID,"City of Industry, CA: Civic Financial Center Heliport"
-JKV,"Jacksonville, TX: Cherokee County"
-JLA,"Cooper Lodge, AK: Quartz Creek"
-JLN,"Joplin, MO: Joplin Regional"
-JMA,"Houston, TX: Astrodome"
-JMC,"San Francisco, CA: Marin County Heliport"
-JMN,"Mankato, MN: Downtown Heliport"
-JMS,"Jamestown, ND: Jamestown Regional"
-JNP,"Newport Beach, CA: Newport Beach Airport"
-JNU,"Juneau, AK: Juneau International"
-JOC,"Santa Ana, CA: Centerport Heliport"
-JOR,"Orange, CA: Orange County Heliport"
-JPB,"New York, NY: Pan Am Building Heliport"
-JPT,"Houston, TX: Park Ten Helipad"
-JPX,"Wainscott, NY: East Hampton Town"
-JQF,"Concord, NC: Concord Regional"
-JRA,"New York, NY: West 30th Street Heliport"
-JRB,"New York, NY: Downtown Manhattan/Wall Street Heliport"
-JRC,"Rochester, MN: Appache Heliport"
-JRE,"New York, NY: East 60th Street Heliport"
-JRF,"Kapolei, HI: Kalaeloa"
-JSE,"Juneau, AK: Juneau Seaplane Base"
-JSK,"St. Cloud, MN: Crossroads Heliport"
-JST,"Johnstown, PA: John Murtha Johnstown-Cambria County"
-JVI,"Manville, NJ: Central Jersey Regional"
-JVL,"Beloit/Janesville, WI: Southern Wisconsin Regional"
-JWH,"Houston, TX: Westchase Heliport"
-JWY,"Midlothian/Waxahachie, TX: Mid Way Regional"
-JXN,"Jackson, MI: Jackson County-Reynolds Field"
-JYP,"Seattle, WA: Olympic Hotel Helipad Sea Wash"
-JZA,"Newton, MS: James H Easom Field"
-JZB,"Orange, MA: Orange Municipal"
-JZC,"Stanley, ND: Stanley Municipal"
-JZE,"Trading Bay, AK: Trading Bay Production"
-JZG,"Chamberlain, SD: Chamberlain Municipal"
-JZI,"Portland, TN: Douglas Hunter Field"
-JZJ,"Duluth, MN: Sky Harbor"
-JZK,"Cloquet, MN: Cloquet Carlton County"
-JZL,"San Clemente Island, CA: San Clemente Island Nalf"
-JZM,"Hog River, AK: Hog River Airport"
-JZN,"Quincy, WA: Quincy Municipal"
-JZO,"American Falls, ID: Savage Field"
-JZP,"Prospect, OR: Prospect State"
-JZQ,"Brooksville, FL: Brooksville Tampa Bay Regional"
-JZR,"Laurel, MT: Laurel Municipal"
-JZT,"Arlington, TX: Arlington Municipal"
-JZU,"Bennington, VT: William H. Morse State"
-JZV,"Little Rock, AR: North Little Rock Municipal"
-JZW,"Evergreen, AL: Evergreen Regional Middleton Field"
-JZX,"Angwin, CA: Angwin-Parrett Field"
-JZY,"Grangeville, ID: Idaho County"
-K01,"Russellville, KY: Russellville-Logan County"
-KAE,"Kake, AK: Kake Seaplane Base"
-KAL,"Kaltag, AK: Kaltag Airport"
-KBC,"Birch Creek, AK: Birch Creek Airport"
-KBE,"Bell Island, AK: Bell Island Hot Springs Seaplane Base"
-KBK,"Klag Bay, AK: Klag Bay Airport"
-KBW,"Chignik, AK: Chignik Bay"
-KCC,"Coffman Cove, AK: Coffman Cove Seaplane Base"
-KCG,"Chignik Bay, AK: Chignik Bay Airport"
-KCK,"Kansas City, KS: Fairfax Municipal"
-KCL,"Chignik Lagoon, AK: Chignik Lagoon Airport"
-KCN,"Chernofski, AK: Chernofski Harbor"
-KCQ,"Chignik, AK: Chignik Lake"
-KCR,"Colorado Creek, AK: Colorado Creek Airport"
-KDK,"Kodiak, AK: Kodiak Municipal"
-KEB,"Nanwalek, AK: Nanwalek Airport"
-KEH,"Kenmore, WA: Kenmore Air Harbor"
-KEK,"Ekwok, AK: Ekwok Airport"
-KEZ,"Key Largo, FL: Ocean Reef Club"
-KFP,"False Pass, AK: False Pass Airport"
-KGK,"Koliganek, AK: Koliganek Airport"
-KGX,"Grayling, AK: Grayling Airport"
-KGZ,"Glacier Creek, AK: Glacier Creek Airport"
-KIB,"Ivanof Bay, AK: Ivanof Bay Seaplane Base"
-KIP,"Wichita Falls, TX: Kickapoo Downtown"
-KKA,"Koyuk, AK: Koyuk Alfred Adams"
-KKB,"Kitoi Bay, AK: Kitoi Bay Airport"
-KKH,"Kongiganak, AK: Kongiganak Airport"
-KKI,"Akiachak, AK: Akiachak Airport"
-KKK,"Kalakaket, AK: Kalakaket Creek AS"
-KKL,"Karluk Lake, AK: Karluk Lake Seaplane Base"
-KKU,"Ekuk, AK: Ekuk Airport"
-KLG,"Kalskag, AK: Kalskag Airport"
-KLL,"Levelock, AK: Levelock Airport"
-KLN,"Larsen Bay, AK: Larsen Bay Airport"
-KLP,"Kelp Bay, AK: Kelp Bay Airport"
-KLS,"Kelso, WA: Southwest Washington Regional"
-KLW,"Klawock, AK: Klawock Airport"
-KMO,"Manokotak, AK: Manokatak Seaplane Base"
-KMY,"Moser Bay, AK: Moser Bay Airport"
-KNB,"Kanab, UT: Kanab Municipal"
-KNK,"Kokhanok, AK: Kokhanok Airport"
-KNT,"Kennett, MO: Kennett Memorial"
-KNW,"New Stuyahok, AK: New Stuyahok Airport"
-KOA,"Kona, HI: Ellison Onizuka Kona International at Keahole"
-KOT,"Kotlik, AK: Kotlik Airport"
-KOY,"Olga Bay, AK: Olga Bay Seaplane Base"
-KOZ,"Ouzinkie, AK: Ouzinkie Airport"
-KPB,"Point Baker, AK: Point Baker Airport"
-KPC,"Port Clarence, AK: Port Clarence CGS"
-KPH,"Pauloff Harbor, AK: Pauloff Harbor Airport"
-KPK,"Parks, AK: Parks Seaplane Base"
-KPM,"Napamute, AK: Napamute Airport"
-KPN,"Kipnuk, AK: Kipnuk Airport"
-KPR,"Port Williams, AK: Port Williams Airport"
-KPV,"Perryville, AK: Perryville Airport"
-KPY,"Port Bailey, AK: Port Bailey Airport"
-KQA,"Akutan, AK: Akutan Airport"
-KRM,"Kasitsna Bay, AK: Kasitsna"
-KS2,"Burlington, KS: Coffey County"
-KS3,"Hiawatha, KS: Hiawatha Municipal"
-KSM,"St. Mary's, AK: St. Mary's Airport"
-KSR,"Sandy River, AK: Federal No.1"
-KTB,"Thorne Bay, AK: Thorne Bay Seaplane Base"
-KTH,"Tikchik Lodge, AK: Tikchik Lodge Airport"
-KTN,"Ketchikan, AK: Ketchikan International"
-KTS,"Brevig Mission, AK: Brevig Mission Airport"
-KUK,"Kasigluk, AK: Kasigluk Airport"
-KUW,"Kugururok River, AK: Kugururok River Airport"
-KVC,"King Cove, AK: King Cove Airport"
-KVL,"Kivalina, AK: Kivalina Airport"
-KWF,"Waterfall, AK: Waterfall Seaplane Base"
-KWK,"Kwigillingok, AK: Kwigillingok Airport"
-KWN,"Quinhagak, AK: Quinhagak Airport"
-KWP,"West Point, AK: West Point Village"
-KWT,"Kwethluk, AK: Kwethluk Airport"
-KXA,"Kasaan, AK: Kasaan Seaplane Base"
-KY1,"Danville, KY: Stuart Powell Field"
-KY2,"Sturgis, KY: Sturgis Municipal"
-KY3,"Mount Sterling, KY: Mount Sterling Montgomery County"
-KY4,"Henderson, KY: Henderson City - County"
-KY5,"Madisonville, KY: Madisonville Regional"
-KY6,"Mayfield, KY: Mayfield Graves County"
-KY7,"Morehead, KY: Morehead Rowan County Clyde A Thomas Regional"
-KY8,"Stanton, KY: Stanton Airport"
-KYC,"Yankee Creek, AK: Yankee Creek 2"
-KYK,"Karluk, AK: Karluk Airport"
-KYU,"Koyukuk, AK: Koyukuk Airport"
-KZB,"Zachar Bay, AK: Zachar Bay Airport"
-KZH,"Kizhuyak, AK: Kizhuyak Airport"
-L41,"Marble Canyon, AZ: Marble Canyon Airport"
-LA1,"Notchitoches, LA: Natchitoches Regional"
-LA2,"Hammond, LA: Hammond Northshore Regional"
-LA3,"Reserve, LA: Port of South Louisiana Executive"
-LA4,"New Roads, LA: False River Regional"
-LA5,"Galliano, LA: South Lafourche Leonard Miller Jr"
-LAA,"Lamar, CO: Southeast Colorado Regional"
-LAF,"Lafayette, IN: Purdue University"
-LAL,"Lakeland, FL: Lakeland Linder International"
-LAM,"Los Alamos, NM: Los Alamos Airport"
-LAN,"Lansing, MI: Capital Region International"
-LAR,"Laramie, WY: Laramie Regional"
-LAS,"Las Vegas, NV: Harry Reid International"
-LAW,"Lawton/Fort Sill, OK: Lawton-Fort Sill Regional"
-LAX,"Los Angeles, CA: Los Angeles International"
-LBB,"Lubbock, TX: Lubbock Preston Smith International"
-LBE,"Latrobe, PA: Arnold Palmer Regional"
-LBF,"North Platte, NE: North Platte Regional Airport Lee Bird Field"
-LBL,"Liberal, KS: Liberal Mid-America Regional"
-LBT,"Lumberton, NC: Lumberton Regional"
-LCH,"Lake Charles, LA: Lake Charles Regional"
-LCI,"Laconia, NH: Laconia Municipal"
-LCK,"Columbus, OH: Rickenbacker International"
-LCQ,"Lake City, FL: Lake City Gateway"
-LDJ,"Linden, NJ: Linden Airport"
-LDM,"Ludington, MI: Mason County"
-LEB,"Lebanon-Hanover, NH: Lebanon Municipal"
-LEE,"Leesburg, FL: Leesburg International"
-LEW,"Lewiston/Auburn, ME: Auburn Lewiston Municipal"
-LEX,"Lexington, KY: Blue Grass"
-LFI,"Newport News/Hampton, VA: Langley AFB"
-LFK,"Lufkin, TX: Angelina County"
-LFT,"Lafayette, LA: Lafayette Regional Paul Fournet Field"
-LGA,"New York, NY: LaGuardia"
-LGB,"Long Beach, CA: Long Beach Airport"
-LGC,"LaGrange, GA: LaGrange-Callaway"
-LGD,"La Grande, OR: La Grande/Union County"
-LGM,"Longmont, CO: Longmont Municipal"
-LGU,"Logan, UT: Logan Cache"
-LHB,"Lost Harbor, AK: Lost Harbor Airport"
-LHQ,"Lancaster, OH: Fairfield County"
-LHU,"Lake Havasu City, AZ: Lake Havasu City Airport"
-LHV,"Lock Haven, PA: William T. Piper Memorial"
-LHX,"La Junta, CO: La Junta Municipal"
-LIC,"Limon, CO: Limon Municipal"
-LIH,"Lihue, HI: Lihue Airport"
-LIJ,"Long Island, AK: Long Island Airport"
-LIT,"Little Rock, AR: Bill and Hillary Clinton Nat Adams Field"
-LIV,"Livengood, AK: Livengood Airport"
-LIY,"Hinesville, GA: Wright AAF/Midcoast Regional"
-LIZ,"Limestone, ME: Loring International"
-LJN,"Lake Jackson, TX: Brazoria County"
-LJY,"Lebanon, MO: Floyd W Jones Lebanon"
-LKE,"Seattle, WA: Lake Union Terminal"
-LKK,"Kulik Lake, AK: Kulik Lake Airport"
-LKP,"Lake Placid, NY: Lake Placid Airport"
-LKV,"Lakeview, OR: Lake County"
-LLX,"Lyndonville, VT: Caledonia County"
-LLY,"Mount Holly, NJ: South Jersey Regional"
-LMA,"Lake Minchumina, AK: Lake Minchumina Airport"
-LMS,"Louisville, MS: Louisville Winston County"
-LMT,"Klamath Falls, OR: Crater Lake Klamath Regional"
-LNA,"West Palm Beach, FL: Palm Beach County Park"
-LND,"Lander, WY: Hunt Field"
-LNI,"Lonely, AK: Lonely AS"
-LNK,"Lincoln, NE: Lincoln Airport"
-LNL,"Land O' Lakes, WI: Kings Land O' Lakes"
-LNN,"Willoughby, OH: Lake County Executive"
-LNP,"Wise, VA: Lonesome Pine"
-LNR,"Lone Rock, WI: Tri County Regional"
-LNS,"Lancaster, PA: Lancaster Airport"
-LNT,"Lanett, AL: Lanett Regional"
-LNY,"Lanai, HI: Lanai Airport"
-LOI,"Laredo, TX: Laredo Municipal"
-LOL,"Lovelock, NV: Derby Field"
-LOT,"Chicago/Romeoville, IL: Lewis University"
-LOU,"Louisville, KY: Bowman Field"
-LOW,"Louisa, VA: Louisa County Freeman Field"
-LOZ,"London/Corbin, KY: London-Corbin Airport-Magee Field"
-LPC,"Lompoc, CA: Lompoc Airport"
-LPO,"La Porte, IN: La Porte Municipal"
-LPR,"Lorain/Elyria, OH: Lorain County Regional"
-LPS,"Lopez Island, WA: Lopez Island Airport"
-LPW,"Little Port Walter, AK: Little Port Walter Airport"
-LQK,"Pickens, SC: Pickens County"
-LRD,"Laredo, TX: Laredo International"
-LRF,"Jacksonville, AR: Little Rock AFB"
-LRG,"Loring, AK: Loring Airport"
-LRN,"Moses Lake, WA: Larson AFB"
-LRO,"Lathrop, CA: Sharpe AFF"
-LRU,"Las Cruces, NM: Las Cruces International"
-LSD,"Lexington, KY: Blue Grass Station AHP"
-LSE,"La Crosse, WI: La Crosse Regional"
-LSF,"Columbus, GA: Lawson AAF"
-LSN,"Los Banos, CA: Los Banos Municipal"
-LSR,"Lost River, AK: Lost River 1"
-LSV,"Las Vegas, NV: Nellis AFB"
-LTS,"Altus, OK: Altus AFB"
-LUF,"Phoenix, AZ: Luke AFB"
-LUK,"Cincinnati, OH: Cincinnati Municipal Lunken Field"
-LUL,"Laurel, MS: Hesler-Noble Field"
-LUP,"Kalaupapa, HI: Kalaupapa Airport"
-LUR,"Cape Lisburne, AK: Cape Lisburne LRRS"
-LVD,"Lime Village, AK: Lime Village Airport"
-LVK,"Livermore, CA: Livermore Municipal"
-LVM,"Livingston, MT: Livingston Airport"
-LVS,"Las Vegas, NM: Las Vegas Municipal"
-LWB,"Lewisburg, WV: Greenbrier Valley"
-LWC,"Lawrence, KS: Lawrence Regional"
-LWF,"Lawrenceburg, TN: Lawrenceburg-Lawrence County"
-LWL,"Wells, NV: Wells Municipal/Harriet Field"
-LWM,"Lawrence, MA: Lawrence Municipal"
-LWS,"Lewiston, ID: Lewiston Nez Perce County"
-LWT,"Lewistown, MT: Lewistown Municipal"
-LWV,"Lawrenceville, IL: Lawrenceville-Vincennes International"
-LXN,"Lexington, NE: Jim Kelly Field"
-LXV,"Leadville, CO: Lake County"
-LYH,"Lynchburg, VA: Lynchburg Regional/Preston Glenn Field"
-LYU,"Ely, MN: Ely Municipal"
-LZU,"Lawrenceville, GA: Gwinnett County - Briscoe Field"
-M91,"Springfield, TN: Springfield Robertson County"
-MA1,"Edgartown, MA: Katama Airpark"
-MA2,"Montague, MA: Turners Falls"
-MA3,"Taunton, MA: Taunton Municipal King Field"
-MA4,"Marshfield, MA: Marshfield Municipal George Harlow Field"
-MA5,"Northampton, MA: Northampton Airport"
-MA6,"Hopedale, MA: Hopedale Industrial Park"
-MAC,"Macon, GA: Macon Downtown"
-MAE,"Madera, CA: Madera Municipal"
-MAF,"Midland/Odessa, TX: Midland International Air and Space Port"
-MAW,"Malden, MO: Malden Regional"
-MBL,"Manistee/Ludington, MI: Manistee County-Blacker"
-MBS,"Saginaw/Bay City/Midland, MI: MBS International"
-MBY,"Moberley, MO: Omar N Bradley"
-MCB,"McComb, MS: McComb/Pike County/John E. Lewis Field"
-MCC,"Sacramento, CA: McClellan Airfield"
-MCD,"Mackinac Island, MI: Mackinac Island Airport"
-MCE,"Merced, CA: Merced Yosemite Regional"
-MCF,"Tampa, FL: Macdill AFB"
-MCG,"McGrath, AK: McGrath Airport"
-MCI,"Kansas City, MO: Kansas City International"
-MCK,"McCook, NE: McCook Ben Nelson Regional"
-MCL,"McKinley Park, AK: Denali"
-MCN,"Macon, GA: Middle Georgia Regional"
-MCO,"Orlando, FL: Orlando International"
-MCW,"Mason City, IA: Mason City Municipal"
-MD1,"Michellville, MD: Freeway"
-MD2,"Indian Head, MD: Maryland"
-MD3,"Churchville, MD: Harford County"
-MD4,"Aberdeen, MD: Fanatics Aberdeen Fulfillment Center"
-MD5,"Baltimore, MD: Johns Hopkins Hosp Crit Care Twr Heliport"
-MD6,"Elkton, MD: Claremont"
-MDA,"San Antonio, TX: Martindale AHP"
-MDD,"Midland/Odessa, TX: Midland Airpark"
-MDF,"Medford, WI: Taylor County"
-MDH,"Carbondale, IL: Southern Illinois"
-MDJ,"Madras, OR: Madras Municipal"
-MDN,"Madison, IN: Madison Municipal"
-MDO,"Middleton Island, AK: Middleton Island Airport"
-MDR,"Medfra, AK: Medfra Airport"
-MDT,"Harrisburg, PA: Harrisburg International"
-MDW,"Chicago, IL: Chicago Midway International"
-ME1,"Rangeley, ME: Stephen A Bean Municipal"
-ME2,"Islesboro, ME: Islesboro Airport"
-ME3,"Belfast, ME: Belfast Municipal"
-ME4,"Oxford, ME: Oxford County Regional"
-ME5,"Bethel, ME: Bethel Regional"
-ME6,"Bethel2, ME: Cole Dyke"
-ME7,"Stonington, ME: Stonington Municipal"
-ME8,"Eastport, ME: Eastport Municipal"
-ME9,"Greenville, ME: Greenville Municipal"
-MEI,"Meridian, MS: Key Field"
-MEJ,"Meadville, PA: Port Meadville"
-MEM,"Memphis, TN: Memphis International"
-MEO,"Manteo, NC: Dare County Regional"
-MER,"Atwater, CA: Castle"
-MEV,"Minden, NV: Minden-Tahoe"
-MFD,"Mansfield, OH: Mansfield Lahm Regional"
-MFE,"Mission/McAllen/Edinburg, TX: McAllen International"
-MFH,"Mesquite, NV: Mesquite Airport"
-MFI,"Marshfield, WI: Marshfield Municipal"
-MFR,"Medford, OR: Rogue Valley International - Medford"
-MFT,"Fort Worth, TX: Mangham Field"
-MFV,"Melfa, VA: Accomack County"
-MGC,"Michigan City, IN: Michigan City Municipal Phillips Field"
-MGE,"Marietta, GA: Dobbins ARB"
-MGJ,"Montgomery, NY: Orange County"
-MGM,"Montgomery, AL: Montgomery Regional"
-MGR,"Moultrie/Thomasville, GA: Moultrie/Thomasville Airport"
-MGW,"Morgantown, WV: Morgantown Municipal Walter L Bill Hart Field"
-MGY,"Dayton, OH: Dayton-Wright Brothers"
-MHE,"Mitchell, SD: Mitchell Municipal"
-MHK,"Manhattan/Ft. Riley, KS: Manhattan Regional"
-MHL,"Marshall, MO: Marshall Memorial Municipal"
-MHM,"Minchumina, AK: Minchumina Airport"
-MHR,"Sacramento, CA: Sacramento Mather"
-MHT,"Manchester, NH: Manchester Boston Regional"
-MHV,"Mojave, CA: Mojave Air and Space Port Rutan Field"
-MI1,"Greenville, MI: Greenville Municipal"
-MI2,"Holland, MI: West Michigan Regional"
-MI3,"Howell, MI: Livingston County Spencer J. Hardy"
-MI4,"Frankfort, MI: Frankfort Dow Memorial Field"
-MI5,"Boyne Falls, MI: Boyne Mountain"
-MI6,"Dowagiac, MI: Dowagiac Municipal"
-MI7,"South Haven, MI: South Haven Area Regional"
-MIA,"Miami, FL: Miami International"
-MIB,"Minot, ND: Minot AFB"
-MIC,"Minneapolis, MN: Crystal"
-MIE,"Muncie/Anderson/Newcastle, IN: Delaware County Regional"
-MIO,"Miami, OK: Miami Regional"
-MIQ,"Omaha, NE: Millard"
-MIT,"Shafter, CA: Shafter - Minter Field"
-MIV,"Millville, NJ: Millville Municipal"
-MIW,"Marshalltown, IA: Marshalltown Municipal"
-MJQ,"Jackson, MN: Jackson Airport"
-MJX,"Toms River, NJ: Ocean County"
-MKC,"Kansas City, MO: Kansas City Downtown Wheeler Field"
-MKE,"Milwaukee, WI: General Mitchell International"
-MKG,"Muskegon, MI: Muskegon County"
-MKK,"Hoolehua, HI: Molokai"
-MKL,"Jackson, TN: Jackson Regional"
-MKN,"Comanche, TX: Comanche County City"
-MKO,"Muskogee, OK: Muskogee Davis Regional"
-MKT,"Mankato, MN: Mankato Regional"
-MLB,"Melbourne, FL: Melbourne Orlando International"
-MLC,"McAlester, OK: McAlester Regional"
-MLD,"Malad City, ID: Malad City Airport"
-MLF,"Milford, UT: Milford Municipal/Ben and Judy Briscoe Field"
-MLI,"Moline, IL: Quad Cities International"
-MLJ,"Milledgeville, GA: Baldwin County Regional"
-MLK,"Malta, MT: Malta Airport"
-MLL,"Marshall, AK: Marshall Don Hunter Sr."
-MLS,"Miles City, MT: Frank Wiley Field"
-MLT,"Millinocket, ME: Millinocket Municipal"
-MLU,"Monroe, LA: Monroe Regional"
-MLY,"Manley Hot Springs, AK: Manley Hot Springs Airport"
-MMH,"Mammoth Lakes, CA: Mammoth Lakes Airport"
-MMI,"Athens, TN: McMinn County"
-MML,"Marshall, MN: Southwest Minnesota Regional-Marshall/Ryan Field"
-MMN,"Stow, MA: Minute Man Air Field"
-MMT,"Columbia, SC: McEntire Jngb"
-MMU,"Morristown, NJ: Morristown Municipal"
-MN1,"Fosston, MN: Fosston Municipal Anderson Field"
-MN2,"Moose Lake, MN: Moose Lake Carlton County"
-MN3,"Ortonville, MN: Ortonville Municipal-Martinson Field"
-MN4,"Wadena, MN: Wadena Municipal"
-MN5,"Red Wing, MN: Red Wing Regional"
-MN6,"Hallock, MN: Hallock Municipal"
-MN7,"Minneapolis, MN: Anoka County Blaine"
-MN8,"Walker, MN: Walker Municipal"
-MNM,"Marinette, MI: Menominee Regional"
-MNN,"Marion, OH: Marion Municipal"
-MNT,"Minto, AK: Minto Al Wright"
-MNZ,"Manassas, VA: Manassas Regional/Harry P. Davis Field"
-MO1,"Mosby, MO: Midwest National Air Center"
-MO2,"Washington, MO: Washington Regional"
-MO3,"Richland, MO: Richland Municipal"
-MO4,"Clinton, MO: Clinton Regional"
-MO5,"Brookfield, MO: North Central Missouri Regional"
-MO6,"Lees Summit, MO: Kansas City Lees Summit Regional"
-MOB,"Mobile, AL: Mobile Regional"
-MOD,"Modesto, CA: Modesto City-County-Harry Sham Field"
-MOP,"Mount Pleasant, MI: Mount Pleasant Municipal"
-MOR,"Morristown, TN: Moore-Murrell"
-MOS,"Moses Point, AK: Moses Point Airport"
-MOT,"Minot, ND: Minot International"
-MOU,"Mountain Village, AK: Mountain Village Airport"
-MPB,"Miami, FL: Watson Island International"
-MPE,"Madison, CT: Griswold"
-MPJ,"Morrilton, AR: Petit Jean Park"
-MPO,"Mt. Pocono, PA: Pocono Mountains Regional"
-MPR,"McPherson, KS: McPherson Airport"
-MPS,"Mount Pleasant, TX: Mount Pleasant Municipal"
-MPV,"Montpelier/Barre, VT: Edward F Knapp State"
-MQB,"Macomb, IL: Macomb Municipal"
-MQI,"Quincy, MA: Quincy Airport"
-MQJ,"Indianapolis, IN: Indianapolis Regional"
-MQT,"Marquette, MI: Marquette Sawyer Regional"
-MQY,"Smyrna, TN: Smyrna Airport"
-MRB,"Martinsburg, WV: Eastern WV Regional/Shepherd Field"
-MRC,"Columbia, TN: Maury County Regional"
-MRF,"Marfa, TX: Marfa Municipal"
-MRH,"Morehead City, NC: Beaufort Morehead City"
-MRI,"Anchorage, AK: Merrill Field"
-MRK,"Marco Island, FL: Marco Island Executive"
-MRN,"Morganton, NC: Morganton Lenoir"
-MRY,"Monterey, CA: Monterey Regional"
-MS1,"Grenada, MS: Grenada Municipal"
-MS2,"Picayune, MS: Picayune Municipal"
-MS3,"Philadelphia, MS: Philadelphia Municipal"
-MS4,"Batesville, MS: Panola County"
-MS5,"Cleveland, MS: Cleveland Municipal"
-MS6,"Columbia, MS: Columbia Marion County"
-MSC,"Mesa, AZ: Falcon Field"
-MSL,"Muscle Shoals, AL: Northwest Alabama Regional"
-MSN,"Madison, WI: Dane County Regional-Truax Field"
-MSO,"Missoula, MT: Missoula Montana"
-MSP,"Minneapolis, MN: Minneapolis-St Paul International"
-MSS,"Massena, NY: Massena International-Richards Field"
-MSV,"Monticello, NY: Sullivan County International"
-MSY,"New Orleans, LA: Louis Armstrong New Orleans International"
-MT1,"Colstrip, MT: Colstrip Airport"
-MT2,"Three Forks, MT: Three Forks Airport"
-MT3,"Ennis, MT: Ennis Big Sky"
-MTC,"Mt. Clemens, MI: Selfridge Angb"
-MTH,"Marathon, FL: The Florida Keys Marathon International"
-MTJ,"Montrose/Delta, CO: Montrose Regional"
-MTM,"Metlakatla, AK: Metlakatala"
-MTN,"Baltimore, MD: Martin State"
-MTO,"Mattoon/Charleston, IL: Coles County Memorial"
-MTP,"Montauk Point, NY: Sky Portal"
-MTW,"Manitowoc, WI: Manitowoc County"
-MTX,"Fairbanks, AK: Metro Field"
-MUE,"Kamuela, HI: Waimea-Kohala"
-MUL,"Moultrie, GA: Spence"
-MUO,"Mountain Home, ID: Mountain Home AFB"
-MUT,"Muscatine, IA: Muscatine Municipal"
-MVC,"Monroeville, AL: Monroe County Aeroplex"
-MVL,"Morrisville, VT: Morrisville Stowe State"
-MVM,"Kayenta, AZ: Kayenta Airport"
-MVN,"Mount Vernon, IL: Mount Vernon Airport"
-MVW,"Burlington/Mount Vernon, WA: Skagit Regional"
-MVY,"Martha's Vineyard, MA: Martha's Vineyard Airport"
-MWA,"Marion/Herrin, IL: Veterans Airport of Southern Illinois"
-MWC,"Milwaukee, WI: Lawrence J Timmerman"
-MWH,"Moses Lake, WA: Grant County International"
-MWL,"Mineral Wells, TX: Mineral Wells Regional"
-MWM,"Windom, MN: Windom Municipal"
-MWO,"Middletown, OH: Middletown Regional/Hook Field"
-MXC,"Monticello, UT: Monticello Airport"
-MXE,"Maxton, NC: Laurinburg-Maxton"
-MXF,"Montgomery, AL: Maxwell AFB"
-MXG,"Marlboro, MA: Marlboro Airport"
-MXY,"McCarthy, AK: McCarthy Airport"
-MYF,"San Diego, CA: Montgomery Gibbs Executive"
-MYH,"Marble Canyon, AZ: Cliff Dwellers"
-MYK,"May Creek, AK: May Creek Airport"
-MYL,"McCall, ID: McCall Municipal"
-MYR,"Myrtle Beach, SC: Myrtle Beach International"
-MYU,"Mekoryuk, AK: Mekoryuk Airport"
-MYV,"Marysville, CA: Yuba County"
-MZJ,"Marana, AZ: Pinal Airpark"
-MZZ,"Marion, IN: Marion Municipal McKinney Field"
-N1C,"Cherry Point, NC: Cherry Point MCAS"
-N1J,"Hackettstown, NJ: Hackettstown Airport"
-N1Y,"Canandaigua, NY: Canandaigua Airport"
-N2C,"Monroe, NC: Charlotte Monroe Executive"
-N2J,"Reading, NJ: Solberg Hunterdon"
-N2Y,"Seneca Falls, NY: Finger Lakes Regional"
-N3C,"Franklin, NC: Macon County"
-N3Y,"Ticonderoga, NY: Ticonderoga Municipal"
-N40,"Pittstown, NJ: Sky Manor"
-N47,"Pottstown, PA: Pottstown Municipal"
-N4C,"Sanford, NC: Raleigh Exec Jetport at Sanford Lee County"
-N4Y,"Southampton, NY: Southampton Heliport"
-N5C,"Whiteville, NC: Columbus County Regional"
-N5Y,"South Bethlehem, NY: South Albany"
-N6C,"Siler City, NC: Siler City Municipal"
-N6Y,"Ellenville, NY: Joseph Y Resnick"
-N7C,"Ahoskie, NC: Tri County at Henry Joyner Field"
-N7Y,"North Haven, NY: Sbnynb"
-N87,"Robbinsville, NJ: Trenton-Robbinsville"
-N8C,"Oak Island, NC: Cape Fear Regional Jetport Howie Franklin"
-N8K,"Nikisha, AK: McGahan Industrial Park"
-N8Y,"Harriman, NY: Avie M Harriman"
-N9Y,"Auburn, NY: Murphy Field"
-NAD,"North Adams, MA: Harriman-and-West"
-NAX,"Kapolei, HI: Barbers Point NAS"
-NBG,"New Orleans, LA: New Orleans NAS JRB"
-NBJ,"Newburgh, NY: Newburgh Airport"
-NBU,"Glenview, IL: Glenview NAS"
-NC1,"Gastonia, NC: Gastonia Municipal"
-NC2,"Smithfield, NC: Johnston Regional"
-NC3,"Shelby, NC: Shelby-Cleveland County Regional"
-NC4,"Currituck, NC: Currituck County Regional"
-NC5,"Kenansville, NC: Duplin County"
-NC6,"Oxford, NC: Henderson Oxford"
-NC7,"Beaufort, NC: Michael J. Smith Field"
-NC8,"Burlington, NC: Burlington Alamance Regional"
-NC9,"Rockingham, NC: Richmond County"
-NCN,"Chenega, AK: Chenega Bay"
-NCO,"North Kingstown, RI: Quonset State Air Reserve National Guard Helipad"
-NCQ,"Marietta, GA: Dobbins ARB"
-ND1,"Kindred, ND: Robert Odegaard Field"
-NE1,"Gothenburg, NE: Gothenburg Municipal"
-NE2,"Blair, NE: Blair Exec"
-NE3,"York, NE: York Municipal"
-NE4,"Champion, NE: Smith Field"
-NEA,"Brunswick, GA: Glynco NAS"
-NEL,"Lakehurst, NJ: Lakehurst/Maxfield Field"
-NEW,"New Orleans, LA: Lakefront"
-NFL,"Fallon, NV: Fallon NAS"
-NGC,"Grand Canyon, AZ: North Rim"
-NGF,"Kaneohe, HI: Kaneohe Bay MCAS"
-NGP,"Corpus Christi, TX: Corpus Christi NAS"
-NGU,"Norfolk, VA: Norfolk NS"
-NGZ,"Alameda, CA: Alameda NAS"
-NH1,"Hampton, NH: Hampton Airfield"
-NH2,"Gorham, NH: Gorham Airport"
-NH3,"Haverhill, NH: Dean Memorial"
-NH4,"Moultonboro, NH: Moultonborough"
-NH5,"Hillsboro, NH: Hawthorne Feather Airpark"
-NH6,"Newport, NH: Parlin Field"
-NHK,"Patuxent River, MD: Patuxent River NAS"
-NHZ,"Brunswick, ME: Brunswick Executive"
-NIB,"Nikolai, AK: Nikolai Airport"
-NIE,"Niblack, AK: Niblack Airport"
-NIN,"Ninilchik, AK: Ninilchik Airport"
-NIP,"Jacksonville, FL: Jacksonville NAS"
-NJ1,"Berlin, NJ: Pine Valley"
-NJ2,"West Creek, NJ: Eagles Nest"
-NJ3,"Somerville, NJ: Somerset"
-NJ4,"Ocean City, NJ: Ocean City Municipal"
-NJ5,"Sussex, NJ: Sussex Airport"
-NJ6,"Lumberton, NJ: Flying W"
-NJ7,"New Jersey, NJ: Old Bridge"
-NJ8,"West Milford, NJ: Greenwood Lake"
-NJ9,"Cross Keys, NJ: Cross Keys Airport"
-NJK,"El Centro, CA: El Centro NAF"
-NKI,"Naukiti, AK: Naukiti Airport"
-NKV,"Nichen Cove, AK: Nichin Cove Seaplane Base"
-NKX,"San Diego, CA: Miramar MCAS"
-NLC,"Lemoore, CA: Lemoore NAS"
-NLG,"Nelson Lagoon, AK: Nelson Lagoon Airport"
-NM1,"Belen, NM: Alexander Municipal"
-NM2,"Truth Or Consequences, NM: Spaceport America"
-NM3,"Moriarty, NM: Moriarty Municipal"
-NME,"Nightmute, AK: Nightmute Airport"
-NNK,"Naknek, AK: Naknek Airport"
-NNL,"Nondalton, AK: Nondalton Airport"
-NOT,"Novato, CA: Gnoss Field"
-NPA,"Pensacola, FL: Pensacola NAS"
-NPT,"Newport, RI: Newport State"
-NQA,"Millington, TN: Millington Memphis"
-NQI,"Kingsville, TX: Kingsville NAS"
-NQX,"Key West, FL: Key West NAS"
-NRB,"Mayport, FL: Mayport NS"
-NRI,"Afton, OK: Grand Lake Regional"
-NSE,"Milton, FL: Whiting Field NAS North"
-NSF,"Camp Springs, MD: Joint Base Andrews"
-NSL,"Merritt Island, FL: NASA Shuttle Landing Facility"
-NTD,"Port Hueneme, CA: Point Mugu NAS"
-NTU,"Oceana, VA: Oceana NAS"
-NUI,"Nuiqsut, AK: Nuiqsut Airport"
-NUL,"Nulato, AK: Nulato Airport"
-NUN,"Pensacola, FL: Saufley Field NOLF"
-NUP,"Nunapitchuk, AK: Nunapitchuk Airport"
-NUQ,"Mountain View, CA: Moffett Federal Airfield"
-NUW,"Whidbey Island, WA: Whidbey Island NAS"
-NV1,"Overton, NV: Perkins Field"
-NV2,"Jean, NV: Jean Airport"
-NV3,"Searchlight, NV: Searchlight Airport"
-NV4,"Reno, NV: Reno Stead"
-NV5,"Gerlach, NV: Black Rock City"
-NV6,"Pahrump, NV: Calvada Meadows"
-NV7,"Silver Springs, NV: Silver Springs Airport"
-NVD,"Nevada, MO: Nevada Municipal"
-NXX,"Willow Grove, PA: Willow Grove NAS JRB"
-NY1,"Kingston, NY: Kingston Ulster"
-NY2,"Fulton, NY: Oswego County"
-NY3,"Brockport, NY: Ledgedale Airpark"
-NY4,"Potsdam, NY: Potsdam Municipal Damon Field"
-NY5,"Millbrook, NY: Sky Acres"
-NY6,"Johnstown, NY: Fulton County"
-NY7,"Skaneateles, NY: Skaneateles Aero Drome"
-NY8,"Mattituck, NY: Mattituck Airport"
-NY9,"Hornell, NY: Hornell Municipal"
-NYC,"New York, NY: New York City Metropolitan Area"
-NYL,"Yuma, AZ: Yuma MCAS/Yuma International"
-NYS,"New York, NY: New York Skyports Seaplane Base"
-NZC,"Jacksonville, FL: Cecil Field"
-NZJ,"Santa Ana, CA: El Toro MCAS"
-NZW,"South Weymouth, MA: South Weymouth NAS"
-NZY,"San Diego, CA: North Island NAS"
-O1H,"Millersburg, OH: Holmes County"
-O2H,"Mount Vernon, OH: Knox County"
-O3H,"Columbus, OH: Bolton Field"
-O4H,"Delaware, OH: Delaware Municipal Jim Moore Field"
-O5H,"Bowling Green, OH: Wood County"
-O6H,"Ashland, OH: Ashland County"
-O85,"Redding, CA: Benton Field"
-OAJ,"Jacksonville/Camp Lejeune, NC: Albert J Ellis"
-OAK,"Oakland, CA: Oakland International"
-OBE,"Okeechobee, FL: Okeechobee County"
-OBT,"Oakland, MD: Garrett County"
-OBU,"Kobuk, AK: Kobuk Airport"
-OCA,"Key Largo, FL: Ocean Reef Club"
-OCE,"Ocean City, MD: Ocean City Municipal"
-OCF,"Ocala, FL: Ocala International-Jim Taylor Field"
-OCH,"Nacogdoches, TX: Nacogdoches A L Mangham Jr Regional"
-OCI,"Oceanic, AK: Thumb Bay"
-OCN,"Oceanside, CA: Bob Maxwell Memorial Airfield"
-OCW,"Washington, NC: Washington Warren"
-ODM,"Oakland, MD: Oakland Airport"
-ODW,"Oak Harbor, WA: Delaurentis"
-OEO,"Osceola, WI: L O Simenstad Municipal"
-OFF,"Omaha, NE: Offutt AFB"
-OFK,"Norfolk, NE: Norfolk Regional/Karl Stefan Memorial Field"
-OGA,"Ogallala, NE: Searle Field"
-OGB,"Orangeburg, SC: Orangeburg Municipal"
-OGD,"Ogden, UT: Ogden-Hinckley"
-OGG,"Kahului, HI: Kahului Airport"
-OGS,"Ogdensburg, NY: Ogdensburg International"
-OH1,"Washington Court House, OH: Fayette County"
-OH2,"Bellefontaine, OH: Bellefontaine Regional"
-OH3,"Chillicothe, OH: Ross County"
-OH4,"Marysville, OH: Union County"
-OH5,"Cincinnati, OH: Cincinnati - Blue Ash"
-OH6,"Ravenna, OH: Portage County"
-OH7,"Kent, OH: Kent State University"
-OH8,"Bluffton, OH: Bluffton Airport"
-OH9,"Medina, OH: Medina Municipal"
-OHC,"Northeast Cape, AK: Northeast Cape AFS"
-OIC,"Norwich, NY: Eaton"
-OJC,"Olathe, KS: Johnson County Executive"
-OKC,"Oklahoma City, OK: Okc Will Rogers International"
-OKK,"Kokomo/Logansport/Peru, IN: Kokomo Municipal"
-OLE,"Olean, NY: Cattaraugus County-Olean"
-OLF,"Wolf Point, MT: L. M. Clayton"
-OLH,"Old Harbor, AK: Old Harbor Airport"
-OLM,"Olympia, WA: Olympia Regional"
-OLS,"Nogales, AZ: Nogales International"
-OLU,"Columbus, NE: Columbus Municipal"
-OLV,"Olive Branch, MS: Olive Branch Taylor Field"
-OMA,"Omaha, NE: Eppley Airfield"
-OME,"Nome, AK: Nome Airport"
-OMK,"Omak, WA: Omak Airport"
-ONA,"Winona, MN: Winona Municipal/Max Conrad Field"
-ONH,"Oneonta, NY: Albert S Nader Regional"
-ONL,"O'Neill, NE: The O'Neill Municipal-John L. Baker Field"
-ONM,"Socorro, NM: Socorro Municipal"
-ONN,"Onion Bay, AK: Onion Bay Airport"
-ONO,"Ontario, OR: Ontario Municipal"
-ONP,"Newport, OR: Newport Municipal"
-ONT,"Ontario, CA: Ontario International"
-OOB,"Cobol, AK: Cobol Alaska/Scaled/"
-OOK,"Toksook, AK: Toksook Bay"
-OPF,"Miami, FL: Miami Opa Locka Executive"
-OPH,"Ophir, AK: Ophir Airport"
-OPN,"Thomaston, GA: Thomaston Upson County"
-OQA,"McDonald Lake, AK: McDonald Lake Airport"
-OQB,"Bible Camp, AK: Bible Camp Airport"
-OQC,"Cinder River Lodge, AK: Cinder River Lodge Airport"
-OQF,"Lemesurier Island, AK: Lemesurier Island Airport"
-OQG,"Tracy Arm, AK: Tracy Arm Airport"
-OQI,"Vrems, AK: Vrems Airport"
-OQK,"Akolik, AK: Akolik Airport"
-OQL,"Mels, AK: Mels Airport"
-OQM,"Meshik, AK: Meshik Airport"
-OQN,"Telaquana Lake, AK: Telaquana Lake Airport"
-OQO,"Chelatna Lake Lodge, AK: Chelatna Lake Lodge Airport"
-OQP,"Pumice, AK: Pumice Airport"
-OQQ,"Port Alsworth, AK: Points Alsworth"
-OQR,"Twin Lakes, AK: Twin Lakes Airport"
-OQS,"Sandy, AK: Sandy Airport"
-OQV,"Shirleyville, AK: Shirleyville Airport"
-OQW,"Doug Carney Strip, AK: Doug Carney Strip Airport"
-OQX,"Shisholik, AK: Shisholik Airport"
-OQY,"Sivinuvik, AK: Camp Sivinuvik"
-OQZ,"American Creek, AK: American Creek Airport"
-OR1,"Grants Pass, OR: Grants Pass Airport"
-OR2,"Gleneden, OR: Siletz Bay State"
-OR3,"Florence, OR: Florence Municipal"
-OR4,"Bend, OR: Bend Municipal"
-OR5,"Condon, OR: Condon State Pauling Field"
-ORD,"Chicago, IL: Chicago O'Hare International"
-ORF,"Norfolk, VA: Norfolk International"
-ORH,"Worcester, MA: Worcester Regional"
-ORI,"Port Lions, AK: Port Lions Airport"
-ORL,"Orlando, FL: Orlando Exec"
-ORT,"Northway, AK: Northway Airport"
-ORV,"Noorvik, AK: Robert/Bob/Curtis Memorial"
-OSB,"Osage Beach, MO: Grand Glaize - Osage Beach"
-OSC,"Oscoda, MI: Oscoda-Wurtsmith"
-OSH,"Oshkosh, WI: Wittman Regional"
-OSU,"Columbus, OH: Ohio State University"
-OSX,"Kosciusko, MS: Kosciusko/Attala County"
-OTG,"Worthington, MN: Worthington Municipal"
-OTH,"North Bend/Coos Bay, OR: Southwest Oregon Regional"
-OTM,"Ottumwa, IA: Ottumwa Regional"
-OTS,"Anacortes, WA: Anacortes Airport"
-OTZ,"Kotzebue, AK: Ralph Wien Memorial"
-OUN,"Norman, OK: University of Oklahoma/Max Westheimer"
-OVE,"Oroville, CA: Oroville Municipal"
-OWA,"Owatonna, MN: Owatonna Degner Regional"
-OWB,"Owensboro, KY: Owensboro Daviess County Regional"
-OWD,"Norwood, MA: Norwood Memorial"
-OWK,"Norridgewock, ME: Central Maine of Norridgewock"
-OXC,"Waterbury, CT: Waterbury Oxford"
-OXD,"Oxford, OH: Miami University"
-OXR,"Oxnard/Ventura, CA: Oxnard"
-OXV,"Knoxville, IA: Knoxville Municipal"
-OYS,"Yosemite National Park, CA: Yosemite National Park Airport"
-OZA,"Ozona, TX: Ozona Municipal"
-OZR,"Ozark, AL: Cairns AAF"
-P1A,"Farmington, PA: Nemacolin"
-P2A,"Philadelphia, PA: Penns Landing Heliport"
-PA1,"Montrose, PA: Husky Haven"
-PA2,"Bedford, PA: Bedford County"
-PA3,"Honesdale, PA: Cherry Ridge"
-PA4,"Carlisle, PA: Carlisle Airport"
-PA5,"West Chester, PA: Brandywine Regional"
-PA6,"Pittsburgh, PA: Pittsburgh Northeast"
-PA7,"Toughkenamon, PA: New Garden"
-PA8,"Collegeville, PA: Perkiomen Valley"
-PA9,"Tarentum, PA: Rock"
-PAE,"Everett, WA: Seattle Paine Field International"
-PAH,"Paducah, KY: Barkley Regional"
-PAK,"Hanapepe, HI: Port Allen"
-PAM,"Panama City, FL: Tyndall AFB"
-PAO,"Palo Alto, CA: Palo Alto Airport"
-PAQ,"Palmer, AK: Warren Bud Woods Palmer Municipal"
-PBA,"Point Barrow, AK: Point Barrow LRRS"
-PBF,"Pine Bluff, AR: Pine Bluff Regional Airport Grider Field"
-PBG,"Plattsburgh, NY: Plattsburgh International"
-PBI,"West Palm Beach/Palm Beach, FL: Palm Beach International"
-PBK,"Pack Creek, AK: Pack Creek Airport"
-PBX,"Pikeville, KY: Pike County Hatcher Field"
-PCA,"Portage Creek, AK: Portage Creek Airport"
-PCD,"Prairie Du Chien, WI: Prairie Du Chien Municipal"
-PCE,"Painter Creek, AK: Painter Creek Airport"
-PCK,"Porcupine Creek, AK: Porcupine Creek Airport"
-PCT,"Princeton, NJ: Princeton Airport"
-PDB,"Pedro Bay, AK: Pedro Bay Airport"
-PDK,"Atlanta, GA: Dekalb Peachtree"
-PDT,"Pendleton, OR: Eastern Oregon Regional at Pendleton"
-PDX,"Portland, OR: Portland International"
-PEC,"Pelican, AK: Pelican Seaplane Base"
-PEQ,"Pecos City, TX: Pecos Municipal"
-PFA,"Paf Warren, AK: Paf Warren Airport"
-PFD,"Port Frederick, AK: Port Frederick Airport"
-PFN,"Panama City, FL: Bay County"
-PGA,"Page, AZ: Page Municipal"
-PGC,"Petersburg, WV: Grant County"
-PGD,"Punta Gorda, FL: Punta Gorda Airport"
-PGL,"Pascagoula, MS: Jackson County"
-PGM,"Port Graham, AK: Port Graham Airport"
-PGO,"Pagosa Springs, CO: Stevens Field"
-PGR,"Paragould, AR: Kirk Field"
-PGS,"Peach Springs, AZ: Peach Springs Dirt Strip"
-PGV,"Greenville, NC: Pitt Greenville"
-PHD,"New Philadelphia, OH: Harry Clever Field"
-PHF,"Newport News/Williamsburg, VA: Newport News/Williamsburg International"
-PHK,"Pahokee, FL: Palm Beach County Glades"
-PHL,"Philadelphia, PA: Philadelphia International"
-PHN,"Port Huron, MI: St. Clair County International"
-PHO,"Point Hope, AK: Point Hope Airport"
-PHT,"Paris, TN: Henry County"
-PHX,"Phoenix, AZ: Phoenix Sky Harbor International"
-PIA,"Peoria, IL: General Downing - Peoria International"
-PIB,"Hattiesburg/Laurel, MS: Hattiesburg-Laurel Regional"
-PIE,"St. Petersburg, FL: St Pete Clearwater International"
-PIH,"Pocatello, ID: Pocatello Regional"
-PII,"Fairbanks, AK: Phillips Field"
-PIM,"Pine Mountain, GA: Harris County"
-PIP,"Pilot Point, AK: Pilot Point Airport"
-PIR,"Pierre, SD: Pierre Regional"
-PIT,"Pittsburgh, PA: Pittsburgh International"
-PIZ,"Point Lay, AK: Point Lay LRRS"
-PJB,"Payson, AZ: Payson Airport"
-PJS,"Port San Juan, AK: Port San Juan Airport"
-PKA,"Napaskiak, AK: Napaskiak Airport"
-PKB,"Parkersburg, WV: Mid-Ohio Valley Regional"
-PKD,"Park Rapids, MN: Park Rapids Municipal-Konshok Field"
-PLB,"Plattsburgh, NY: Clinton County"
-PLK,"Point Lookout, MO: M Graham Clark Downtown"
-PLN,"Pellston, MI: Pellston Regional Emmet County"
-PLY,"Plymouth, IN: Plymouth Municipal"
-PMB,"Pembina, ND: Pembina Municipal"
-PMD,"Palmdale, CA: Palmdale USAF Plant 42"
-PMH,"Portsmouth, OH: Greater Portsmouth Regional"
-PML,"Port Moller, AK: Port Moller Airport"
-PMU,"Paimiut, AK: Paimiut Airport"
-PNC,"Ponca City, OK: Ponca City Regional"
-PNE,"Philadelphia, PA: Northeast Philadelphia"
-PNF,"Peterson's Point, AK: Peterson's Point Airport"
-PNN,"Princeton, ME: Princeton Municipal"
-PNS,"Pensacola, FL: Pensacola International"
-PNX,"Sherman-Denison, TX: Sherman-Denison Airport"
-POB,"Fayetteville, NC: Pope AAF"
-POC,"La Verne, CA: Brackett Field"
-POD,"Port Frederick, AK: Port Frederick Airport"
-POE,"Fort Polk, LA: Maks AAF"
-POF,"Poplar Bluff, MO: Hayes Field"
-POH,"Pocahontas, IA: Pocahontas Municipal"
-POQ,"Polk Inlet, AK: Polk Inlet Airport"
-POU,"Poughkeepsie, NY: Hudson Valley Regional"
-POY,"Powell, WY: Powell Municipal"
-PPC,"Prospect Creek, AK: Prospect Creek Airport"
-PPF,"Parsons, KS: Tri City"
-PPM,"Pompano Beach, FL: Pompano Beach Airpark"
-PPV,"Port Protection, AK: Port Protection Airport"
-PQI,"Presque Isle/Houlton, ME: Presque Isle International"
-PQS,"Pilot Station, AK: Pilot Station Airport"
-PRB,"Paso Robles, CA: Paso Robles Municipal"
-PRC,"Prescott, AZ: Prescott Regional Ernest A Love Field"
-PRD,"Pine Ridge, SD: Pine Ridge Airport"
-PRT,"Point Retreat, AK: Coast Guard Heliport"
-PRX,"Paris, TX: Cox Field"
-PRZ,"Prineville, OR: Prineville Airport"
-PSB,"Philipsburg, PA: Mid State"
-PSC,"Pasco/Kennewick/Richland, WA: Tri Cities"
-PSF,"Pittsfield, MA: Pittsfield Municipal"
-PSG,"Petersburg, AK: Petersburg James A Johnson"
-PSK,"Dublin, VA: New River Valley"
-PSM,"Portsmouth, NH: Portsmouth International at Pease"
-PSN,"Palestine, TX: Palestine Municipal"
-PSP,"Palm Springs, CA: Palm Springs International"
-PSQ,"Essington, PA: Philadelphia Seaplane Base"
-PSX,"Palacios, TX: Palacios Municipal"
-PTA,"Port Alsworth, AK: Port Alsworth Airport"
-PTC,"Port Alice, AK: Port Alice Airport"
-PTD,"Port Alexander, AK: Port Alexander Airport"
-PTH,"Port Heiden, AK: Port Heiden Airport"
-PTK,"Pontiac, MI: Oakland County International"
-PTL,"Port Armstrong, AK: Port Armstrong Airport"
-PTN,"Patterson, LA: Harry P Williams Memorial"
-PTR,"Pleasant Harbour, AK: Pleasant Harbour Airport"
-PTS,"Pittsburg, KS: Atkinson Municipal"
-PTT,"Pratt, KS: Pratt Regional"
-PTU,"Platinum, AK: Platinum Airport"
-PTV,"Porterville, CA: Porterville Municipal"
-PTW,"Pottstown, PA: Heritage Field"
-PUB,"Pueblo, CO: Pueblo Memorial"
-PUC,"Price, UT: Carbon County Regional/Buck Davis Field"
-PUL,"Poulsbo, WA: Port of Poulsbo Marina Moorage Seaplane Base"
-PUO,"Prudhoe Bay, AK: Prudhoe Bay Airport"
-PUW,"Pullman, WA: Pullman Moscow Regional"
-PVC,"Provincetown, MA: Provincetown Municipal"
-PVD,"Providence, RI: Rhode Island Tf Green International"
-PVF,"Placerville, CA: Placerville Airport"
-PVU,"Provo, UT: Provo Municipal"
-PVW,"Plainview, TX: Hale County"
-PVY,"Pope Vanoy, AK: Pope Vanoy Airport"
-PVZ,"Painesville, OH: Casement"
-PWA,"Oklahoma City, OK: Wiley Post"
-PWK,"Chicago, IL: Chicago Executive"
-PWM,"Portland, ME: Portland International Jetport"
-PWR,"Big Port Walter, AK: Big and Little Port Walter"
-PWT,"Bremerton, WA: Bremerton National"
-PYA,"Port Ashton, AK: Port Ashton Airport"
-PYL,"Perry Island, AK: Perry Island Seaplane Base"
-PYM,"Plymouth, MA: Plymouth Municipal"
-QAF,"Jackpot, NV: Jackpot/Hayden Field"
-QAJ,"Globe, AZ: San Carlos Apache"
-QAK,"Port Clinton, OH: Erie Ottawa International"
-QAL,"Kelleys Island, OH: Kelleys Island Land Field"
-QAO,"Lyndonville, VT: Caledonia County"
-QAS,"Houston, TX: Astrodomain Helipad"
-QAX,"Marina del Ray, CA: Marina del Ray Airport"
-QBH,"Lathrop Wells, NV: Jackass Aeropark"
-QBI,"Green River, UT: Oman Ranch"
-QBM,"Put-In-Bay, OH: Put-In-Bay Airport"
-QBN,"Middle Bass Island, OH: Middle Bass Island Airport"
-QBT,"Indian Creek, ID: Indian Creek Usfs"
-QBX,"Abilene, KS: Abilene Airport"
-QBY,"North Bass Island, OH: North Bass Island Airport"
-QCG,"Challis, ID: Challis Airport"
-QCT,"Levelland, TX: Levelland Airport"
-QCW,"Crane Island, WA: Crane Island Airport"
-QCX,"Martinsville, VA: Blue Ridge"
-QEM,"Emerald Bay, CA: Emerald Bay Airport"
-QFX,"Avalon, CA: Camp Fox"
-QGS,"Houghton, MI: Grognet Seaplane Base"
-QHI,"Houston, TX: Astroworld Helipad"
-QHO,"Houston, TX: Houston Metro-/Ho"
-QIR,"Isle Royale Park, MI: Isle Royale National Park"
-QKV,"Kona Village, HI: Kona Keahole"
-QMA,"Kennesaw, GA: Cobb County International McCollum Field"
-QMH,"Houston, TX: Marriot Helipad Hou."
-QMN,"Mansfield, MA: Mansfield Municipal"
-QNY,"New York, NY: New York Skyports Seaplane Base"
-QOR,"Orange, VA: Orange County"
-QPO,"Houston, TX: Post Oak Manor"
-QPT,"Pittsfield, ME: Pittsfield Municipal"
-QQB,"Keyes Point, AK: Keyes Point Airport"
-QQC,"Nimiuk Point, AK: Nimiuk Point Airport"
-QQD,"Boston, MA: Nashua Street Heliport"
-QQE,"Sealing Point, AK: Sealing Point Airport"
-QQG,"Westminster, MD: Carroll County Regional/Jack B. Poage Field"
-QQJ,"Stevensville, MT: Stevensville Airport"
-QQL,"Bonners Ferry, ID: Boundary County"
-QQM,"Shingletown, CA: Shingletown Airport"
-QQN,"Woodlake, CA: Woodlake Airport"
-QQQ,"Grass Valley, CA: Nevada County"
-QQS,"Eastsound, WA: Waldronaire"
-QQT,"Peachtree City, GA: Atlanta Regional Falcon Field"
-QQU,"Window Rock, AZ: Window Rock Airport"
-QQX,"Healdsburg, CA: Healdsburg Municipal"
-QQY,"San Marcos, TX: San Marcos Regional"
-QRD,"Redondo Beach, CA: Redondo Beach Airport"
-QSO,"Southbridge, MA: Southbridge Municipal"
-RAC,"Racine, WI: Batten International"
-RAL,"Riverside, CA: Riverside Municipal"
-RAP,"Rapid City, SD: Rapid City Regional"
-RAX,"Red Bank, NJ: Greely Helipad"
-RBB,"Ugashik, AK: Randy Field"
-RBD,"Dallas/Fort Worth, TX: Dallas Executive"
-RBF,"Big Bear City, CA: Big Bear City Airport"
-RBG,"Roseburg, OR: Roseburg Regional"
-RBH,"Brooks Lodge, AK: Brooks Lodge Airport"
-RBK,"Murrieta/Temecula, CA: French Valley"
-RBL,"Red Bluff, CA: Red Bluff Municipal"
-RBN,"Fort Jefferson, FL: Fort Jefferson Airport"
-RBW,"Walterboro, SC: Lowcountry Regional"
-RBY,"Ruby, AK: Ruby Airport"
-RCA,"Rapid City, SD: Ellsworth AFB"
-RCE,"Roche Harbor, WA: Roche Harbor Airport"
-RCT,"Reed City, MI: Miller Field"
-RDB,"Red Dog, AK: Red Dog Airport"
-RDD,"Redding, CA: Redding Regional"
-RDG,"Reading, PA: Reading Regional/Carl A Spaatz Field"
-RDM,"Bend/Redmond, OR: Roberts Field"
-RDR,"Red River, ND: Grand Forks AFB"
-RDU,"Raleigh/Durham, NC: Raleigh-Durham International"
-RDV,"Red Devil, AK: Red Devil Airport"
-REB,"Redlands, CA: Redlands Municipal"
-RED,"Reedsville, PA: Mifflin County"
-REE,"Lubbock, TX: Reese AFB"
-REH,"Rehoboth, DE: Rehoboth Aircrafters"
-RFD,"Rockford, IL: Chicago/Rockford International"
-RHI,"Rhinelander, WI: Rhinelander/Oneida County"
-RIC,"Richmond, VA: Richmond International"
-RID,"Richmond, IN: Richmond Municipal"
-RIE,"Rice Lake, WI: Rice Lake Airport"
-RIF,"Richfield, UT: Richfield Municipal"
-RIL,"Rifle, CO: Rifle Garfield County"
-RIR,"Riverside, CA: Flabob"
-RIV,"Riverside, CA: March ARB"
-RIW,"Riverton/Lander, WY: Central Wyoming Regional"
-RKD,"Rockland, ME: Knox County Regional"
-RKH,"Rock Hill, SC: Rock Hill/York County/Bryant Field"
-RKP,"Rockport, TX: Aransas County"
-RKR,"Poteau, OK: Robert S Kerr"
-RKS,"Rock Springs, WY: Southwest Wyoming Regional"
-RKW,"Rockwood, TN: Rockwood Municipal"
-RLA,"Rolla, MO: Rolla Downtown"
-RLD,"Richland, WA: Richland Airport"
-RLU,"Bornite/Ruby Creek, AK: Bornite Upper"
-RME,"Rome, NY: Griffiss International"
-RMG,"Rome, GA: Richard B Russell Regional J H Towers Field"
-RMN,"Stafford, VA: Stafford Regional"
-RMP,"Rampart, AK: Rampart Airport"
-RNC,"McMinnville, TN: Warren County Memorial"
-RND,"San Antonio, TX: Randolph AFB"
-RNG,"Rangely, CO: Rangely Airport"
-RNH,"New Richmond, WI: New Richmond Regional"
-RNM,"Ramona, CA: Ramona Airport"
-RNO,"Reno, NV: Reno/Tahoe International"
-RNT,"Renton, WA: Renton Municipal"
-ROA,"Roanoke, VA: Roanoke Blacksburg Regional"
-ROC,"Rochester, NY: Frederick Douglass Grtr Rochester International"
-ROG,"Rogers, AR: Rogers Executive Carter Field"
-ROL,"Roosevelt, UT: Roosevelt Municipal"
-ROW,"Roswell, NM: Roswell Air Center"
-ROX,"Roseau, MN: Roseau Municipal/Rudy Billberg Field"
-RPX,"Roundup, MT: Roundup Airport"
-RQA,"Lone Pine, CA: Lone Pine Death Valley"
-RQB,"Atomic City, ID: Big Southern Butte"
-RQC,"Harlowton, MT: Wheatland County at Harlowton"
-RQD,"Mendota, CA: William Robert Johnston Municipal"
-RQE,"Prosser, WA: Prosser Airport"
-RQF,"Lincolnton, NC: Lincolnton-Lincoln County Regional"
-RQG,"Covington, TN: Covington Municipal"
-RQH,"Perkasie, PA: Pennridge"
-RQI,"Nixon Fork Mine, AK: Nixon Fork Mine Airport"
-RQK,"China Lake, CA: China Lake Naws"
-RQL,"Lowell, IN: Lowell Airport"
-RQM,"Sterling, MA: Sterling Airport"
-RQN,"Cave Junction, OR: Illinois Valley"
-RQO,"Seneca, NY: Seneca AAF"
-RQP,"Lovington, NM: Lea County-Zip Franklin Memorial"
-RQQ,"Woodland, CA: Watts/Woodland"
-RQR,"Harbor Springs, MI: Harbor Springs Airport"
-RQT,"Lubbock, TX: Lubbock Executive Airpark"
-RQU,"Wasco, CA: Wasco-Kern County"
-RQV,"Salt Lake City, UT: South Valley Regional"
-RQW,"Parowan, UT: Parowan Airport"
-RQX,"Burlington, CO: Kit Carson County"
-RQY,"Comanche, TX: Comanche County-City"
-RQZ,"Mary Esther, FL: Hurlburt Field"
-RRT,"Warroad, MN: Warroad International Memorial"
-RSH,"Russian Mission, AK: Russian Mission Airport"
-RSJ,"Rosario, WA: Rosario Seaplane Base"
-RSL,"Russell, KS: Russell Municipal"
-RSN,"Ruston, LA: Ruston Regional"
-RSP,"Raspberry Strait, AK: Raspberry Straits"
-RST,"Rochester, MN: Rochester International"
-RSW,"Fort Myers, FL: Southwest Florida International"
-RTE,"Marguerite Bay, AK: Marguerite Bay Airport"
-RTN,"Raton, NM: Raton Municipal/Crews Field"
-RTO,"Colton, CA: Morrow Field"
-RUI,"Ruidoso, NM: Sierra Blanca Regional"
-RUT,"Rutland, VT: Rutland - Southern Vermont Regional"
-RVR,"Green River, UT: Green River Municipal"
-RVS,"Tulsa, OK: Tulsa Riverside"
-RWB,"Rowan Bay, AK: Rowan Bay Airport"
-RWI,"Rocky Mount, NC: Rocky Mount-Wilson Regional"
-RWL,"Rawlins, WY: Rawlins Municipal/Harvey Field"
-RXB,"Rodman Bay, AK: Rodman Bay Airport"
-RYE,"Greeley, CO: Weld County Municipal"
-RZZ,"Roanoke Rapids, NC: Halifax County"
-S24,"Fremont, OH: Sandusky County Regional"
-S27,"Kalispell, MT: Kalispell City"
-SAA,"Saratoga, WY: Shively Field"
-SAC,"Sacramento, CA: Sacramento Executive"
-SAD,"Safford, AZ: Safford Regional1lt Duane Spalsbury Field"
-SAF,"Santa Fe, NM: Santa Fe Regional"
-SAG,"Sagwon, AK: Sagwon Airport"
-SAN,"San Diego, CA: San Diego International"
-SAT,"San Antonio, TX: San Antonio International"
-SAV,"Savannah, GA: Savannah/Hilton Head International"
-SBA,"Santa Barbara, CA: Santa Barbara Municipal"
-SBD,"San Bernardino, CA: San Bernardino International"
-SBM,"Sheboygan, WI: Sheboygan County Memorial International"
-SBN,"South Bend, IN: South Bend International"
-SBO,"Salina, UT: Salina-Gunnison"
-SBP,"San Luis Obispo, CA: San Luis Obispo County Regional"
-SBS,"Steamboat Springs, CO: Steamboat Springs/Bob Adams Field"
-SBT,"San Bernardino, CA: Tri-City"
-SBV,"South Boston, VA: William M Tuck"
-SBY,"Salisbury, MD: Salisbury-Ocean City/Wicomico Regional"
-SC1,"Beaufort, SC: Beaufort MCAS"
-SC2,"Winnsboro, SC: Fairfield County"
-SC3,"Conway, SC: Conway-Horry County"
-SC4,"Moncks Corner, SC: Berkeley County"
-SC5,"Summerville, SC: Summerville Airport"
-SC6,"Charleston, SC: Charleston Executive"
-SC7,"Allendale, SC: Allendale County"
-SCC,"Deadhorse, AK: Deadhorse Airport"
-SCE,"State College, PA: State College Regional"
-SCF,"Phoenix, AZ: Scottsdale"
-SCH,"Schenectady, NY: Schenectady County"
-SCJ,"Smith Cove, AK: Smith Cove Airport"
-SCK,"Stockton, CA: Stockton Metro"
-SCM,"Scammon Bay, AK: Scammon Bay Airport"
-SD1,"Onida, SD: Onida Municipal"
-SD2,"Gregory, SD: Gregory Municipal Flynn Field"
-SD3,"Hot Springs, SD: Hot Springs Municipal"
-SD4,"Sturgis, SD: Sturgis Municipal"
-SDF,"Louisville, KY: Louisville Muhammad Ali International"
-SDM,"San Diego, CA: Brown Field Municipal"
-SDP,"Sandpoint, AK: Sand Point"
-SDX,"Sedona, AZ: Sedona Airport"
-SDY,"Sidney, MT: Sidney Richland Regional"
-SEA,"Seattle, WA: Seattle/Tacoma International"
-SEE,"San Diego, CA: Gillespie Field"
-SEF,"Sebring, FL: Sebring Regional"
-SEG,"Selinsgrove, PA: Penn Valley"
-SEM,"Selma, AL: Craig Field"
-SER,"Seymour, IN: Freeman Municipal"
-SES,"Selma, AL: Selfield"
-SFB,"Sanford, FL: Orlando Sanford International"
-SFF,"Spokane, WA: Felts Field"
-SFM,"Sanford, ME: Sanford Seacoast Regional"
-SFO,"San Francisco, CA: San Francisco International"
-SFZ,"Smithfield, RI: North Central State"
-SGF,"Springfield, MO: Springfield-Branson National"
-SGH,"Springfield, OH: Springfield-Beckley Municipal"
-SGR,"Sugar Land, TX: Sugar Land Regional"
-SGT,"Stuttgart, AR: Stuttgart Municipal Carl Humphrey Field"
-SGU,"St. George, UT: St George Regional"
-SGW,"Saginaw Bay, AK: Saginaw"
-SGY,"Skagway, AK: Skagway Airport"
-SHD,"Staunton, VA: Shenandoah Valley Regional"
-SHG,"Shungnak, AK: Shungnak Airport"
-SHH,"Shishmaref, AK: Shishmaref Airport"
-SHN,"Shelton, WA: Sanderson Field"
-SHR,"Sheridan, WY: Sheridan County"
-SHV,"Shreveport, LA: Shreveport Regional"
-SHX,"Shageluk, AK: Shageluk Airport"
-SIK,"Sikeston, MO: Sikeston Memorial Municipal"
-SIT,"Sitka, AK: Sitka Rocky Gutierrez"
-SIY,"Montague, CA: Siskiyou County"
-SJC,"San Jose, CA: Norman Y. Mineta San Jose International"
-SJN,"St. Johns, AZ: St. Johns Industrial Air Park"
-SJT,"San Angelo, TX: San Angelo Regional/Mathis Field"
-SKA,"Spokane, WA: Fairchild AFB"
-SKF,"San Antonio, TX: Kelly Field"
-SKJ,"Sitkinak, AK: Sitkinak CGS"
-SKK,"Shaktoolik, AK: Shaktoolik Airport"
-SKW,"Skwentna, AK: Skwentna Airport"
-SKY,"Sandusky, OH: Griffing Sandusky"
-SLB,"Storm Lake, IA: Storm Lake Municipal"
-SLC,"Salt Lake City, UT: Salt Lake City International"
-SLE,"Salem, OR: McNary Field"
-SLJ,"Chandler, AZ: Stellar Airpark"
-SLK,"Saranac Lake/Lake Placid, NY: Adirondack Regional"
-SLN,"Salina, KS: Salina Regional"
-SLO,"Salem, IL: Salem/Leckrone"
-SLQ,"Sleetmute, AK: Sleetmute Airport"
-SLR,"Sulphur Springs, TX: Sulphur Springs Municipal"
-SLT,"Salida, CO: Salida Airport Harriett Alexander Field"
-SME,"Somerset, KY: Lake Cumberland Regional"
-SMF,"Sacramento, CA: Sacramento International"
-SMK,"St. Michael, AK: St. Michael Airport"
-SMN,"Salmon, ID: Lemhi County"
-SMO,"Santa Monica, CA: Santa Monica Municipal"
-SMT,"Stone Mountain, GA: Stone Mountain Airport"
-SMU,"Sheep Mountain, AK: Sheep Mountain Airport"
-SMX,"Santa Maria, CA: Santa Maria Public/Capt. G. Allan Hancock Field"
-SNA,"Santa Ana, CA: John Wayne Airport-Orange County"
-SNK,"Snyder, TX: Winston Field"
-SNL,"Shawnee, OK: Shawnee Regional"
-SNP,"St. Paul, AK: St. Paul Island"
-SNS,"Salinas/Monterey, CA: Salinas Municipal"
-SNY,"Sidney, NE: Sidney Municipal/Lloyd W. Carr Field"
-SOL,"Solomon, AK: Solomon State Field"
-SOP,"Pinehurst/Southern Pines, NC: Moore County"
-SOV,"Seldovia, AK: Seldovia Airport"
-SOW,"Show Low, AZ: Show Low Regional"
-SPA,"Spartanburg, SC: Spartanburg Downtown Memorial Simpson Field"
-SPF,"Spearfish, SD: Black Hills Clyde Ice Field"
-SPG,"Tampa, FL: Albert Whitted"
-SPI,"Springfield, IL: Abraham Lincoln Capital"
-SPQ,"San Pedro, CA: Catalina Air-Sea Terminal Heliport"
-SPS,"Wichita Falls, TX: Sheppard AFB/Wichita Falls Municipal"
-SPW,"Spencer, IA: Spencer Municipal"
-SPZ,"Springdale, AR: Springdale Municipal"
-SQA,"Santa Ynez, CA: Santa Ynez Kunkle Field"
-SQI,"Sterling/Rockfalls, IL: Whiteside County-Jos H. Bittorf Field"
-SQL,"San Carlos, CA: San Carlos Airport"
-SQV,"Sequim, WA: Sequim Valley"
-SRC,"Searcy, AR: Searcy Regional"
-SRF,"Novato, CA: Hamilton AFB"
-SRQ,"Sarasota/Bradenton, FL: Sarasota/Bradenton International"
-SRV,"Stony River, AK: Stony River Airport"
-SRW,"Salisbury, NC: Mid Carolina Regional"
-SSC,"Sumter, SC: Shaw AFB"
-SSF,"San Antonio, TX: Stinson Municipal"
-SSI,"Brunswick, GA: St Simons Island"
-SSM,"Sault Ste. Marie, MI: Sault Ste. Marie Metropolitan Area"
-SSW,"Stuart Island, WA: Stuart Island Airpark"
-STC,"St. Cloud, MN: St. Cloud Regional"
-STE,"Stevens Point, WI: Stevens Point Municipal"
-STF,"Starkville, MS: George M. Bryan"
-STG,"St. George Island, AK: St. George Island Airport"
-STJ,"St. Joseph, MO: Rosecrans Memorial"
-STK,"Sterling, CO: Sterling Municipal"
-STL,"St. Louis, MO: St Louis Lambert International"
-STP,"Minneapolis/St. Paul, MN: St. Paul Downtown Holman Field"
-STQ,"St. Marys, PA: St. Marys Municipal"
-STS,"Santa Rosa, CA: Charles M. Schulz - Sonoma County"
-SUA,"Stuart, FL: Witham Field"
-SUC,"Sundance, WY: Schloredt"
-SUE,"Sturgeon Bay, WI: Door County Cherryland"
-SUM,"Sumter, SC: Sumter Airport"
-SUN,"Sun Valley/Hailey/Ketchum, ID: Friedman Memorial"
-SUO,"Sunriver, OR: Sunriver Airport"
-SUS,"St. Louis, MO: Spirit of St. Louis"
-SUU,"Fairfield, CA: Travis AFB"
-SUW,"Superior, WI: Richard I Bong"
-SUX,"Sioux City, IA: Sioux Gateway Brig Gen Bud Day Field"
-SVA,"Savoonga, AK: Savoonga Airport"
-SVC,"Silver City/Hurley, NM: Grant County"
-SVH,"Statesville, NC: Statesville Regional"
-SVN,"Savannah, GA: Hunter AAF"
-SVS,"Stevens Village, AK: Stevens Village Airport"
-SVW,"Sparrevohn, AK: Sparrevohn LRRS"
-SWD,"Seward, AK: Seward Airport"
-SWF,"Newburgh/Poughkeepsie, NY: New York Stewart International"
-SWO,"Stillwater, OK: Stillwater Regional"
-SWW,"Sweetwater, TX: Avenger Field"
-SXP,"Sheldon Point, AK: Nunam Iqua"
-SXQ,"Soldotna, AK: Soldotna Airport"
-SXY,"Sidney, NY: Sidney Municipal"
-SYA,"Shemya, AK: Eareckson AS"
-SYB,"Seal Bay, AK: Seal Bay Airport"
-SYI,"Shelbyville/Tullahoma, TN: Bomar Field-Shelbyville Municipal"
-SYN,"Stanton, MN: Stanton Airfield"
-SYR,"Syracuse, NY: Syracuse Hancock International"
-SZL,"Knob Noster, MO: Whiteman AFB"
-SZP,"Santa Paula, CA: Santa Paula Airport"
-T1N,"Selmer, TN: Robert Sibley"
-T1X,"Gainesville, TX: Gainesville Municipal"
-T2N,"Clevland, TN: Cleveland Regional Jetport"
-T2X,"Hereford, TX: Hereford Municipal"
-T3X,"Encino, TX: El Coyote Ranch"
-T44,"Kodiak, AK: Kodiak Airport"
-T4X,"Llano, TX: Llano Municipal"
-T5X,"Castroville, TX: Castroville Municipal"
-T6X,"Houston, TX: Houston Executive"
-T7X,"China Spring, TX: Wildcat Canyon"
-T82,"Fredericksburg, TX: Gillespie County"
-T8X,"Dallas, TX: McKinney National"
-T9X,"Carrizo Springs, TX: Dimmit County"
-TAD,"Trinidad, CO: Las Animas County"
-TAL,"Tanana, AK: Ralph M Calhoun Memorial"
-TBN,"Fort Leonard Wood, MO: Waynesville-St. Robert Regional Forney Field"
-TBR,"Statesboro, GA: Statesboro-Bulloch County"
-TCC,"Tucumcari, NM: Tucumcari Municipal"
-TCL,"Tuscaloosa, AL: Tuscaloosa National"
-TCM,"Tacoma, WA: McChord Field"
-TCS,"Truth Or Consequences, NM: Truth Or Consequences Municipal"
-TCT,"Takotna, AK: Takotna Airport"
-TDF,"Roxboro, NC: Raleigh Regional at Person County"
-TDW,"Amarillo, TX: Tradewind"
-TDZ,"Toledo, OH: Metcalf Field"
-TEB,"Teterboro, NJ: Teterboro Airport"
-TEH,"Tetlin, AK: Tetlin Airport"
-TEK,"Tatitlek, AK: Tatitlek Airport"
-TEX,"Telluride, CO: Telluride Regional"
-TGE,"Tuskegee, AL: Sharpe Field"
-THA,"Tullahoma, TN: Tullahoma Regional Airport/William Northern Field"
-THP,"Thermopolis, WY: Hot Springs County Thermopolis Municipal"
-THV,"York, PA: York Airport"
-TIK,"Oklahoma City, OK: Tinker AFB"
-TIW,"Tacoma, WA: Tacoma Narrows"
-TIX,"Titusville, FL: Space Coast Regional"
-TKA,"Talkeetna, AK: Talkeetna Airport"
-TKE,"Tenakee, AK: Tenakee Airport"
-TKF,"Truckee, CA: Truckee Tahoe"
-TKI,"Tokeen, AK: Tokeen Airport"
-TKJ,"Tok, AK: Tok Junction"
-TKL,"Taku Lodge, AK: Taku Seaplane Base"
-TLA,"Teller, AK: Teller Airport"
-TLF,"Telida, AK: Telida Airport"
-TLH,"Tallahassee, FL: Tallahassee International"
-TLJ,"Tatalina, AK: Tatalina LRRS"
-TLK,"Tikchik Lodge, AK: Tikchik Lodge Airport"
-TLR,"Tulare, CA: Mefford Field"
-TLT,"Tuluksak, AK: Tuluksak Airport"
-TMA,"Tifton, GA: Henry Tift Myers"
-TMB,"Miami, FL: Miami Executive"
-TN1,"Lebanon, TN: Lebanon Municipal"
-TN2,"Sparta, TN: Upper Cumberland Regional"
-TN3,"Lewisburg, TN: Ellington"
-TN4,"Pulaski, TN: Abernathy Field"
-TN5,"Lafayette, TN: Lafayette Municipal"
-TN6,"Dyersburg, TN: Dyersburg Regional"
-TN7,"Winchester, TN: Winchester Municipal"
-TN8,"Nashville, TN: John C Tune"
-TN9,"Sevierville, TN: Gatlinburg-Pigeon Forge"
-TNC,"Tin City, AK: Tin City LRRS"
-TNK,"Tununak, AK: Tununak Airport"
-TNP,"Twentynine Palms, CA: Twentynine Palms Airport"
-TNT,"Miami, FL: Dade-Collier Training and Transition"
-TNU,"Newton, IA: Newton Municipal Earl Johnson Field"
-TOA,"Torrance, CA: Zamperini Field"
-TOG,"Togiak, AK: Togiak Airport"
-TOI,"Troy, AL: Troy Municipal at N Kenneth Campbell Field"
-TOL,"Toledo, OH: Eugene F Kranz Toledo Express"
-TOP,"Topeka, KS: Philip Billard Municipal"
-TOR,"Torrington, WY: Torrington Municipal"
-TPA,"Tampa, FL: Tampa International"
-TPB,"Topeka, KS: Allen Air Park"
-TPF,"Tampa, FL: Peter O'Knight"
-TPH,"Tonopah, NV: Tonopah Airport"
-TPL,"Temple, TX: Draughon-Miller Central Texas Regional"
-TRH,"Trona, CA: Trona Airport"
-TRI,"Bristol/Johnson City/Kingsport, TN: Tri Cities"
-TRL,"Terrell, TX: Terrell Municipal"
-TRM,"Thermal, CA: Jacqueline Cochran Regional"
-TSG,"Tanacross, AK: Tanacross Airport"
-TSM,"Taos, NM: Taos Regional"
-TSP,"Tehachapi, CA: Tehachapi Municipal"
-TSS,"New York, NY: East 34th Street Heliport"
-TTD,"Troutdale, OR: Portland Troutdale"
-TTN,"Trenton, NJ: Trenton Mercer"
-TUH,"Tullahoma, TN: Arnold AFB"
-TUL,"Tulsa, OK: Tulsa International"
-TUP,"Tupelo, MS: Tupelo Regional"
-TUS,"Tucson, AZ: Tucson International"
-TVC,"Traverse City, MI: Cherry Capital"
-TVF,"Thief River Falls, MN: Thief River Falls Regional"
-TVI,"Thomasville, GA: Thomasville Regional"
-TVL,"Lake Tahoe, CA: Lake Tahoe Airport"
-TWA,"Twin Hills, AK: Twin Hills Airport"
-TWD,"Port Townsend, WA: Jefferson County International"
-TWE,"Taylor, AK: Taylor Airport"
-TWF,"Twin Falls, ID: Joslin Field - Magic Valley Regional"
-TWH,"Two Harbors, CA: Two Harbors Airport"
-TX1,"Mesquite, TX: Mesquite Metro"
-TX2,"Denver City, TX: Denver City Airport"
-TX3,"Port Isabel, TX: Cameron County"
-TX4,"Ballinger, TX: Bruce Field"
-TX5,"Cleburne, TX: Cleburne Regional"
-TX6,"Horseshoe Bay, TX: Horseshoe Bay Resort"
-TX7,"Post, TX: Post Garza County Municipal"
-TX8,"Slaton, TX: City of Slaton Larry T Neal Meml"
-TX9,"Winters, TX: Winters Municipal"
-TXK,"Texarkana, AR: Texarkana Regional-Webb Field"
-TXX,"Fulshear, TX: Covey Trails"
-TYE,"Tyonek, AK: Tyonek Airport"
-TYR,"Tyler, TX: Tyler Pounds Regional"
-TYS,"Knoxville, TN: McGhee Tyson"
-TYZ,"Taylor, AZ: Taylor Airport"
-U36,"Aberdeen, ID: Aberdeen Municipal"
-UBF,"Chatham, MA: Chatham Municipal"
-UBS,"Columbus, MS: Columbus-Lowndes County"
-UCA,"Utica/Rome, NY: Oneida County"
-UCY,"Union City, TN: Everett-Stewart Regional"
-UDD,"Bermuda Dunes, CA: Bermuda Dunes Airport"
-UDG,"Darlington, SC: Darlington County"
-UES,"Waukesha, WI: Waukesha County"
-UGA,"Ugashik, AK: Ugashik Airport"
-UGB,"Pilot Point, AK: Ugashik Bay"
-UGI,"Uganik, AK: Uganik Airport"
-UGN,"Waukegan, IL: Waukegan National"
-UGS,"Ugashik, AK: Ugashik Airport"
-UIN,"Quincy, IL: Quincy Regional-Baldwin Field"
-UKI,"Ukiah, CA: Ukiah Municipal"
-ULM,"New Ulm, MN: New Ulm Municipal"
-ULS,"Ulysses, KS: Ulysses Airport"
-UMB,"Umnak, AK: North Shore"
-UMM,"Summit, AK: Summit Airport"
-UMT,"Umiat, AK: Umiat Airport"
-UNK,"Unalakleet, AK: Unalakleet Airport"
-UNS,"Umnak, AK: Umnak Airport"
-UNU,"Juneau, WI: Dodge County"
-UOS,"Sewanee, TN: Franklin County"
-UOX,"Oxford, MS: University-Oxford"
-UPP,"Upolo Point, HI: Upolu"
-UQE,"Queens, AK: The Queens"
-USA,"Concord, NC: Concord Padgett Regional"
-USI,"Usibelli, AK: Usi Belli Coal Mine"
-UST,"St. Augustine, FL: Northeast Florida Regional"
-UT1,"Heber, UT: Heber Valley"
-UT2,"North Salt Lake, UT: A A Helicopters Inc"
-UT3,"Spanish Fork, UT: Spanish Fork Municipal Woodhouse Field"
-UTM,"Tunica, MS: Tunica Municipal"
-UTO,"Utopia, AK: Indian Mountain LRRS"
-UUK,"Kuparuk, AK: North Kuparuk"
-UVA,"Uvalde, TX: Garner Field"
-UXA,"Lik Camp, AK: Lik Camp Airport"
-UXC,"Hawley, MN: Hawley Municipal"
-UXD,"Chowchilla, CA: Chowchilla Airport"
-UXE,"Faulkton, SD: Faulkton Municipal"
-UXF,"St. Anthony, ID: Stanford Field"
-UXG,"Dutch John, UT: Dutch John Airport"
-UXI,"Calder Bay, AK: Calder Bay Airport"
-UXJ,"Richmond, KY: Central Kentucky Regional"
-UXK,"Petaluma, CA: Petaluma Municipal"
-UXL,"Chariot, AK: Chariot Airport"
-UXM,"47-Mile Mine, AK: 47-Mile Mine Airport"
-UXN,"Prestonsburg, KY: Big Sandy Regional"
-UXO,"Fitchburg, MA: Fitchburg Municipal"
-UXP,"Bay St. Louis, MS: Stennis International"
-UXR,"Monument Valley, UT: Monument Valley Airport"
-UXS,"Cimarron, KS: Cimarron Municipal"
-UXT,"Lorain/Elyria, OH: Lorain Cnty Regional"
-UXU,"Cheboygan, MI: Cheboygan County"
-UXV,"Enterprise, OR: Enterprise Municipal"
-UXW,"Cookeville, TN: Putnam County"
-UXX,"Hot Springs, MT: Hot Springs Airport"
-UXY,"Circle, MT: Circle Town County"
-UXZ,"Garrison, ND: Garrison Municipal"
-VA1,"Emporia, VA: Emporia Greensville Regional"
-VA2,"Chesapeake, VA: Chesapeake Regional"
-VA3,"Marion/Wytheville, VA: Mountain Empire"
-VA4,"Leesburg, VA: Leesburg Executive"
-VA5,"Richmond, VA: Hanover County Municipal"
-VA6,"Moneta, VA: Smith Mountain Lake"
-VA7,"Bridgewater, VA: Bridgewater Air Park"
-VA8,"Richmond, VA: Richmond Executive Chesterfield County"
-VA9,"Norfolk, VA: Hampton Roads Executive"
-VAD,"Valdosta, GA: Moody AFB"
-VAK,"Chevak, AK: Chevak Airport"
-VBG,"Lompoc, CA: Vandenberg Sfb"
-VCB,"View Cove, AK: View Cove Airport"
-VCT,"Victoria, TX: Victoria Regional"
-VCV,"Victorville, CA: Southern California Logistics"
-VDI,"Vidalia, GA: Vidalia Regional"
-VDZ,"Valdez, AK: Valdez Pioneer Field"
-VEE,"Venetie, AK: Venetie Airport"
-VEL,"Vernal, UT: Vernal Regional"
-VEO,"Versailles, MO: Roy Otten Memorial Airfield"
-VGC,"Hamilton, NY: Hamilton Municipal"
-VGT,"Las Vegas, NV: North Las Vegas"
-VHN,"Van Horn, TX: Culberson County"
-VIH,"Vichy, MO: Rolla National"
-VIK,"Kavik River, AK: Kavik River Airport"
-VIS,"Visalia, CA: Visalia Municipal"
-VJI,"Abingdon, VA: Virginia Highlands"
-VKS,"Vicksburg, MS: Vicksburg Municipal"
-VLD,"Valdosta, GA: Valdosta Regional"
-VNC,"Venice, FL: Venice Municipal"
-VNY,"Van Nuys, CA: Van Nuys Airport"
-VOK,"Camp Douglas, WI: Volk Field"
-VPC,"Cartersville, GA: Cartersville Airport"
-VPS,"Valparaiso, FL: Eglin AFB Destin Fort Walton Beach"
-VPZ,"Valparaiso, IN: Porter County Regional"
-VQQ,"Jacksonville, FL: Cecil"
-VRB,"Vero Beach, FL: Vero Beach Regional"
-VSF,"Springfield, VT: Hartness State"
-VT1,"West Dover, VT: Deerfield Valley Regional"
-VT2,"Warren, VT: Warren Sugarbush"
-VTN,"Valentine, NE: Miller Field"
-VUJ,"Albemarle, NC: Stanly County"
-VUO,"Vancouver, WA: Pearson Field"
-VWA,"Headland, AL: Headland Municipal"
-VWB,"Myrtle Creek, OR: Myrtle Creek Municipal"
-VWC,"Gallatin, TN: Music City Exec"
-VWD,"Hanford, CA: Hanford Municipal"
-VWE,"Chelan, WA: Lake Chelan"
-VWF,"Custer, SD: Custer County"
-VWG,"Garibaldi, OR: Tillamook"
-VWH,"Midland/Odessa, TX: Odessa Schlemeyer Field"
-VWI,"California City, CA: California City Municipal"
-VWJ,"Cameron, SC: McNeil"
-VWK,"Saratoga Springs, NY: Saratoga County"
-VWL,"Bemidji, MN: Nary National Shefland Field"
-VWM,"Weed, CA: Weed Airport"
-VWN,"Parker, AZ: Avi Suquilla"
-VWO,"Arlington, WA: Arlington Municipal"
-VWP,"Bernard, ID: Bernard Usfs"
-VWQ,"Lodi, CA: Kingdon Airpark"
-VWR,"Independence, CA: Independence Airport"
-VWS,"Wichita, KS: Colonel James Jabara"
-VWT,"Americus, GA: Jimmy Carter Regional"
-VWW,"Deer Lodge, MT: Deer Lodge-City-County"
-VWX,"Hondo, TX: South Texas Regional at Hondo"
-VWZ,"Granite Creek Mine, AK: Granite Creek Mine Airport"
-VYS,"Peru, IL: Illinois Valley Regional"
-VZA,"Marvel Creek Mine, AK: Marvel Creek Mine Airport"
-VZB,"Mitrofania, AK: Mitrofania Airport"
-VZC,"Mush Bay, AK: Mush Bay Airport"
-VZD,"Campbell Lagoon, AK: Campbell Lagoon Airport"
-VZE,"Frazer Lake, AK: Frazer Lake Airport"
-VZF,"Afognak Straits, AK: Afognak Straits Airport"
-VZG,"Moffet Bay, AK: Moffet Bay Airport"
-VZH,"Mineola, TX: Mineola Wisener Field"
-VZI,"Brundidge, AL: Brundidge Municipal"
-VZJ,"Payette, ID: Payette Municipal"
-VZK,"International Seafoods, AK: International Seafoods Airport"
-VZL,"Los Alamitos, CA: Los Alamitos AAF"
-VZM,"Jensens Strip, AK: Jensens Strip Airport"
-VZN,"Wildman Creek, AK: Wildman Creek Airport"
-VZO,"Stepovak, AK: Stepovak Airport"
-VZQ,"Puale Bay, AK: Puale Bay Airport"
-VZR,"Katmai Bay, AK: Katmai Bay Airport"
-VZS,"Kashvik Bay, AK: Kashvik Bay Airport"
-VZT,"Cinder Mountain, AK: Cinder Mountain Airport"
-VZU,"Hagemeister Island, AK: Hagemeister Island Airport"
-VZV,"Cape Peirce, AK: Cape Peirce Airport"
-VZW,"Cape Greig, AK: Cape Greig Airport"
-VZY,"Katmai Lodge, AK: Katmai Lodge Airport"
-VZZ,"South St. Paul, MN: South St. Paul Municipal-Richard E. Fleming Field"
-WA1,"Camp Orkila Eastsound, WA: Camp Orkila Seaplane Base"
-WA2,"Mansfield, WA: Mansfield Airport"
-WA3,"Shaw Island, WA: Shaw Islands Water Aerodrome"
-WA4,"Medical Lake, WA: Isaacson"
-WA5,"Winthrop, WA: Methow Valley State"
-WA6,"Stehekin, WA: Stehekin Seaplane Landing"
-WA7,"Chelan, WA: Chelan Seaplane Landing"
-WA8,"Eastsound, WA: Waldron Airstrip"
-WA9,"Brewster, WA: Anderson Field"
-WAA,"Wales, AK: Wales Airport"
-WAL,"Chincoteague, VA: Wallops Flight Facility"
-WAR,"Warsaw, IN: Warsaw Municipal"
-WAS,"Washington, DC: Washington DC Metropolitan Area"
-WAX,"Warroad, MN: Warroad International Memorial"
-WBB,"Stebbins, AK: Stebbins Airport"
-WBH,"Commerce/Montebello, CA: Commerce/Montebello Heliport"
-WBN,"Woburn, MA: Woburn Airport"
-WBQ,"Beaver, AK: Beaver Airport"
-WBR,"Big Rapids, MI: Roben-Hood"
-WBS,"Bennettsville, SC: Bennettsville Airport"
-WBY,"Downtown, CA: Downtown Airport"
-WCL,"Whalers Cove Lodge, AK: Whalers Cove Lodge Airport"
-WCR,"Chandalar, AK: Chandalar Lake"
-WDB,"Wide Bay, AK: Wide Bay Airport"
-WDG,"Enid, OK: Enid Woodring Regional"
-WDR,"Winder, GA: Barrow County"
-WFB,"Ketchikan, AK: Ketchikan Waterfront Seaplane Base"
-WFK,"Frenchville, ME: Northern Aroostook Regional"
-WGO,"Winchester, VA: Winchester Regional"
-WHD,"Hyder, AK: Hyder Seaplane Base"
-WHP,"Los Angeles, CA: Whiteman"
-WHR,"Eagle, CO: Vail/Avon"
-WHT,"Wharton, TX: Wharton Regional"
-WI1,"Black River Falls, WI: Black River Falls Area"
-WI2,"Phillips, WI: Price County"
-WI3,"Ehpriam, WI: Ephraim Gibraltar"
-WI4,"Middleton, WI: Middleton Municipal Morey Field"
-WI5,"Moroe, WI: Monroe Municipal"
-WI6,"Waupaca, WI: Waupaca Municipal"
-WI7,"Baraboo, WI: Baraboo Wisconsin Dells Regional"
-WIB,"Wilbur, WA: Wilbur Airport"
-WJF,"Lancaster, CA: General William J. Fox Airfield"
-WKK,"Aleknagik, AK: Aleknagik New"
-WKL,"Waikoloa Village, HI: Waikoloa Heliport"
-WKV,"Philadelphia, PA: Penns Landing Seaplane Base"
-WLB,"Labouchere Bay, AK: Labouchere Bay Airport"
-WLD,"Winfield, KS: Strother Field"
-WLK,"Selawik, AK: Selawik Airport"
-WLM,"Waltham, MA: Waltham Hospital Heliport"
-WLR,"Loring, AK: Loring Airport"
-WLW,"Willows, CA: Willows Glenn County"
-WMC,"Winnemucca, NV: Winnemucca Municipal"
-WMH,"Mountain Home, AR: Baxter County"
-WMK,"Meyers Chuck, AK: Meyers Chuck Seaplane Base"
-WMO,"White Mountain, AK: White Mountain Airport"
-WNA,"Napakiak, AK: Napakiak Airport"
-WNC,"Tuxekan Island, AK: Naukati Bay Seaplane Base"
-WOD,"Wood River, AK: Wood River Airport"
-WOW,"Willow, AK: Willow Airport"
-WPO,"Paonia, CO: North Fork Valley"
-WQA,"Ovid, NY: Ovid Airport"
-WQB,"Mandan, ND: Mandan Regional Lawler Field"
-WQC,"Hamilton, MT: Ravalli County"
-WQD,"Tulelake, CA: Tulelake Municipal"
-WQE,"Dinsmore, CA: Dinsmore Airport"
-WQF,"Rigby, ID: Rigby Airport"
-WQG,"Hesperia, CA: Hesperia Airport"
-WQH,"Dorris, CA: Butte Valley"
-WQI,"Connell, WA: Connell City"
-WQJ,"Peard Bay, AK: Peard Bay Airport"
-WQK,"Townsend, MT: Broadwater County"
-WQL,"Bluff, AK: Bluff Airport"
-WQM,"Lake Charles, LA: Chennault Industrial Airpark"
-WQN,"Campbellsville, KY: Taylor County"
-WQO,"Rosamond, CA: Rosamond Skypark"
-WQP,"Oceano, CA: Oceano County"
-WQQ,"Fairburn, SD: Custer State Park"
-WQR,"Naknek, AK: Tibbetts"
-WQS,"Poplar, MT: Poplar Municipal"
-WQT,"Bridger, MT: Bridger Municipal"
-WQU,"Portales, NM: Portales Municipal"
-WQW,"David River, AK: David River Airport"
-WQX,"Kiavak, AK: Kiavak Airport"
-WQY,"Port Wakefield, AK: Port Wakefield Airport"
-WQZ,"Chignik Lake, AK: Chignik Lake Airport"
-WRB,"Macon, GA: Robins AFB"
-WRG,"Wrangell, AK: Wrangell Airport"
-WRI,"Fort Dix, NJ: McGuire Field"
-WRL,"Worland, WY: Worland Municipal"
-WSB,"Steamboat Bay, AK: Steamboat Bay Airport"
-WSG,"Washington, PA: Washington County"
-WSH,"Shirley, NY: Brookhaven"
-WSI,"Wasilla, AK: Wasilla Airport"
-WSJ,"San Juan, AK: San Juan Airport"
-WSM,"Wiseman, AK: Wiseman Airport"
-WSN,"South Naknek, AK: South Naknek 2"
-WST,"Westerly, RI: Westerly State"
-WSX,"Westsound, WA: Westsound Airport"
-WTC,"New York, NY: World Trade Center Heliport"
-WTK,"Noatak, AK: Noatak Airport"
-WTL,"Tuntutuliak, AK: Tuntutuliak Airport"
-WTR,"Whiteriver, AZ: Whiteriver Airport"
-WTT,"Whittier, AK: Whittier Airport"
-WUJ,"Duchesne, UT: Duchesne Municipal"
-WUQ,"Ocean Shores, WA: Avco"
-WV1,"Charleston, WV: Mcs-Pad Heliport"
-WV2,"Logan, WV: Logan County"
-WVA,"Falls Church, VA: Washington-Virginia"
-WVI,"Watsonville, CA: Watsonville Municipal"
-WVL,"Augusta/Waterville, ME: Waterville Regional"
-WWA,"Wasilla, AK: Wasilla Airport"
-WWD,"Cape May, NJ: Cape May County"
-WWP,"Whale Pass, AK: Whale Pass Airport"
-WWR,"Woodward, OK: West Woodward"
-WWT,"Newtok, AK: Mertarvik"
-WY1,"Pinedale, WY: Ralph Wenz Field"
-WYB,"Yes Bay, AK: Yes Bay Lodge Seaplane Base"
-WYS,"West Yellowstone, MT: Yellowstone"
-XES,"Lake Geneva, WI: Americana"
-XMD,"Madison, SD: Madison Municipal"
-XNA,"Fayetteville, AR: Northwest Arkansas National"
-XRS,"Reston, VA: Reston Airport"
-XSD,"Tonopah, NV: Tonopah Test Range"
-XSM,"Leonardtown, MD: St. Mary's County Regional"
-XT1,"New Braunfels, TX: New Braunfels National"
-XT2,"Bridgeport, TX: Bridgeport Municipal"
-XT3,"Granbury, TX: Granbury Regional"
-XT4,"Fulton, TX: Kalt Ranch"
-XWA,"Williston, ND: Williston Basin International"
-XWC,"Yantarni Bay, AK: Yantarni Bay Airport"
-XWE,"Copalis, WA: Copalis State"
-XWF,"Jerome, ID: Jerome County"
-XWH,"Aztec, NM: Aztec Municipal"
-XWJ,"Dexter, ME: Dexter Regional"
-XWK,"Port Orchard, WA: Port Orchard Airport"
-XWL,"Blackfoot, ID: McCarley Field"
-XWN,"Jupiter, FL: William P Gwinn"
-XWO,"Kimball, NE: Kimball Municipal/Robert E. Arraj Field"
-XWS,"Oliktok, AK: Oliktok LRRS"
-XWT,"Nushagak Bay, AK: Nushagak Bay Airport"
-XWU,"Marion, AL: Perry County"
-XWW,"Driggs, ID: Teton Peaks"
-XXD,"Clarendon, TX: Smiley Johnson Municipal/Bass Field"
-XXE,"Lakewood, NJ: Lakewood Airport"
-XXG,"Cambridge, MA: Arthur D. Little Heliport"
-XXN,"Willits, CA: Ells Field-Willits Municipal"
-XXO,"Hurricane, UT: General Dick Stout Field"
-XXP,"Lakeport, CA: Lampson Field"
-XXR,"Mariposa, CA: Mariposa-Yosemite"
-XXS,"Creswell, OR: Hobby Field"
-XXT,"Polson, MT: Polson Airport"
-XXU,"Ashland, OR: Ashland Municipal-Sumner Parker Field"
-XXV,"Decatur, WA: Decatur Shores"
-XXW,"Lake City, FL: Lake City Gateway"
-XXX,"Mena, AR: Mena Intermountain Municipal"
-XXY,"Fortuna, CA: Rohnerville"
-XXZ,"Zuni Pueblo, NM: Black Rock"
-YAK,"Yakutat, AK: Yakutat Airport"
-YIP,"Detroit, MI: Willow Run"
-YKM,"Yakima, WA: Yakima Air Terminal/McAllister Field"
-YKN,"Yankton, SD: Chan Gurney Municipal"
-YNG,"Youngstown/Warren, OH: Youngstown-Warren Regional"
-YUM,"Yuma, AZ: Yuma MCAS/Yuma International"
-ZBX,"Branson, MO: John the Diver"
-ZNC,"Nyac, AK: Nyac Airport"
-ZXB,"Albuquerque, NM: Double Eagle II"
-ZXC,"Gasquet, CA: Ward Field"
-ZXF,"Illinois Creek, AK: Illinois Creek Airport"
-ZXH,"Chomondely Sound, AK: Chomondely Sound Airport"
-ZXI,"Coal Bay, AK: Coal Bay Airport"
-ZXJ,"Happy Harbour, AK: Happy Harbour Airport"
-ZXK,"Lancaster Cove, AK: Lancaster Cove Airport"
-ZXL,"Reid Cove, AK: Reid Cove Airport"
-ZXM,"Saltery Cove, AK: Saltery Cove Airport"
-ZXN,"Clover Bay, AK: Clover Bay Airport"
-ZXO,"El Capitan, AK: El Capitan Peak"
-ZXP,"Salmon Bay Lake, AK: Salmon Bay Lake Airport"
-ZXQ,"Santa Ynez, CA: Santa Ynez Airport"
-ZXT,"Cloverdale, CA: Cloverdale Municipal"
-ZXU,"North Kingstown, RI: Quonset State"
-ZXV,"Nappanee, IN: Nappanee Municipal"
-ZXW,"Paradise, CA: Paradise Skypark"
-ZXX,"Kennewick, WA: Vista Field"
-ZXY,"Delta, CO: Blake Field"
-ZXZ,"Waterville, WA: Waterville Airport"
-ZZV,"Zanesville, OH: Zanesville Municipal"
+airport_id,city,state
+01A,Afognak Lake,AK
+03A,Granite Mountain,AK
+04A,Lik,AK
+05A,Little Squaw,AK
+05K,Port Alsworth,AK
+06A,Kizhuyak,AK
+07A,Klawock,AK
+08A,Elizabeth Island,AK
+09A,Homer,AK
+1AK,Mertarvik,AK
+1B1,Hudson,NY
+1CA,Rio Vista,CA
+1CT,Somers,CT
+1FL,Titusville,FL
+1G4,Peach Springs,AZ
+1GA,Hampton,GA
+1N7,Blairstown,NJ
+1NC,Roanoke Rapids,NC
+1NJ,Andover,NJ
+1NY,Penn Yan,NY
+1OH,Willoughby,OH
+1PA,Connellsville,PA
+1TN,Lexington Parsons,TN
+1TX,Dumas,TX
+1VA,Warrenton,VA
+1WA,Deer Park,WA
+2AK,Deerpark,AK
+2CA,Delano,CA
+2FL,West Palm Beach,FL
+2GA,Camilla,GA
+2NC,Asheboro,NC
+2NJ,Williamstown,NJ
+2NY,Port Washington,NY
+2OH,Coshocton,OH
+2PA,Philadelphia,PA
+2TN,Dayton,TN
+2TX,Brenham,TX
+2VA,Williamsburg,VA
+2WA,Tacoma,WA
+2WK,Odessa,WA
+3AK,Tintina,AK
+3CA,Garberville,CA
+3FL,Wauchula,FL
+3GA,Blakely,GA
+3NC,Hendersonville,NC
+3NJ,Camden,NJ
+3NY,Suffolk,NY
+3PA,Conshohocken,PA
+3TN,Elizabethon,TN
+3TX,Lancaster,TX
+3VA,West Point,VA
+4AK,North Pole,AK
+4CA,Davis,CA
+4CL,El Mirage,CA
+4FL,Quincy,FL
+4GA,Atlanta,GA
+4NC,Andrews,NC
+4NJ,Pomona,NJ
+4NY,Millbrook,NY
+4PA,Bensalem,PA
+4PN,Eagles Mere,PA
+4TX,Lajitas,TX
+5AK,Lawing,AK
+5CA,Palmdale,CA
+5FL,Apalachicola,FL
+5GA,Calhoun,GA
+5NJ,Newark,NJ
+5NY,Malone,NY
+5PA,Allentown,PA
+5TX,Edinburg,TX
+6AK,Newtok,AK
+6B0,Middlebury,VT
+6CA,Little River,CA
+6FL,Arcadia,FL
+6GA,Cornelia,GA
+6NJ,Atlantic City,NJ
+6NY,New York,NY
+6PA,Chambersburg,PA
+6TX,Leakey,TX
+7AK,Akun,AK
+7CA,Lincoln,CA
+7FL,West Palm Beach,FL
+7NJ,East Rutherford,NJ
+7NY,New York,NY
+7TX,Graford,TX
+81W,Lopez Island,WA
+8AK,Nuiqsut,AK
+8F3,Crosbyton,TX
+8FL,Keystone Heights,FL
+8NJ,Kearny,NJ
+8NY,New York,NY
+8TX,Waco,TX
+9AK,Palmer,AK
+9NY,Shelter Island,NY
+9TX,Center,TX
+A01,Fairbanks/Ft. Wainwright,AK
+A02,Deadmans Bay,AK
+A03,Hallo Bay,AK
+A04,Red Lake,AK
+A05,Shell Lake,AK
+A06,Kougarok,AK
+A07,Selawik,AK
+A08,Pillar Bay,AK
+A09,Johnstone Point,AK
+A11,Bell Creek,AK
+A12,Cinnabar,AK
+A13,Mountaintop Mine,AK
+A14,Whitebear,AK
+A15,Puviaq,AK
+A16,Arley Lake,AK
+A17,Port Vita,AK
+A18,Kantishna,AK
+A1K,Deadhorse1,AK
+A1L,Cullman,AL
+A20,Alpine,AK
+A21,Serpentine,AK
+A22,Driftwood Bay,AK
+A23,Bradley Lake,AK
+A24,Chilkat Lake,AK
+A25,Nugget Creek,AK
+A26,Ivotuk,AK
+A27,Pogo Mines,AK
+A28,Ayakulik River,AK
+A29,Kiluda Bay,AK
+A2K,Bartletts,AK
+A2L,Fort Payne,AL
+A30,Terror Lake,AK
+A31,Selief Bay,AK
+A34,Laura Lake,AK
+A35,Kaktovik,AK
+A36,Deep Bay,AK
+A37,Kako,AK
+A38,Molly Creek,AK
+A39,Ptarmigan Lake,AK
+A3K,Smith Bay,AK
+A40,Cape Simpson,AK
+A41,Kogru River,AK
+A42,Teshepkuk Lake,AK
+A43,Kodiak Island,AK
+A45,Lake Florence,AK
+A46,Lake Hasselborg,AK
+A47,Distin Lake,AK
+A48,Port Hobron,AK
+A49,Mooseville Airstrip,AK
+A4K,Dune Lake,AK
+A50,Big Bay,AK
+A51,Wien Lake,AK
+A52,Silver Salmon Creek,AK
+A53,Blear Lake,AK
+A54,Cannery Bay,AK
+A56,Bear Lake,AK
+A57,International Seafoods,AK
+A58,Cosna River,AK
+A59,Ivatuk,AK
+A5K,Paxson,AK
+A61,Cape Sarichef,AK
+A62,Taylor Mountain Mine,AK
+A63,Yukon Charley Rivvers,AK
+A65,Karluk Portage,AK
+A66,Hope,AK
+A67,Viekoda Bay,AK
+A69,Cold Bay,AK
+A6K,Fairbanks1,AK
+A70,Village Islands,AK
+A71,Homer,AK
+A72,Chinitna Bay,AK
+A73,McKinley Park,AK
+A74,Nanwalek,AK
+A75,Malina Bay,AK
+A76,Red Fox Bay,AK
+A77,Shearwater,AK
+A78,Cape Simpson,AK
+A79,Cape Simpson,AK
+A7K,Nakochna,AK
+A80,Cape Simpson,AK
+A81,Aglaq,AK
+A82,Nikiski,AK
+A83,Petrof Point,AK
+A84,Denali,AK
+A85,Big River,AK
+A87,Carry Inlet,AK
+A89,Montague Island,AK
+A8K,Granite Point,AK
+A90,Shannon Pond,AK
+A91,Omalik Lagoon,AK
+A92,Omolik Lagoon,AK
+A93,Bradley Lake Project,AK
+A94,Barrow,AK
+A95,Barrow,AK
+A96,Barrow,AK
+A97,Akulik,AK
+A98,Deadfall,AK
+A99,Eagle Creek,AK
+A9K,Healy,AK
+AA1,Bethel,AK
+AA2,Naknek-1,AK
+AA4,Kachemak Bay,AK
+AA5,Selby Lake,AK
+AA7,Independence Creek,AK
+AA8,Deadhorse,AK
+AA9,Napaimute,AK
+AAF,Apalachicola,FL
+ABE,Allentown/Bethlehem/Easton,PA
+ABI,Abilene,TX
+ABL,Ambler,AK
+ABQ,Albuquerque,NM
+ABR,Aberdeen,SD
+ABY,Albany,GA
+ACB,Bellaire,MI
+ACK,Nantucket,MA
+ACT,Waco,TX
+ACV,Arcata/Eureka,CA
+ACY,Atlantic City,NJ
+ADK,Adak Island,AK
+ADM,Ardmore,OK
+ADQ,Kodiak,AK
+ADS,Dallas,TX
+ADT,Ada,OK
+ADW,Camp Springs,MD
+AED,Aleneva,AK
+AET,Allakaket,AK
+AEX,Alexandria,LA
+AFF,Colorado Springs,CO
+AFK,Nebraska,NE
+AFM,Ambler,AK
+AFO,Afton,WY
+AFP,Wadesboro,NC
+AFW,Dallas/Fort Worth,TX
+AGC,Pittsburgh,PA
+AGN,Angoon,AK
+AGS,Augusta,GA
+AHD,Ardmore,OK
+AHN,Athens,GA
+AHT,Amchitka Island,AK
+AIA,Alliance,NE
+AIB,Anita Bay,AK
+AID,Anderson,IN
+AIK,Aiken,SC
+AIN,Wainwright,AK
+AIO,Atlantic,IA
+AIY,Atlantic City,NJ
+AIZ,Lake of the Ozarks,MO
+AK1,Seward Peninsula,AK
+AK2,Bear Fish Camp,AK
+AK3,Fairbanks,AK
+AK4,Squaw Lake,AK
+AK5,Qugruc,AK
+AK6,Gold King 2,AK
+AK7,Rampart,AK
+AK8,Zips,AK
+AK9,Tolstoi Bay,AK
+AKB,Atka,AK
+AKC,Akron,OH
+AKI,Akiak,AK
+AKK,Akhiok,AK
+AKN,King Salmon,AK
+AKO,Akron,CO
+AKP,Anaktuvuk Pass,AK
+AL1,Albertville,AL
+AL2,Alabaster,AL
+AL3,Huntsville,AL
+AL4,Andalusia/Opp,AL
+AL5,Demopolis,AL
+AL6,Fairhope,AL
+AL7,Jasper,AL
+AL8,Scottsboro,AL
+AL9,Sylacauga,AL
+ALB,Albany,NY
+ALE,Alpine,TX
+ALI,Alice,TX
+ALM,Alamogordo,NM
+ALN,Alton,IL
+ALO,Waterloo,IA
+ALS,Alamosa,CO
+ALW,Walla Walla,WA
+ALX,Alexander City,AL
+ALZ,Lazy Bay,AK
+AMA,Amarillo,TX
+AMK,Durango,CO
+AMN,Alma,MI
+AMW,Ames,IA
+ANA,Anaheim,CA
+ANB,Anniston,AL
+ANC,Anchorage,AK
+AND,Anderson,SC
+ANI,Aniak,AK
+ANN,Annette,AK
+ANP,Annapolis,MD
+ANV,Anvik,AK
+ANW,Ainsworth,NE
+AOH,Lima,OH
+AOO,Altoona,PA
+AOS,Amook Bay,AK
+APA,Denver,CO
+APC,Napa,CA
+APF,Naples,FL
+APG,Aberdeen,MD
+APH,Fort A P Hill,VA
+APN,Alpena,MI
+APT,Jasper,TN
+APV,Apple Valley,CA
+AQY,Girdwood,AK
+AR1,Russellville,AR
+AR2,Conway,AR
+AR3,Bentonville,AR
+AR4,Colt,AR
+ARA,New Iberia,LA
+ARB,Ann Arbor,MI
+ARC,Arctic Village,AK
+ARG,Walnut Ridge,AR
+ART,Watertown,NY
+ARV,Minocqua/Woodruff,WI
+ARX,Asbury Park,NJ
+ASE,Aspen,CO
+ASH,Nashua,NH
+ASL,Marshall,TX
+ASN,Talladega,AL
+ASQ,Austin,NV
+AST,Astoria/Seaside,OR
+ASX,Ashland,WI
+ASY,Ashley,ND
+ATE,Antlers,OK
+ATK,Atqasuk,AK
+ATL,Atlanta,GA
+ATO,Athens,OH
+ATS,Artesia,NM
+ATT,Atmautluak,AK
+ATU,Attu,AK
+ATW,Appleton,WI
+ATY,Watertown,SD
+AUG,Augusta/Waterville,ME
+AUK,Alakanuk,AK
+AUM,Austin/Albert Lea,MN
+AUN,Auburn,CA
+AUO,Auburn,AL
+AUS,Austin,TX
+AUW,Wausau,WI
+AUZ,Aurora,IL
+AVL,Asheville,NC
+AVO,Avon Park,FL
+AVP,Scranton/Wilkes-Barre,PA
+AVW,Tucson,AZ
+AVX,Avalon,CA
+AWM,West Memphis,AR
+AWX,Andrews,TX
+AXB,Alexandria Bay,NY
+AXN,Alexandria,MN
+AXS,Altus,OK
+AXV,Wapakoneta,OH
+AXX,Eagle Nest,NM
+AYS,Waycross,GA
+AZ1,Grand Canyon,AZ
+AZ2,Williams,AZ
+AZ3,Glendale,AZ
+AZ4,Salome,AZ
+AZ5,Springerville,AZ
+AZ6,Gila Bend,AZ
+AZ7,Colorado City,AZ
+AZ8,Green Valley,AZ
+AZ9,Coolidge,AZ
+AZA,Phoenix,AZ
+AZO,Kalamazoo,MI
+B19,Biddeford,ME
+B21,Carrabassett,ME
+BAB,Marysville,CA
+BAD,Shreveport,LA
+BAF,Westfield,MA
+BAM,Battle Mountain,NV
+BAR,Baker Island,AK
+BBC,Bay City,TX
+BBD,Brady,TX
+BBF,Burlington,MA
+BBW,Broken Bow,NE
+BBX,Blue Bell,PA
+BCB,Blacksburg,VA
+BCC,Bear Creek,AK
+BCE,Bryce Canyon,UT
+BCJ,Crestone,CO
+BCS,Belle Chasse,LA
+BCT,Boca Raton,FL
+BDE,Baudette,MN
+BDG,Blanding,UT
+BDL,Hartford,CT
+BDR,Bridgeport,CT
+BDY,Bandon,OR
+BEC,Wichita,KS
+BED,Bedford,MA
+BEH,Benton Harbor/St. Joseph,MI
+BET,Bethel,AK
+BFB,Blue Fox Bay,AK
+BFD,Bradford,PA
+BFF,Scottsbluff,NE
+BFG,Glen Canyon,UT
+BFI,Seattle,WA
+BFK,Aurora,CO
+BFL,Bakersfield,CA
+BFM,Mobile,AL
+BFP,Beaver Falls,PA
+BFR,Bedford,IN
+BFT,Beaufort,SC
+BGD,Borger,TX
+BGE,Bainbridge,GA
+BGM,Binghamton,NY
+BGQ,Big Lake,AK
+BGR,Bangor,ME
+BGS,Big Spring,TX
+BGT,Bagdad,AZ
+BHB,Bar Harbor,ME
+BHC,Bullhead City,AZ
+BHM,Birmingham,AL
+BIC,Big Creek,AK
+BID,Block Island,RI
+BIE,Beatrice,NE
+BIF,El Paso,TX
+BIG,Big Delta,AK
+BIH,Bishop,CA
+BIL,Billings,MT
+BIS,Bismarck/Mandan,ND
+BIX,Biloxi,MS
+BJC,Broomfield,CO
+BJI,Bemidji,MN
+BJJ,Wooster,OH
+BKC,Buckland,AK
+BKE,Baker,OR
+BKF,Brooks Lake,AK
+BKG,Branson,MO
+BKL,Cleveland,OH
+BKT,Blackstone,VA
+BKW,Beckley,WV
+BKX,Brookings,SD
+BLD,Boulder City,NV
+BLF,Princeton/Bluefield,WV
+BLH,Blythe,CA
+BLI,Bellingham,WA
+BLM,Belmar/Farmingdale,NJ
+BLV,Belleville,IL
+BMC,Brigham City,UT
+BMG,Bloomington,IN
+BMI,Bloomington/Normal,IL
+BML,Berlin,NH
+BMT,Beaumont,TX
+BMX,Big Mountain,AK
+BNA,Nashville,TN
+BNF,Baranof,AK
+BNG,Banning,CA
+BNH,Boston,MA
+BNL,Barnwell,SC
+BNO,Burns,OR
+BOI,Boise,ID
+BOK,Brookings,OR
+BOS,Boston,MA
+BOW,Bartow,FL
+BPI,Big Piney,WY
+BPT,Beaumont/Port Arthur,TX
+BQK,Brunswick,GA
+BQV,Bartlett Cove,AK
+BRD,Brainerd,MN
+BRG,Whitesburg,KY
+BRL,Burlington,IA
+BRO,Brownsville,TX
+BRW,Barrow,AK
+BRY,Bardstown,KY
+BSM,Austin,TX
+BSQ,Bisbee,AZ
+BSW,Boswell Bay,AK
+BTI,Barter Island,AK
+BTL,Battle Creek,MI
+BTM,Butte,MT
+BTP,Butler,PA
+BTR,Baton Rouge,LA
+BTT,Bettles,AK
+BTV,Burlington,VT
+BTY,Beatty,NV
+BUF,Buffalo,NY
+BUM,Butler,MO
+BUR,Burbank,CA
+BVD,Beaver Inlet,AK
+BVO,Bartlesville,OK
+BVR,St. James,MI
+BVU,Beluga,AK
+BVX,Batesville,AR
+BVY,Beverly,MA
+BWC,Brawley,CA
+BWD,Brownwood,TX
+BWG,Bowling Green,KY
+BWI,Baltimore,MD
+BWM,Bowman,ND
+BWS,Blaine,WA
+BXC,Boxborough,MA
+BXK,Buckeye,AZ
+BXS,Borrego Springs,CA
+BYA,Boundary,AK
+BYG,Buffalo,WY
+BYH,Blytheville,AR
+BYI,Burley/Rupert,ID
+BYW,Blakely Island,WA
+BZN,Bozeman,MT
+BZS,Washington,DC
+BZT,Brazoria,TX
+C01,Camarillo,CA
+C02,Bakersfield,CA
+C1A,Patterson,CA
+CA6,Chemehuevi Valley,CA
+CA7,Tracy,CA
+CAD,Cadillac,MI
+CAE,Columbia,SC
+CAK,Akron,OH
+CAR,Caribou,ME
+CBA,Corner Bay,AK
+CBE,Cumberland,MD
+CBF,Council Bluffs,IA
+CBK,Colby,KS
+CBM,Columbus,MS
+CCR,Concord,CA
+CCY,Charles City,IA
+CDB,Cold Bay,AK
+CDC,Cedar City,UT
+CDH,Camden,AR
+CDL,Candle,AK
+CDN,Camden,SC
+CDR,Chadron,NE
+CDV,Cordova,AK
+CDW,Caldwell,NJ
+CEA,Wichita,KS
+CEC,Crescent City,CA
+CEF,Chicopee Falls,MA
+CEM,Central,AK
+CEU,Clemson,SC
+CEV,Connersville,IN
+CEW,Crestview,FL
+CEX,Chena Hot Springs,AK
+CEY,Murray,KY
+CEZ,Cortez,CO
+CFA,Coffee Point,AK
+CFT,Clifton,AZ
+CFV,Coffeyville,KS
+CGA,Craig,AK
+CGE,Cambridge,MD
+CGF,Cleveland,OH
+CGI,Cape Girardeau,MO
+CGS,College Park,MD
+CGX,Chicago,IL
+CGZ,Casa Grande,AZ
+CHA,Chattanooga,TN
+CHD,Chandler,AZ
+CHI,Chicago,IL
+CHL,Challis,ID
+CHO,Charlottesville,VA
+CHP,Circle Hot Springs,AK
+CHS,Charleston,SC
+CHU,Chuathbaluk,AK
+CHZ,Chiloquin,OR
+CIB,Avalon,CA
+CIC,Chico,CA
+CID,Cedar Rapids/Iowa City,IA
+CIG,Craig,CO
+CIK,Chalkyitsik,AK
+CIL,Council,AK
+CIN,Carroll,IA
+CIR,Cairo,IL
+CIU,Sault Ste. Marie,MI
+CIV,Chomley,AK
+CJI,Crafton Island,AK
+CJR,Culpeper,VA
+CJW,Clay Center,KS
+CKB,Clarksburg/Fairmont,WV
+CKD,Crooked Creek,AK
+CKE,Clear Lake,CA
+CKM,Clarksdale,MS
+CKU,Cordova,AK
+CKV,Clarksville,TN
+CKX,Chicken,AK
+CLC,Clear Lake City,TX
+CLD,Carlsbad,CA
+CLE,Cleveland,OH
+CLF,Clear,AK
+CLG,Coalinga,CA
+CLI,Clintonville,WI
+CLK,Clinton,OK
+CLL,College Station/Bryan,TX
+CLM,Port Angeles,WA
+CLP,Clarks Point,AK
+CLR,Calipatria,CA
+CLS,Chehalis,WA
+CLT,Charlotte,NC
+CLU,Columbus,IN
+CMH,Columbus,OH
+CMI,Champaign/Urbana,IL
+CMX,Hancock/Houghton,MI
+CNE,Canon City,CO
+CNK,Concordia,KS
+CNM,Carlsbad,NM
+CNO,Chino,CA
+CNW,Waco,TX
+CNY,Moab,UT
+CO1,Monte Vista,CO
+CO3,Marina,CA
+CO6,Buena,CO
+CO7,Meeker,CO
+COA,Columbia,CA
+COD,Cody,WY
+COE,Coeur d'Alene,ID
+COF,Cocoa Beach,FL
+COM,Coleman,TX
+CON,Concord,NH
+COS,Colorado Springs,CO
+COT,Cotulla,TX
+COU,Columbia,MO
+CPR,Casper,WY
+CPS,St. Louis,MO
+CQL,Carbondale,CO
+CQW,Cheraw,SC
+CRE,Myrtle Beach,SC
+CRG,Jacksonville,FL
+CRP,Corpus Christi,TX
+CRS,Corsicana,TX
+CRW,Charleston/Dunbar,WV
+CRX,Corinth,MS
+CSE,Crested Butte,CO
+CSG,Columbus,GA
+CSM,Clinton,OK
+CSN,Carson City,NV
+CSP,Cape Spencer,AK
+CSU,Cape Sabine,AK
+CSV,Crossville,TN
+CT1,Plainville,CT
+CT2,Simsbury,CT
+CT3,Willimantic,CT
+CT4,New Milford,CT
+CT5,Danielson,CT
+CT6,East Haddam,CT
+CT7,Chester,CT
+CT8,Belie Haven,CT
+CT9,Meriden,CT
+CTB,Cut Bank,MT
+CTH,Coatesville,PA
+CTO,Calverton,NY
+CTW,Cottonwood,AZ
+CTX,Cortland,NY
+CTY,Cross City,FL
+CTZ,Clinton,NC
+CUB,Columbia,SC
+CUW,Cube Cove,AK
+CVA,Pittsburgh,PA
+CVG,Cincinnati,OH
+CVN,Clovis,NM
+CVO,Corvallis,OR
+CVS,Clovis,NM
+CVX,Charlevoix,MI
+CWA,Mosinee,WI
+CWF,Lake Charles,LA
+CWI,Clinton,IA
+CWS,Center Island,WA
+CXC,Chitina,AK
+CXF,Coldfoot,AK
+CXL,Calexico,CA
+CXO,Conroe,TX
+CYF,Chefornak,AK
+CYM,Chatham,AK
+CYS,Cheyenne,WY
+CYT,Cape Yakataga,AK
+CZC,Copper Center,AK
+CZF,Cape Romanzof,AK
+CZN,Chisana,AK
+CZO,Chistochina,AK
+CZP,Cape Pole,AK
+DAB,Daytona Beach,FL
+DAG,Daggett,CA
+DAL,Dallas,TX
+DAN,Danville,VA
+DAY,Dayton,OH
+DBN,Dublin,GA
+DBQ,Dubuque,IA
+DCA,Washington,DC
+DCK,Dahl Creek,AK
+DCU,Decatur,AL
+DDC,Dodge City,KS
+DE2,Middletown,DE
+DE3,Dover-Cheswold,DE
+DEC,Decatur,IL
+DEH,Decorah,IA
+DEN,Denver,CO
+DET,Detroit,MI
+DFI,Defiance,OH
+DFW,Dallas/Fort Worth,TX
+DGB,Danger Bay,AK
+DGW,Douglas,WY
+DHB,Deer Harbor,WA
+DHN,Dothan,AL
+DHT,Dalhart,TX
+DIK,Dickinson,ND
+DIO,Diomede Island,AK
+DJN,Delta Junction,AK
+DKK,Dunkirk,NY
+DLF,Del Rio,TX
+DLG,Dillingham,AK
+DLH,Duluth,MN
+DLL,Dillon,SC
+DLO,Dolomi,AK
+DLS,The Dalles,OR
+DMA,Tucson,AZ
+DMN,Deming,NM
+DMO,Sedalia,MO
+DNC,Duncan Canal,AK
+DNE,Dallas/Fort Worth,TX
+DNL,Augusta,GA
+DNN,Dalton,GA
+DNV,Danville,IL
+DOF,Dora Bay,AK
+DOV,Dover,DE
+DPA,Chicago,IL
+DPG,Dugway,UT
+DQC,Sebastian,FL
+DQD,Soda Springs,ID
+DQE,Holtville,CA
+DQF,Phoenix,AZ
+DQH,Alpine,AK
+DQI,Colusa,CA
+DQJ,Killdeer,ND
+DQK,Fort Drum,NY
+DQL,Anchorage,AK
+DQN,New Smyrna Beach,FL
+DQO,Delhi,LA
+DQP,Georgetown,KY
+DQQ,Cozad,NE
+DQR,Peach Springs,AZ
+DQS,Whitmore,AZ
+DQU,Ketchikan,AK
+DQV,Haines,AK
+DQW,Peach Springs,AZ
+DQX,Tsui River,AK
+DQY,Cape Canaveral,FL
+DQZ,Platinum,AK
+DRA,Mercury,NV
+DRE,Drummond Island,MI
+DRF,Drift River,AK
+DRG,Deering,AK
+DRO,Durango,CO
+DRT,Del Rio,TX
+DRU,Drummond,MT
+DSI,Destin,FL
+DSM,Des Moines,IA
+DTA,Delta,UT
+DTH,Death Valley,CA
+DTL,Detroit Lakes,MN
+DTN,Shreveport,LA
+DTO,Denton,TX
+DTR,Decatur Island,WA
+DTT,Detroit,MI
+DTW,Detroit,MI
+DUA,Durant,OK
+DUC,Duncan,OK
+DUF,Duck,NC
+DUG,Douglas,AZ
+DUJ,DuBois,PA
+DUT,Unalaska,AK
+DVL,Devils Lake,ND
+DVN,Davenport,IA
+DVT,Phoenix,AZ
+DWA,Davis/Woodland/Winters,CA
+DWH,Houston,TX
+DWS,Orlando,FL
+DXR,Danbury,CT
+DYL,Doylestown,PA
+DYS,Abilene,TX
+EAA,Eagle,AK
+EAG,Noatak,AK
+EAN,Wheatland,WY
+EAR,Kearney,NE
+EAT,Wenatchee,WA
+EAU,Eau Claire,WI
+ECA,East Tawas,MI
+ECG,Elizabeth City,NC
+ECP,Panama City,FL
+ECS,Newcastle,WY
+ECU,Rocksprings,TX
+EDA,Edna Bay,AK
+EDE,Edenton,NC
+EDF,Anchorage,AK
+EDW,Edwards,CA
+EED,Needles,CA
+EEK,Eek,AK
+EEN,Keene,NH
+EFB,Eight Fathom Bight,AK
+EFD,Houston,TX
+EFK,Newport,VT
+EGA,Chenega,AK
+EGE,Eagle,CO
+EGI,Crestview,FL
+EGP,Eagle Pass,TX
+EGT,Wellington,KS
+EGV,Eagle River,WI
+EGX,Egegik,AK
+EHM,Cape Newenham,AK
+EHR,Eagle Harbor,AK
+EHT,East Hartford,CT
+EIL,Fairbanks,AK
+EKA,Eureka,CA
+EKI,Elkhart,IN
+EKN,Elkins,WV
+EKO,Elko,NV
+EKX,Elizabethtown,KY
+EKY,Bessemer,AL
+ELA,Eagle Lake,TX
+ELD,El Dorado,AR
+ELI,Elim,AK
+ELM,Elmira/Corning,NY
+ELN,Ellensburg,WA
+ELP,El Paso,TX
+ELV,Elfin Cove,AK
+ELW,Ellamar,AK
+ELY,Ely,NV
+EMK,Emmonak,AK
+EMM,Kemmerer,WY
+EMP,Emporia,KS
+EMT,El Monte,CA
+ENA,Kenai,AK
+END,Enid,OK
+ENL,Centralia,IL
+ENN,Nenana,AK
+ENV,Wendover,UT
+ENW,Kenosha,WI
+EOK,Keokuk,IA
+EPH,Ephrata/Moses Lake,WA
+ERI,Erie,PA
+ERV,Kerrville,TX
+ESC,Escanaba,MI
+ESD,Eastsound,WA
+ESF,Alexandria,LA
+ESN,Easton,MD
+ESP,Stroudsburg,PA
+EST,Estherville,IA
+ETB,West Bend,WI
+ETN,Eastland,TX
+ETS,Enterprise,AL
+EUE,Eureka,NV
+EUF,Eufaula,AL
+EUG,Eugene,OR
+EVC,Eva Creek,AK
+EVM,Eveleth,MN
+EVV,Evansville,IN
+EVW,Evanston,WY
+EWB,New Bedford/Fall River,MA
+EWK,Newton,KS
+EWN,New Bern/Morehead/Beaufort,NC
+EWR,Newark,NJ
+EWU,Mertarvik,AK
+EXI,Excursion Inlet,AK
+EYW,Key West,FL
+F70,Murrieta/Temecula,CA
+FAI,Fairbanks,AK
+FAK,False Island,AK
+FAL,Roma,TX
+FAM,Farmington,MO
+FAR,Fargo,ND
+FAT,Fresno,CA
+FAU,Fairmount Island,AK
+FAY,Fayetteville,NC
+FBG,Fort Bragg,NC
+FBK,Fairbanks,AK
+FBR,Fort Bridger,WY
+FBS,Friday Harbor,WA
+FCA,Kalispell,MT
+FCH,Fresno,CA
+FCM,Minneapolis,MN
+FCS,Colorado Springs,CO
+FDK,Frederick,MD
+FDR,Frederick,OK
+FDY,Findlay,OH
+FEP,Freeport,IL
+FET,Fremont,NE
+FEW,Cheyenne,WY
+FFL,Fairfield,IA
+FFM,Fergus Falls,MN
+FFO,Dayton,OH
+FFT,Frankfort,KY
+FHB,Fernandina Beach,FL
+FHU,Fort Huachuca,AZ
+FIC,Fire Cove,AK
+FID,Fishers Island,NY
+FIL,Fillmore,UT
+FKL,Franklin/Oil City,PA
+FL1,Zephyrhills,FL
+FL2,Valkaria,FL
+FL3,Chipley,FL
+FL4,Bunnell,FL
+FL5,Williston,FL
+FL6,Clewiston,FL
+FL7,Placida,FL
+FL8,Deland,FL
+FL9,Lake Wales,FL
+FLD,Fond Du Lac,WI
+FLG,Flagstaff,AZ
+FLJ,Falls Bay,AK
+FLL,Fort Lauderdale,FL
+FLO,Florence,SC
+FLT,Flat,AK
+FLU,New York,NY
+FLV,Leavenworth,KS
+FLX,Fallon,NV
+FMC,Five Mile Camp,AK
+FME,Fort Meade,MD
+FMH,Falmouth,MA
+FMN,Farmington,NM
+FMS,Fort Madison,IA
+FMY,Fort Myers,FL
+FNL,Fort Collins/Loveland,CO
+FNR,Funter Bay Alaska,AK
+FNT,Flint,MI
+FOA,Fortuna Ledge,AK
+FOB,Fort Bragg,CA
+FOD,Fort Dodge,IA
+FOE,Topeka,KS
+FOK,Westhampton,NY
+FPR,Fort Pierce,FL
+FPY,Perry,FL
+FQA,Patching Lake,AK
+FQB,Ventura,CA
+FQC,Kodiak,AK
+FQD,Katmai National Park,AK
+FQE,Annex Creek,AK
+FQF,Davidson Creek,AK
+FQG,Snettisham,AK
+FQH,Fire Island,AK
+FQI,Scott,KY
+FQJ,Greens Creek,AK
+FQK,Gull Cove,AK
+FQL,Flora,IL
+FQN,Karta Lake,AK
+FQO,Manzanita Lake,AK
+FQP,Shrimp Bay,AK
+FQQ,Dry Bay,AK
+FQR,Josephine Lake,AK
+FQU,Libby,MT
+FQV,Volcano Bay,AK
+FQW,Fort Glenn,AK
+FQX,Babe Islands,AK
+FQY,Kahli Cove,AK
+FRD,Friday Harbor,WA
+FRG,East Farmingdale,NY
+FRH,French Lick,IN
+FRM,Fairmont,MN
+FRP,Fresh Water Bay,AK
+FRR,Front Royal,VA
+FRY,Fryeburg,ME
+FSD,Sioux Falls,SD
+FSI,Fort Sill,OK
+FSK,Fort Scott,KS
+FSM,Fort Smith,AR
+FST,Ft. Stockton,TX
+FTC,Fort Collins,CO
+FTG,Denver,CO
+FTK,Fort Knox,KY
+FTL,Fortuna Ledge,AK
+FTW,Dallas/Fort Worth,TX
+FTY,Atlanta,GA
+FUL,Fullerton,CA
+FVA,Osprey Lodge,AK
+FVD,Sonora,TX
+FVE,Fallbrook,CA
+FVG,Wickenburg,AZ
+FVH,Othello,WA
+FVI,Lake Providence,LA
+FVL,Colusa,CA
+FVN,Culbertson,MT
+FVO,Aurora,OR
+FVP,Quincy,CA
+FVQ,Donlin Creek Mine,AK
+FVR,Three Forks,MT
+FVS,Rexburg,ID
+FVV,Kernville,CA
+FVW,Golden Creek Mine,AK
+FVX,Grace Harbor,AK
+FVY,Unuk River,AK
+FVZ,Deadhorse,AK
+FWA,Fort Wayne,IN
+FWH,Fort Worth,TX
+FWL,Farewell,AK
+FWS,Fort Worth,TX
+FXE,Fort Lauderdale,FL
+FXM,Flaxman Island,AK
+FXR,Clinton,IN
+FXY,Forest City,IA
+FYU,Fort Yukon,AK
+FYV,Fayetteville,AR
+GA0,Eastman,GA
+GA1,Lafayette,GA
+GA2,Carrollton,GA
+GA3,Atlanta,GA
+GA4,Jefferson,GA
+GA5,Thomson,GA
+GA6,Canton,GA
+GA7,Greensboro,GA
+GA8,Monroe,GA
+GA9,Cartersville,GA
+GAD,Gadsden,AL
+GAI,Gaithersburg,MD
+GAL,Galena,AK
+GAM,Gambell,AK
+GBA,Goose Bay,AK
+GBD,Great Bend,KS
+GBG,Galesburg,IL
+GBH,Galbraith Lake,AK
+GBR,Great Barrington,MA
+GCC,Gillette,WY
+GCK,Garden City,KS
+GCN,Grand Canyon,AZ
+GCY,Greeneville,TN
+GDC,Greenville,SC
+GDH,Golden Horn Lodge,AK
+GDM,Gardner,MA
+GDV,Glendive,MT
+GDW,Gladwin,MI
+GED,Georgetown,DE
+GEG,Spokane,WA
+GEK,Ganes Creek,AK
+GEY,Greybull,WY
+GEZ,Shelbyville,IN
+GFA,Great Falls,MT
+GFB,Togiak Fish,AK
+GFK,Grand Forks,ND
+GFL,Glens Falls,NY
+GGE,Georgetown,SC
+GGG,Longview,TX
+GGW,Glasgow,MT
+GJT,Grand Junction,CO
+GKN,Gulkana,AK
+GLD,Goodland,KS
+GLE,Gainesville,TX
+GLH,Greenville,MS
+GLQ,Glennallen,AK
+GLR,Gaylord,MI
+GLS,Galveston,TX
+GLV,Golovin,AK
+GLW,Glasgow,KY
+GMT,Granite Mountain,AK
+GMU,Greenville,SC
+GNT,Grants,NM
+GNU,Goodnews Bay,AK
+GNV,Gainesville,FL
+GOL,Gold Beach,OR
+GON,New London/Groton,CT
+GPM,Grand Prairie,TX
+GPT,Gulfport/Biloxi,MS
+GPZ,Grand Rapids,MN
+GQQ,Galion,OH
+GRB,Green Bay,WI
+GRD,Greenwood,SC
+GRF,Tacoma,WA
+GRI,Grand Island,NE
+GRK,Killeen,TX
+GRR,Grand Rapids,MI
+GSB,Goldsboro,NC
+GSH,Goshen,IN
+GSO,Greensboro/High Point,NC
+GSP,Greer,SC
+GST,Gustavus,AK
+GSW,Dallas/Fort Worth,TX
+GTF,Great Falls,MT
+GTR,Columbus,MS
+GTU,Georgetown,TX
+GTY,Gettysburg,PA
+GUC,Gunnison,CO
+GUF,Gulf Shores,AL
+GUP,Gallup,NM
+GUS,Peru,IN
+GUY,Guymon,OK
+GVE,Gordonville,VA
+GVL,Gainesville,GA
+GVQ,Batavia,NY
+GVT,Greenville,TX
+GVW,Grandview,MO
+GWI,Gwinner,ND
+GWO,Greenwood,MS
+GWR,Gwinner,ND
+GWS,Glenwood Springs,CO
+GYR,Goodyear,AZ
+GYY,Gary,IN
+HAB,Hamilton,AL
+HAE,Havasupai,AZ
+HAF,Half Moon Bay,CA
+HAO,Hamilton,OH
+HAR,Harrisburg,PA
+HAY,Haycock,AK
+HBC,Hanus Bay,AK
+HBG,Hattiesburg,MS
+HBH,Hobart Bay,AK
+HBV,Hebbronville,TX
+HBY,Hood Bay,AK
+HCA,Big Spring,TX
+HCB,Shoal Cove,AK
+HCR,Holy Cross,AK
+HCW,Cheraw,SC
+HDA,Hidden Falls,AK
+HDE,Holdrege,NE
+HDH,Mokuleia,HI
+HDN,Hayden,CO
+HED,Herendeen,AK
+HES,Hermiston,OR
+HEZ,Natchez,MS
+HFD,Hartford,CT
+HFF,Hoffman,NC
+HGR,Hagerstown,MD
+HGZ,Hogatza,AK
+HHH,Hilton Head,SC
+HHR,Hawthorne,CA
+HIB,Hibbing,MN
+HIE,Whitefield,NH
+HIF,Ogden,UT
+HII,Lake Havasu City,AZ
+HIK,Honolulu,HI
+HIO,Hillsboro,OR
+HKA,Blytheville,AR
+HKB,Healy,AK
+HKP,Kaanapali,HI
+HKS,Jackson,MS
+HKY,Hickory,NC
+HLG,Wheeling,WV
+HLI,Hollister,CA
+HLM,Holland,MI
+HLN,Helena,MT
+HLO,Holbrook,AZ
+HMN,Alamogordo,NM
+HMS,Homeshore,AK
+HMT,Hemet,CA
+HNB,Huntingburg,IN
+HNC,Hatteras,NC
+HNH,Hoonah,AK
+HNL,Honolulu,HI
+HNM,Hana,HI
+HNS,Haines,AK
+HOB,Hobbs,NM
+HOL,Holikachuk,AK
+HOM,Homer,AK
+HON,Huron,SD
+HOP,Hopkinsville,KY
+HOT,Hot Springs,AR
+HOU,Houston,TX
+HPB,Hooper Bay,AK
+HPN,White Plains,NY
+HPT,Hampton,IA
+HPV,Hanalei,HI
+HPY,Baytown,TX
+HQM,Hoquiam,WA
+HRL,Harlingen/San Benito,TX
+HRO,Harrison,AR
+HSH,Las Vegas,NV
+HSI,Hastings,NE
+HSL,Huslia,AK
+HSP,Hot Springs,VA
+HST,Homestead,FL
+HSV,Huntsville,AL
+HTH,Hawthorne,NV
+HTO,East Hampton,NY
+HTS,Ashland,WV
+HTV,Huntsville,TX
+HUA,Huntsville,AL
+HUF,Terre Haute,IN
+HUL,Houlton,ME
+HUM,Houma,LA
+HUS,Hughes,AK
+HUT,Hutchinson,KS
+HVC,Hopkinsville,KY
+HVN,New Haven,CT
+HVR,Havre,MT
+HVS,Hartsville,SC
+HWD,Hayward,CA
+HWI,Hawk Inlet,AK
+HYA,Hyannis,MA
+HYG,Hydaburg,AK
+HYL,Hollis,AK
+HYR,Hayward,WI
+HYS,Hays,KS
+HZL,Hazleton,PA
+IA1,Shenandoah,IA
+IA2,Webster City,IA
+IA3,Red Oak,IA
+IA4,Pella,IA
+IAB,Wichita,KS
+IAD,Washington,DC
+IAG,Niagara Falls,NY
+IAH,Houston,TX
+IAN,Kiana,AK
+ICT,Wichita,KS
+ICY,Icy Bay,AK
+ID1,Driggs,ID
+ID2,Montpelier,ID
+ID3,Sandpoint,ID
+ID4,Caldwell,ID
+IDA,Idaho Falls,ID
+IDI,Indiana,PA
+IDP,Independence,KS
+IFP,Bullhead City,AZ
+IGG,Igiugig,AK
+IGM,Kingman,AZ
+IGX,Chapel Hill,NC
+II1,Rantoul,IL
+II2,Chicago/Romeoville,IL
+II3,De Kalb,IL
+II4,Lincoln,IL
+IJX,Jacksonville,IL
+IKB,Wilkesboro,NC
+IKK,Kankakee,IL
+IKO,Nikolski,AK
+IKV,Ankeny,IA
+IL2,Effingham,IL
+IL3,Litchfield,IL
+IL4,Pittsfield,IL
+ILE,Killeen,TX
+ILG,Wilmington,DE
+ILI,Iliamna,AK
+ILL,Willmar,MN
+ILM,Wilmington,NC
+ILN,Wilmington,OH
+IML,Imperial,NE
+IMM,Immokalee,FL
+IMT,Iron Mountain/Kingsfd,MI
+IN1,Auburn,IN
+IN2,Indianapolis,IN
+IN3,Indianapolis,IN
+IN4,Indianapolis,IN
+IN6,Jeffersonville,IN
+IN7,Indianapolis,IN
+IN9,Washington,IN
+IND,Indianapolis,IN
+INL,International Falls,MN
+INR,Sault Ste. Marie,MI
+INS,Indian Springs,NV
+INT,Winston-Salem,NC
+INW,Winslow,AZ
+IOW,Iowa City,IA
+IPL,El Centro,CA
+IPT,Williamsport,PA
+IRC,Circle,AK
+IRK,Kirksville,MO
+IRS,Sturgis,MI
+IRV,Bayou La Batre,AL
+ISM,Orlando,FL
+ISN,Williston,ND
+ISO,Kinston,NC
+ISP,Islip,NY
+ISQ,Manistique,MI
+ISS,Wiscasset,ME
+ISW,Wisconsin Rapids,WI
+ITH,Ithaca/Cortland,NY
+ITO,Hilo,HI
+IWD,Ironwood,MI
+IWS,Houston,TX
+IYK,Inyokern,CA
+JAC,Jackson,WY
+JAJ,Atlanta,GA
+JAN,Jackson/Vicksburg,MS
+JAO,Atlanta,GA
+JAX,Jacksonville,FL
+JBC,Boston,MA
+JBK,Oakland,CA
+JBP,Commerce,CA
+JBR,Jonesboro,AR
+JCC,San Francisco,CA
+JCE,Oakland,CA
+JCI,Olathe,KS
+JCT,Junction,TX
+JDA,John Day,OR
+JDB,Dallas/Fort Worth,TX
+JDG,Seattle,WA
+JDM,Miami,FL
+JDT,Minneapolis,MN
+JDX,Houston,TX
+JEF,Jefferson City,MO
+JFB,Seattle,WA
+JFK,New York,NY
+JFN,Jefferson,OH
+JGC,Grand Canyon,AZ
+JGG,Williamsburg,VA
+JGL,Atlanta,GA
+JGP,Houston,TX
+JGQ,Houston,TX
+JHC,Garden City,NY
+JHM,Kapalua,HI
+JHW,Jamestown,NY
+JHY,Cambridge,MA
+JID,City of Industry,CA
+JKV,Jacksonville,TX
+JLA,Cooper Lodge,AK
+JLN,Joplin,MO
+JMA,Houston,TX
+JMC,San Francisco,CA
+JMN,Mankato,MN
+JMS,Jamestown,ND
+JNP,Newport Beach,CA
+JNU,Juneau,AK
+JOC,Santa Ana,CA
+JOR,Orange,CA
+JPB,New York,NY
+JPT,Houston,TX
+JPX,Wainscott,NY
+JQF,Concord,NC
+JRA,New York,NY
+JRB,New York,NY
+JRC,Rochester,MN
+JRE,New York,NY
+JRF,Kapolei,HI
+JSE,Juneau,AK
+JSK,St. Cloud,MN
+JST,Johnstown,PA
+JVI,Manville,NJ
+JVL,Beloit/Janesville,WI
+JWH,Houston,TX
+JWY,Midlothian/Waxahachie,TX
+JXN,Jackson,MI
+JYP,Seattle,WA
+JZA,Newton,MS
+JZB,Orange,MA
+JZC,Stanley,ND
+JZE,Trading Bay,AK
+JZG,Chamberlain,SD
+JZI,Portland,TN
+JZJ,Duluth,MN
+JZK,Cloquet,MN
+JZL,San Clemente Island,CA
+JZM,Hog River,AK
+JZN,Quincy,WA
+JZO,American Falls,ID
+JZP,Prospect,OR
+JZQ,Brooksville,FL
+JZR,Laurel,MT
+JZT,Arlington,TX
+JZU,Bennington,VT
+JZV,Little Rock,AR
+JZW,Evergreen,AL
+JZX,Angwin,CA
+JZY,Grangeville,ID
+K01,Russellville,KY
+KAE,Kake,AK
+KAL,Kaltag,AK
+KBC,Birch Creek,AK
+KBE,Bell Island,AK
+KBK,Klag Bay,AK
+KBW,Chignik,AK
+KCC,Coffman Cove,AK
+KCG,Chignik Bay,AK
+KCK,Kansas City,KS
+KCL,Chignik Lagoon,AK
+KCN,Chernofski,AK
+KCQ,Chignik,AK
+KCR,Colorado Creek,AK
+KDK,Kodiak,AK
+KEB,Nanwalek,AK
+KEH,Kenmore,WA
+KEK,Ekwok,AK
+KEZ,Key Largo,FL
+KFP,False Pass,AK
+KGK,Koliganek,AK
+KGX,Grayling,AK
+KGZ,Glacier Creek,AK
+KIB,Ivanof Bay,AK
+KIP,Wichita Falls,TX
+KKA,Koyuk,AK
+KKB,Kitoi Bay,AK
+KKH,Kongiganak,AK
+KKI,Akiachak,AK
+KKK,Kalakaket,AK
+KKL,Karluk Lake,AK
+KKU,Ekuk,AK
+KLG,Kalskag,AK
+KLL,Levelock,AK
+KLN,Larsen Bay,AK
+KLP,Kelp Bay,AK
+KLS,Kelso,WA
+KLW,Klawock,AK
+KMO,Manokotak,AK
+KMY,Moser Bay,AK
+KNB,Kanab,UT
+KNK,Kokhanok,AK
+KNT,Kennett,MO
+KNW,New Stuyahok,AK
+KOA,Kona,HI
+KOT,Kotlik,AK
+KOY,Olga Bay,AK
+KOZ,Ouzinkie,AK
+KPB,Point Baker,AK
+KPC,Port Clarence,AK
+KPH,Pauloff Harbor,AK
+KPK,Parks,AK
+KPM,Napamute,AK
+KPN,Kipnuk,AK
+KPR,Port Williams,AK
+KPV,Perryville,AK
+KPY,Port Bailey,AK
+KQA,Akutan,AK
+KRM,Kasitsna Bay,AK
+KS2,Burlington,KS
+KS3,Hiawatha,KS
+KSM,St. Mary's,AK
+KSR,Sandy River,AK
+KTB,Thorne Bay,AK
+KTH,Tikchik Lodge,AK
+KTN,Ketchikan,AK
+KTS,Brevig Mission,AK
+KUK,Kasigluk,AK
+KUW,Kugururok River,AK
+KVC,King Cove,AK
+KVL,Kivalina,AK
+KWF,Waterfall,AK
+KWK,Kwigillingok,AK
+KWN,Quinhagak,AK
+KWP,West Point,AK
+KWT,Kwethluk,AK
+KXA,Kasaan,AK
+KY1,Danville,KY
+KY2,Sturgis,KY
+KY3,Mount Sterling,KY
+KY4,Henderson,KY
+KY5,Madisonville,KY
+KY6,Mayfield,KY
+KY7,Morehead,KY
+KY8,Stanton,KY
+KYC,Yankee Creek,AK
+KYK,Karluk,AK
+KYU,Koyukuk,AK
+KZB,Zachar Bay,AK
+KZH,Kizhuyak,AK
+L41,Marble Canyon,AZ
+LA1,Notchitoches,LA
+LA2,Hammond,LA
+LA3,Reserve,LA
+LA4,New Roads,LA
+LA5,Galliano,LA
+LAA,Lamar,CO
+LAF,Lafayette,IN
+LAL,Lakeland,FL
+LAM,Los Alamos,NM
+LAN,Lansing,MI
+LAR,Laramie,WY
+LAS,Las Vegas,NV
+LAW,Lawton/Fort Sill,OK
+LAX,Los Angeles,CA
+LBB,Lubbock,TX
+LBE,Latrobe,PA
+LBF,North Platte,NE
+LBL,Liberal,KS
+LBT,Lumberton,NC
+LCH,Lake Charles,LA
+LCI,Laconia,NH
+LCK,Columbus,OH
+LCQ,Lake City,FL
+LDJ,Linden,NJ
+LDM,Ludington,MI
+LEB,Lebanon-Hanover,NH
+LEE,Leesburg,FL
+LEW,Lewiston/Auburn,ME
+LEX,Lexington,KY
+LFI,Newport News/Hampton,VA
+LFK,Lufkin,TX
+LFT,Lafayette,LA
+LGA,New York,NY
+LGB,Long Beach,CA
+LGC,LaGrange,GA
+LGD,La Grande,OR
+LGM,Longmont,CO
+LGU,Logan,UT
+LHB,Lost Harbor,AK
+LHQ,Lancaster,OH
+LHU,Lake Havasu City,AZ
+LHV,Lock Haven,PA
+LHX,La Junta,CO
+LIC,Limon,CO
+LIH,Lihue,HI
+LIJ,Long Island,AK
+LIT,Little Rock,AR
+LIV,Livengood,AK
+LIY,Hinesville,GA
+LIZ,Limestone,ME
+LJN,Lake Jackson,TX
+LJY,Lebanon,MO
+LKE,Seattle,WA
+LKK,Kulik Lake,AK
+LKP,Lake Placid,NY
+LKV,Lakeview,OR
+LLX,Lyndonville,VT
+LLY,Mount Holly,NJ
+LMA,Lake Minchumina,AK
+LMS,Louisville,MS
+LMT,Klamath Falls,OR
+LNA,West Palm Beach,FL
+LND,Lander,WY
+LNI,Lonely,AK
+LNK,Lincoln,NE
+LNL,Land O' Lakes,WI
+LNN,Willoughby,OH
+LNP,Wise,VA
+LNR,Lone Rock,WI
+LNS,Lancaster,PA
+LNT,Lanett,AL
+LNY,Lanai,HI
+LOI,Laredo,TX
+LOL,Lovelock,NV
+LOT,Chicago/Romeoville,IL
+LOU,Louisville,KY
+LOW,Louisa,VA
+LOZ,London/Corbin,KY
+LPC,Lompoc,CA
+LPO,La Porte,IN
+LPR,Lorain/Elyria,OH
+LPS,Lopez Island,WA
+LPW,Little Port Walter,AK
+LQK,Pickens,SC
+LRD,Laredo,TX
+LRF,Jacksonville,AR
+LRG,Loring,AK
+LRN,Moses Lake,WA
+LRO,Lathrop,CA
+LRU,Las Cruces,NM
+LSD,Lexington,KY
+LSE,La Crosse,WI
+LSF,Columbus,GA
+LSN,Los Banos,CA
+LSR,Lost River,AK
+LSV,Las Vegas,NV
+LTS,Altus,OK
+LUF,Phoenix,AZ
+LUK,Cincinnati,OH
+LUL,Laurel,MS
+LUP,Kalaupapa,HI
+LUR,Cape Lisburne,AK
+LVD,Lime Village,AK
+LVK,Livermore,CA
+LVM,Livingston,MT
+LVS,Las Vegas,NM
+LWB,Lewisburg,WV
+LWC,Lawrence,KS
+LWF,Lawrenceburg,TN
+LWL,Wells,NV
+LWM,Lawrence,MA
+LWS,Lewiston,ID
+LWT,Lewistown,MT
+LWV,Lawrenceville,IL
+LXN,Lexington,NE
+LXV,Leadville,CO
+LYH,Lynchburg,VA
+LYU,Ely,MN
+LZU,Lawrenceville,GA
+M91,Springfield,TN
+MA1,Edgartown,MA
+MA2,Montague,MA
+MA3,Taunton,MA
+MA4,Marshfield,MA
+MA5,Northampton,MA
+MA6,Hopedale,MA
+MAC,Macon,GA
+MAE,Madera,CA
+MAF,Midland/Odessa,TX
+MAW,Malden,MO
+MBL,Manistee/Ludington,MI
+MBS,Saginaw/Bay City/Midland,MI
+MBY,Moberley,MO
+MCB,McComb,MS
+MCC,Sacramento,CA
+MCD,Mackinac Island,MI
+MCE,Merced,CA
+MCF,Tampa,FL
+MCG,McGrath,AK
+MCI,Kansas City,MO
+MCK,McCook,NE
+MCL,McKinley Park,AK
+MCN,Macon,GA
+MCO,Orlando,FL
+MCW,Mason City,IA
+MD1,Michellville,MD
+MD2,Indian Head,MD
+MD3,Churchville,MD
+MD4,Aberdeen,MD
+MD5,Baltimore,MD
+MD6,Elkton,MD
+MDA,San Antonio,TX
+MDD,Midland/Odessa,TX
+MDF,Medford,WI
+MDH,Carbondale,IL
+MDJ,Madras,OR
+MDN,Madison,IN
+MDO,Middleton Island,AK
+MDR,Medfra,AK
+MDT,Harrisburg,PA
+MDW,Chicago,IL
+ME1,Rangeley,ME
+ME2,Islesboro,ME
+ME3,Belfast,ME
+ME4,Oxford,ME
+ME5,Bethel,ME
+ME6,Bethel2,ME
+ME7,Stonington,ME
+ME8,Eastport,ME
+ME9,Greenville,ME
+MEI,Meridian,MS
+MEJ,Meadville,PA
+MEM,Memphis,TN
+MEO,Manteo,NC
+MER,Atwater,CA
+MEV,Minden,NV
+MFD,Mansfield,OH
+MFE,Mission/McAllen/Edinburg,TX
+MFH,Mesquite,NV
+MFI,Marshfield,WI
+MFR,Medford,OR
+MFT,Fort Worth,TX
+MFV,Melfa,VA
+MGC,Michigan City,IN
+MGE,Marietta,GA
+MGJ,Montgomery,NY
+MGM,Montgomery,AL
+MGR,Moultrie/Thomasville,GA
+MGW,Morgantown,WV
+MGY,Dayton,OH
+MHE,Mitchell,SD
+MHK,Manhattan/Ft. Riley,KS
+MHL,Marshall,MO
+MHM,Minchumina,AK
+MHR,Sacramento,CA
+MHT,Manchester,NH
+MHV,Mojave,CA
+MI1,Greenville,MI
+MI2,Holland,MI
+MI3,Howell,MI
+MI4,Frankfort,MI
+MI5,Boyne Falls,MI
+MI6,Dowagiac,MI
+MI7,South Haven,MI
+MIA,Miami,FL
+MIB,Minot,ND
+MIC,Minneapolis,MN
+MIE,Muncie/Anderson/Newcastle,IN
+MIO,Miami,OK
+MIQ,Omaha,NE
+MIT,Shafter,CA
+MIV,Millville,NJ
+MIW,Marshalltown,IA
+MJQ,Jackson,MN
+MJX,Toms River,NJ
+MKC,Kansas City,MO
+MKE,Milwaukee,WI
+MKG,Muskegon,MI
+MKK,Hoolehua,HI
+MKL,Jackson,TN
+MKN,Comanche,TX
+MKO,Muskogee,OK
+MKT,Mankato,MN
+MLB,Melbourne,FL
+MLC,McAlester,OK
+MLD,Malad City,ID
+MLF,Milford,UT
+MLI,Moline,IL
+MLJ,Milledgeville,GA
+MLK,Malta,MT
+MLL,Marshall,AK
+MLS,Miles City,MT
+MLT,Millinocket,ME
+MLU,Monroe,LA
+MLY,Manley Hot Springs,AK
+MMH,Mammoth Lakes,CA
+MMI,Athens,TN
+MML,Marshall,MN
+MMN,Stow,MA
+MMT,Columbia,SC
+MMU,Morristown,NJ
+MN1,Fosston,MN
+MN2,Moose Lake,MN
+MN3,Ortonville,MN
+MN4,Wadena,MN
+MN5,Red Wing,MN
+MN6,Hallock,MN
+MN7,Minneapolis,MN
+MN8,Walker,MN
+MNM,Marinette,MI
+MNN,Marion,OH
+MNT,Minto,AK
+MNZ,Manassas,VA
+MO1,Mosby,MO
+MO2,Washington,MO
+MO3,Richland,MO
+MO4,Clinton,MO
+MO5,Brookfield,MO
+MO6,Lees Summit,MO
+MOB,Mobile,AL
+MOD,Modesto,CA
+MOP,Mount Pleasant,MI
+MOR,Morristown,TN
+MOS,Moses Point,AK
+MOT,Minot,ND
+MOU,Mountain Village,AK
+MPB,Miami,FL
+MPE,Madison,CT
+MPJ,Morrilton,AR
+MPO,Mt. Pocono,PA
+MPR,McPherson,KS
+MPS,Mount Pleasant,TX
+MPV,Montpelier/Barre,VT
+MQB,Macomb,IL
+MQI,Quincy,MA
+MQJ,Indianapolis,IN
+MQT,Marquette,MI
+MQY,Smyrna,TN
+MRB,Martinsburg,WV
+MRC,Columbia,TN
+MRF,Marfa,TX
+MRH,Morehead City,NC
+MRI,Anchorage,AK
+MRK,Marco Island,FL
+MRN,Morganton,NC
+MRY,Monterey,CA
+MS1,Grenada,MS
+MS2,Picayune,MS
+MS3,Philadelphia,MS
+MS4,Batesville,MS
+MS5,Cleveland,MS
+MS6,Columbia,MS
+MSC,Mesa,AZ
+MSL,Muscle Shoals,AL
+MSN,Madison,WI
+MSO,Missoula,MT
+MSP,Minneapolis,MN
+MSS,Massena,NY
+MSV,Monticello,NY
+MSY,New Orleans,LA
+MT1,Colstrip,MT
+MT2,Three Forks,MT
+MT3,Ennis,MT
+MTC,Mt. Clemens,MI
+MTH,Marathon,FL
+MTJ,Montrose/Delta,CO
+MTM,Metlakatla,AK
+MTN,Baltimore,MD
+MTO,Mattoon/Charleston,IL
+MTP,Montauk Point,NY
+MTW,Manitowoc,WI
+MTX,Fairbanks,AK
+MUE,Kamuela,HI
+MUL,Moultrie,GA
+MUO,Mountain Home,ID
+MUT,Muscatine,IA
+MVC,Monroeville,AL
+MVL,Morrisville,VT
+MVM,Kayenta,AZ
+MVN,Mount Vernon,IL
+MVW,Burlington/Mount Vernon,WA
+MVY,Martha's Vineyard,MA
+MWA,Marion/Herrin,IL
+MWC,Milwaukee,WI
+MWH,Moses Lake,WA
+MWL,Mineral Wells,TX
+MWM,Windom,MN
+MWO,Middletown,OH
+MXC,Monticello,UT
+MXE,Maxton,NC
+MXF,Montgomery,AL
+MXG,Marlboro,MA
+MXY,McCarthy,AK
+MYF,San Diego,CA
+MYH,Marble Canyon,AZ
+MYK,May Creek,AK
+MYL,McCall,ID
+MYR,Myrtle Beach,SC
+MYU,Mekoryuk,AK
+MYV,Marysville,CA
+MZJ,Marana,AZ
+MZZ,Marion,IN
+N1C,Cherry Point,NC
+N1J,Hackettstown,NJ
+N1Y,Canandaigua,NY
+N2C,Monroe,NC
+N2J,Reading,NJ
+N2Y,Seneca Falls,NY
+N3C,Franklin,NC
+N3Y,Ticonderoga,NY
+N40,Pittstown,NJ
+N47,Pottstown,PA
+N4C,Sanford,NC
+N4Y,Southampton,NY
+N5C,Whiteville,NC
+N5Y,South Bethlehem,NY
+N6C,Siler City,NC
+N6Y,Ellenville,NY
+N7C,Ahoskie,NC
+N7Y,North Haven,NY
+N87,Robbinsville,NJ
+N8C,Oak Island,NC
+N8K,Nikisha,AK
+N8Y,Harriman,NY
+N9Y,Auburn,NY
+NAD,North Adams,MA
+NAX,Kapolei,HI
+NBG,New Orleans,LA
+NBJ,Newburgh,NY
+NBU,Glenview,IL
+NC1,Gastonia,NC
+NC2,Smithfield,NC
+NC3,Shelby,NC
+NC4,Currituck,NC
+NC5,Kenansville,NC
+NC6,Oxford,NC
+NC7,Beaufort,NC
+NC8,Burlington,NC
+NC9,Rockingham,NC
+NCN,Chenega,AK
+NCO,North Kingstown,RI
+NCQ,Marietta,GA
+ND1,Kindred,ND
+NE1,Gothenburg,NE
+NE2,Blair,NE
+NE3,York,NE
+NE4,Champion,NE
+NEA,Brunswick,GA
+NEL,Lakehurst,NJ
+NEW,New Orleans,LA
+NFL,Fallon,NV
+NGC,Grand Canyon,AZ
+NGF,Kaneohe,HI
+NGP,Corpus Christi,TX
+NGU,Norfolk,VA
+NGZ,Alameda,CA
+NH1,Hampton,NH
+NH2,Gorham,NH
+NH3,Haverhill,NH
+NH4,Moultonboro,NH
+NH5,Hillsboro,NH
+NH6,Newport,NH
+NHK,Patuxent River,MD
+NHZ,Brunswick,ME
+NIB,Nikolai,AK
+NIE,Niblack,AK
+NIN,Ninilchik,AK
+NIP,Jacksonville,FL
+NJ1,Berlin,NJ
+NJ2,West Creek,NJ
+NJ3,Somerville,NJ
+NJ4,Ocean City,NJ
+NJ5,Sussex,NJ
+NJ6,Lumberton,NJ
+NJ7,New Jersey,NJ
+NJ8,West Milford,NJ
+NJ9,Cross Keys,NJ
+NJK,El Centro,CA
+NKI,Naukiti,AK
+NKV,Nichen Cove,AK
+NKX,San Diego,CA
+NLC,Lemoore,CA
+NLG,Nelson Lagoon,AK
+NM1,Belen,NM
+NM2,Truth Or Consequences,NM
+NM3,Moriarty,NM
+NME,Nightmute,AK
+NNK,Naknek,AK
+NNL,Nondalton,AK
+NOT,Novato,CA
+NPA,Pensacola,FL
+NPT,Newport,RI
+NQA,Millington,TN
+NQI,Kingsville,TX
+NQX,Key West,FL
+NRB,Mayport,FL
+NRI,Afton,OK
+NSE,Milton,FL
+NSF,Camp Springs,MD
+NSL,Merritt Island,FL
+NTD,Port Hueneme,CA
+NTU,Oceana,VA
+NUI,Nuiqsut,AK
+NUL,Nulato,AK
+NUN,Pensacola,FL
+NUP,Nunapitchuk,AK
+NUQ,Mountain View,CA
+NUW,Whidbey Island,WA
+NV1,Overton,NV
+NV2,Jean,NV
+NV3,Searchlight,NV
+NV4,Reno,NV
+NV5,Gerlach,NV
+NV6,Pahrump,NV
+NV7,Silver Springs,NV
+NVD,Nevada,MO
+NXX,Willow Grove,PA
+NY1,Kingston,NY
+NY2,Fulton,NY
+NY3,Brockport,NY
+NY4,Potsdam,NY
+NY5,Millbrook,NY
+NY6,Johnstown,NY
+NY7,Skaneateles,NY
+NY8,Mattituck,NY
+NY9,Hornell,NY
+NYC,New York,NY
+NYL,Yuma,AZ
+NYS,New York,NY
+NZC,Jacksonville,FL
+NZJ,Santa Ana,CA
+NZW,South Weymouth,MA
+NZY,San Diego,CA
+O1H,Millersburg,OH
+O2H,Mount Vernon,OH
+O3H,Columbus,OH
+O4H,Delaware,OH
+O5H,Bowling Green,OH
+O6H,Ashland,OH
+O85,Redding,CA
+OAJ,Jacksonville/Camp Lejeune,NC
+OAK,Oakland,CA
+OBE,Okeechobee,FL
+OBT,Oakland,MD
+OBU,Kobuk,AK
+OCA,Key Largo,FL
+OCE,Ocean City,MD
+OCF,Ocala,FL
+OCH,Nacogdoches,TX
+OCI,Oceanic,AK
+OCN,Oceanside,CA
+OCW,Washington,NC
+ODM,Oakland,MD
+ODW,Oak Harbor,WA
+OEO,Osceola,WI
+OFF,Omaha,NE
+OFK,Norfolk,NE
+OGA,Ogallala,NE
+OGB,Orangeburg,SC
+OGD,Ogden,UT
+OGG,Kahului,HI
+OGS,Ogdensburg,NY
+OH1,Washington Court House,OH
+OH2,Bellefontaine,OH
+OH3,Chillicothe,OH
+OH4,Marysville,OH
+OH5,Cincinnati,OH
+OH6,Ravenna,OH
+OH7,Kent,OH
+OH8,Bluffton,OH
+OH9,Medina,OH
+OHC,Northeast Cape,AK
+OIC,Norwich,NY
+OJC,Olathe,KS
+OKC,Oklahoma City,OK
+OKK,Kokomo/Logansport/Peru,IN
+OLE,Olean,NY
+OLF,Wolf Point,MT
+OLH,Old Harbor,AK
+OLM,Olympia,WA
+OLS,Nogales,AZ
+OLU,Columbus,NE
+OLV,Olive Branch,MS
+OMA,Omaha,NE
+OME,Nome,AK
+OMK,Omak,WA
+ONA,Winona,MN
+ONH,Oneonta,NY
+ONL,O'Neill,NE
+ONM,Socorro,NM
+ONN,Onion Bay,AK
+ONO,Ontario,OR
+ONP,Newport,OR
+ONT,Ontario,CA
+OOB,Cobol,AK
+OOK,Toksook,AK
+OPF,Miami,FL
+OPH,Ophir,AK
+OPN,Thomaston,GA
+OQA,McDonald Lake,AK
+OQB,Bible Camp,AK
+OQC,Cinder River Lodge,AK
+OQF,Lemesurier Island,AK
+OQG,Tracy Arm,AK
+OQI,Vrems,AK
+OQK,Akolik,AK
+OQL,Mels,AK
+OQM,Meshik,AK
+OQN,Telaquana Lake,AK
+OQO,Chelatna Lake Lodge,AK
+OQP,Pumice,AK
+OQQ,Port Alsworth,AK
+OQR,Twin Lakes,AK
+OQS,Sandy,AK
+OQV,Shirleyville,AK
+OQW,Doug Carney Strip,AK
+OQX,Shisholik,AK
+OQY,Sivinuvik,AK
+OQZ,American Creek,AK
+OR1,Grants Pass,OR
+OR2,Gleneden,OR
+OR3,Florence,OR
+OR4,Bend,OR
+OR5,Condon,OR
+ORD,Chicago,IL
+ORF,Norfolk,VA
+ORH,Worcester,MA
+ORI,Port Lions,AK
+ORL,Orlando,FL
+ORT,Northway,AK
+ORV,Noorvik,AK
+OSB,Osage Beach,MO
+OSC,Oscoda,MI
+OSH,Oshkosh,WI
+OSU,Columbus,OH
+OSX,Kosciusko,MS
+OTG,Worthington,MN
+OTH,North Bend/Coos Bay,OR
+OTM,Ottumwa,IA
+OTS,Anacortes,WA
+OTZ,Kotzebue,AK
+OUN,Norman,OK
+OVE,Oroville,CA
+OWA,Owatonna,MN
+OWB,Owensboro,KY
+OWD,Norwood,MA
+OWK,Norridgewock,ME
+OXC,Waterbury,CT
+OXD,Oxford,OH
+OXR,Oxnard/Ventura,CA
+OXV,Knoxville,IA
+OYS,Yosemite National Park,CA
+OZA,Ozona,TX
+OZR,Ozark,AL
+P1A,Farmington,PA
+P2A,Philadelphia,PA
+PA1,Montrose,PA
+PA2,Bedford,PA
+PA3,Honesdale,PA
+PA4,Carlisle,PA
+PA5,West Chester,PA
+PA6,Pittsburgh,PA
+PA7,Toughkenamon,PA
+PA8,Collegeville,PA
+PA9,Tarentum,PA
+PAE,Everett,WA
+PAH,Paducah,KY
+PAK,Hanapepe,HI
+PAM,Panama City,FL
+PAO,Palo Alto,CA
+PAQ,Palmer,AK
+PBA,Point Barrow,AK
+PBF,Pine Bluff,AR
+PBG,Plattsburgh,NY
+PBI,West Palm Beach/Palm Beach,FL
+PBK,Pack Creek,AK
+PBX,Pikeville,KY
+PCA,Portage Creek,AK
+PCD,Prairie Du Chien,WI
+PCE,Painter Creek,AK
+PCK,Porcupine Creek,AK
+PCT,Princeton,NJ
+PDB,Pedro Bay,AK
+PDK,Atlanta,GA
+PDT,Pendleton,OR
+PDX,Portland,OR
+PEC,Pelican,AK
+PEQ,Pecos City,TX
+PFA,Paf Warren,AK
+PFD,Port Frederick,AK
+PFN,Panama City,FL
+PGA,Page,AZ
+PGC,Petersburg,WV
+PGD,Punta Gorda,FL
+PGL,Pascagoula,MS
+PGM,Port Graham,AK
+PGO,Pagosa Springs,CO
+PGR,Paragould,AR
+PGS,Peach Springs,AZ
+PGV,Greenville,NC
+PHD,New Philadelphia,OH
+PHF,Newport News/Williamsburg,VA
+PHK,Pahokee,FL
+PHL,Philadelphia,PA
+PHN,Port Huron,MI
+PHO,Point Hope,AK
+PHT,Paris,TN
+PHX,Phoenix,AZ
+PIA,Peoria,IL
+PIB,Hattiesburg/Laurel,MS
+PIE,St. Petersburg,FL
+PIH,Pocatello,ID
+PII,Fairbanks,AK
+PIM,Pine Mountain,GA
+PIP,Pilot Point,AK
+PIR,Pierre,SD
+PIT,Pittsburgh,PA
+PIZ,Point Lay,AK
+PJB,Payson,AZ
+PJS,Port San Juan,AK
+PKA,Napaskiak,AK
+PKB,Parkersburg,WV
+PKD,Park Rapids,MN
+PLB,Plattsburgh,NY
+PLK,Point Lookout,MO
+PLN,Pellston,MI
+PLY,Plymouth,IN
+PMB,Pembina,ND
+PMD,Palmdale,CA
+PMH,Portsmouth,OH
+PML,Port Moller,AK
+PMU,Paimiut,AK
+PNC,Ponca City,OK
+PNE,Philadelphia,PA
+PNF,Peterson's Point,AK
+PNN,Princeton,ME
+PNS,Pensacola,FL
+PNX,Sherman-Denison,TX
+POB,Fayetteville,NC
+POC,La Verne,CA
+POD,Port Frederick,AK
+POE,Fort Polk,LA
+POF,Poplar Bluff,MO
+POH,Pocahontas,IA
+POQ,Polk Inlet,AK
+POU,Poughkeepsie,NY
+POY,Powell,WY
+PPC,Prospect Creek,AK
+PPF,Parsons,KS
+PPM,Pompano Beach,FL
+PPV,Port Protection,AK
+PQI,Presque Isle/Houlton,ME
+PQS,Pilot Station,AK
+PRB,Paso Robles,CA
+PRC,Prescott,AZ
+PRD,Pine Ridge,SD
+PRT,Point Retreat,AK
+PRX,Paris,TX
+PRZ,Prineville,OR
+PSB,Philipsburg,PA
+PSC,Pasco/Kennewick/Richland,WA
+PSF,Pittsfield,MA
+PSG,Petersburg,AK
+PSK,Dublin,VA
+PSM,Portsmouth,NH
+PSN,Palestine,TX
+PSP,Palm Springs,CA
+PSQ,Essington,PA
+PSX,Palacios,TX
+PTA,Port Alsworth,AK
+PTC,Port Alice,AK
+PTD,Port Alexander,AK
+PTH,Port Heiden,AK
+PTK,Pontiac,MI
+PTL,Port Armstrong,AK
+PTN,Patterson,LA
+PTR,Pleasant Harbour,AK
+PTS,Pittsburg,KS
+PTT,Pratt,KS
+PTU,Platinum,AK
+PTV,Porterville,CA
+PTW,Pottstown,PA
+PUB,Pueblo,CO
+PUC,Price,UT
+PUL,Poulsbo,WA
+PUO,Prudhoe Bay,AK
+PUW,Pullman,WA
+PVC,Provincetown,MA
+PVD,Providence,RI
+PVF,Placerville,CA
+PVU,Provo,UT
+PVW,Plainview,TX
+PVY,Pope Vanoy,AK
+PVZ,Painesville,OH
+PWA,Oklahoma City,OK
+PWK,Chicago,IL
+PWM,Portland,ME
+PWR,Big Port Walter,AK
+PWT,Bremerton,WA
+PYA,Port Ashton,AK
+PYL,Perry Island,AK
+PYM,Plymouth,MA
+QAF,Jackpot,NV
+QAJ,Globe,AZ
+QAK,Port Clinton,OH
+QAL,Kelleys Island,OH
+QAO,Lyndonville,VT
+QAS,Houston,TX
+QAX,Marina del Ray,CA
+QBH,Lathrop Wells,NV
+QBI,Green River,UT
+QBM,Put-In-Bay,OH
+QBN,Middle Bass Island,OH
+QBT,Indian Creek,ID
+QBX,Abilene,KS
+QBY,North Bass Island,OH
+QCG,Challis,ID
+QCT,Levelland,TX
+QCW,Crane Island,WA
+QCX,Martinsville,VA
+QEM,Emerald Bay,CA
+QFX,Avalon,CA
+QGS,Houghton,MI
+QHI,Houston,TX
+QHO,Houston,TX
+QIR,Isle Royale Park,MI
+QKV,Kona Village,HI
+QMA,Kennesaw,GA
+QMH,Houston,TX
+QMN,Mansfield,MA
+QNY,New York,NY
+QOR,Orange,VA
+QPO,Houston,TX
+QPT,Pittsfield,ME
+QQB,Keyes Point,AK
+QQC,Nimiuk Point,AK
+QQD,Boston,MA
+QQE,Sealing Point,AK
+QQG,Westminster,MD
+QQJ,Stevensville,MT
+QQL,Bonners Ferry,ID
+QQM,Shingletown,CA
+QQN,Woodlake,CA
+QQQ,Grass Valley,CA
+QQS,Eastsound,WA
+QQT,Peachtree City,GA
+QQU,Window Rock,AZ
+QQX,Healdsburg,CA
+QQY,San Marcos,TX
+QRD,Redondo Beach,CA
+QSO,Southbridge,MA
+RAC,Racine,WI
+RAL,Riverside,CA
+RAP,Rapid City,SD
+RAX,Red Bank,NJ
+RBB,Ugashik,AK
+RBD,Dallas/Fort Worth,TX
+RBF,Big Bear City,CA
+RBG,Roseburg,OR
+RBH,Brooks Lodge,AK
+RBK,Murrieta/Temecula,CA
+RBL,Red Bluff,CA
+RBN,Fort Jefferson,FL
+RBW,Walterboro,SC
+RBY,Ruby,AK
+RCA,Rapid City,SD
+RCE,Roche Harbor,WA
+RCT,Reed City,MI
+RDB,Red Dog,AK
+RDD,Redding,CA
+RDG,Reading,PA
+RDM,Bend/Redmond,OR
+RDR,Red River,ND
+RDU,Raleigh/Durham,NC
+RDV,Red Devil,AK
+REB,Redlands,CA
+RED,Reedsville,PA
+REE,Lubbock,TX
+REH,Rehoboth,DE
+RFD,Rockford,IL
+RHI,Rhinelander,WI
+RIC,Richmond,VA
+RID,Richmond,IN
+RIE,Rice Lake,WI
+RIF,Richfield,UT
+RIL,Rifle,CO
+RIR,Riverside,CA
+RIV,Riverside,CA
+RIW,Riverton/Lander,WY
+RKD,Rockland,ME
+RKH,Rock Hill,SC
+RKP,Rockport,TX
+RKR,Poteau,OK
+RKS,Rock Springs,WY
+RKW,Rockwood,TN
+RLA,Rolla,MO
+RLD,Richland,WA
+RLU,Bornite/Ruby Creek,AK
+RME,Rome,NY
+RMG,Rome,GA
+RMN,Stafford,VA
+RMP,Rampart,AK
+RNC,McMinnville,TN
+RND,San Antonio,TX
+RNG,Rangely,CO
+RNH,New Richmond,WI
+RNM,Ramona,CA
+RNO,Reno,NV
+RNT,Renton,WA
+ROA,Roanoke,VA
+ROC,Rochester,NY
+ROG,Rogers,AR
+ROL,Roosevelt,UT
+ROW,Roswell,NM
+ROX,Roseau,MN
+RPX,Roundup,MT
+RQA,Lone Pine,CA
+RQB,Atomic City,ID
+RQC,Harlowton,MT
+RQD,Mendota,CA
+RQE,Prosser,WA
+RQF,Lincolnton,NC
+RQG,Covington,TN
+RQH,Perkasie,PA
+RQI,Nixon Fork Mine,AK
+RQK,China Lake,CA
+RQL,Lowell,IN
+RQM,Sterling,MA
+RQN,Cave Junction,OR
+RQO,Seneca,NY
+RQP,Lovington,NM
+RQQ,Woodland,CA
+RQR,Harbor Springs,MI
+RQT,Lubbock,TX
+RQU,Wasco,CA
+RQV,Salt Lake City,UT
+RQW,Parowan,UT
+RQX,Burlington,CO
+RQY,Comanche,TX
+RQZ,Mary Esther,FL
+RRT,Warroad,MN
+RSH,Russian Mission,AK
+RSJ,Rosario,WA
+RSL,Russell,KS
+RSN,Ruston,LA
+RSP,Raspberry Strait,AK
+RST,Rochester,MN
+RSW,Fort Myers,FL
+RTE,Marguerite Bay,AK
+RTN,Raton,NM
+RTO,Colton,CA
+RUI,Ruidoso,NM
+RUT,Rutland,VT
+RVR,Green River,UT
+RVS,Tulsa,OK
+RWB,Rowan Bay,AK
+RWI,Rocky Mount,NC
+RWL,Rawlins,WY
+RXB,Rodman Bay,AK
+RYE,Greeley,CO
+RZZ,Roanoke Rapids,NC
+S24,Fremont,OH
+S27,Kalispell,MT
+SAA,Saratoga,WY
+SAC,Sacramento,CA
+SAD,Safford,AZ
+SAF,Santa Fe,NM
+SAG,Sagwon,AK
+SAN,San Diego,CA
+SAT,San Antonio,TX
+SAV,Savannah,GA
+SBA,Santa Barbara,CA
+SBD,San Bernardino,CA
+SBM,Sheboygan,WI
+SBN,South Bend,IN
+SBO,Salina,UT
+SBP,San Luis Obispo,CA
+SBS,Steamboat Springs,CO
+SBT,San Bernardino,CA
+SBV,South Boston,VA
+SBY,Salisbury,MD
+SC1,Beaufort,SC
+SC2,Winnsboro,SC
+SC3,Conway,SC
+SC4,Moncks Corner,SC
+SC5,Summerville,SC
+SC6,Charleston,SC
+SC7,Allendale,SC
+SCC,Deadhorse,AK
+SCE,State College,PA
+SCF,Phoenix,AZ
+SCH,Schenectady,NY
+SCJ,Smith Cove,AK
+SCK,Stockton,CA
+SCM,Scammon Bay,AK
+SD1,Onida,SD
+SD2,Gregory,SD
+SD3,Hot Springs,SD
+SD4,Sturgis,SD
+SDF,Louisville,KY
+SDM,San Diego,CA
+SDP,Sandpoint,AK
+SDX,Sedona,AZ
+SDY,Sidney,MT
+SEA,Seattle,WA
+SEE,San Diego,CA
+SEF,Sebring,FL
+SEG,Selinsgrove,PA
+SEM,Selma,AL
+SER,Seymour,IN
+SES,Selma,AL
+SFB,Sanford,FL
+SFF,Spokane,WA
+SFM,Sanford,ME
+SFO,San Francisco,CA
+SFZ,Smithfield,RI
+SGF,Springfield,MO
+SGH,Springfield,OH
+SGR,Sugar Land,TX
+SGT,Stuttgart,AR
+SGU,St. George,UT
+SGW,Saginaw Bay,AK
+SGY,Skagway,AK
+SHD,Staunton,VA
+SHG,Shungnak,AK
+SHH,Shishmaref,AK
+SHN,Shelton,WA
+SHR,Sheridan,WY
+SHV,Shreveport,LA
+SHX,Shageluk,AK
+SIK,Sikeston,MO
+SIT,Sitka,AK
+SIY,Montague,CA
+SJC,San Jose,CA
+SJN,St. Johns,AZ
+SJT,San Angelo,TX
+SKA,Spokane,WA
+SKF,San Antonio,TX
+SKJ,Sitkinak,AK
+SKK,Shaktoolik,AK
+SKW,Skwentna,AK
+SKY,Sandusky,OH
+SLB,Storm Lake,IA
+SLC,Salt Lake City,UT
+SLE,Salem,OR
+SLJ,Chandler,AZ
+SLK,Saranac Lake/Lake Placid,NY
+SLN,Salina,KS
+SLO,Salem,IL
+SLQ,Sleetmute,AK
+SLR,Sulphur Springs,TX
+SLT,Salida,CO
+SME,Somerset,KY
+SMF,Sacramento,CA
+SMK,St. Michael,AK
+SMN,Salmon,ID
+SMO,Santa Monica,CA
+SMT,Stone Mountain,GA
+SMU,Sheep Mountain,AK
+SMX,Santa Maria,CA
+SNA,Santa Ana,CA
+SNK,Snyder,TX
+SNL,Shawnee,OK
+SNP,St. Paul,AK
+SNS,Salinas/Monterey,CA
+SNY,Sidney,NE
+SOL,Solomon,AK
+SOP,Pinehurst/Southern Pines,NC
+SOV,Seldovia,AK
+SOW,Show Low,AZ
+SPA,Spartanburg,SC
+SPF,Spearfish,SD
+SPG,Tampa,FL
+SPI,Springfield,IL
+SPQ,San Pedro,CA
+SPS,Wichita Falls,TX
+SPW,Spencer,IA
+SPZ,Springdale,AR
+SQA,Santa Ynez,CA
+SQI,Sterling/Rockfalls,IL
+SQL,San Carlos,CA
+SQV,Sequim,WA
+SRC,Searcy,AR
+SRF,Novato,CA
+SRQ,Sarasota/Bradenton,FL
+SRV,Stony River,AK
+SRW,Salisbury,NC
+SSC,Sumter,SC
+SSF,San Antonio,TX
+SSI,Brunswick,GA
+SSM,Sault Ste. Marie,MI
+SSW,Stuart Island,WA
+STC,St. Cloud,MN
+STE,Stevens Point,WI
+STF,Starkville,MS
+STG,St. George Island,AK
+STJ,St. Joseph,MO
+STK,Sterling,CO
+STL,St. Louis,MO
+STP,Minneapolis/St. Paul,MN
+STQ,St. Marys,PA
+STS,Santa Rosa,CA
+SUA,Stuart,FL
+SUC,Sundance,WY
+SUE,Sturgeon Bay,WI
+SUM,Sumter,SC
+SUN,Sun Valley/Hailey/Ketchum,ID
+SUO,Sunriver,OR
+SUS,St. Louis,MO
+SUU,Fairfield,CA
+SUW,Superior,WI
+SUX,Sioux City,IA
+SVA,Savoonga,AK
+SVC,Silver City/Hurley,NM
+SVH,Statesville,NC
+SVN,Savannah,GA
+SVS,Stevens Village,AK
+SVW,Sparrevohn,AK
+SWD,Seward,AK
+SWF,Newburgh/Poughkeepsie,NY
+SWO,Stillwater,OK
+SWW,Sweetwater,TX
+SXP,Sheldon Point,AK
+SXQ,Soldotna,AK
+SXY,Sidney,NY
+SYA,Shemya,AK
+SYB,Seal Bay,AK
+SYI,Shelbyville/Tullahoma,TN
+SYN,Stanton,MN
+SYR,Syracuse,NY
+SZL,Knob Noster,MO
+SZP,Santa Paula,CA
+T1N,Selmer,TN
+T1X,Gainesville,TX
+T2N,Clevland,TN
+T2X,Hereford,TX
+T3X,Encino,TX
+T44,Kodiak,AK
+T4X,Llano,TX
+T5X,Castroville,TX
+T6X,Houston,TX
+T7X,China Spring,TX
+T82,Fredericksburg,TX
+T8X,Dallas,TX
+T9X,Carrizo Springs,TX
+TAD,Trinidad,CO
+TAL,Tanana,AK
+TBN,Fort Leonard Wood,MO
+TBR,Statesboro,GA
+TCC,Tucumcari,NM
+TCL,Tuscaloosa,AL
+TCM,Tacoma,WA
+TCS,Truth Or Consequences,NM
+TCT,Takotna,AK
+TDF,Roxboro,NC
+TDW,Amarillo,TX
+TDZ,Toledo,OH
+TEB,Teterboro,NJ
+TEH,Tetlin,AK
+TEK,Tatitlek,AK
+TEX,Telluride,CO
+TGE,Tuskegee,AL
+THA,Tullahoma,TN
+THP,Thermopolis,WY
+THV,York,PA
+TIK,Oklahoma City,OK
+TIW,Tacoma,WA
+TIX,Titusville,FL
+TKA,Talkeetna,AK
+TKE,Tenakee,AK
+TKF,Truckee,CA
+TKI,Tokeen,AK
+TKJ,Tok,AK
+TKL,Taku Lodge,AK
+TLA,Teller,AK
+TLF,Telida,AK
+TLH,Tallahassee,FL
+TLJ,Tatalina,AK
+TLK,Tikchik Lodge,AK
+TLR,Tulare,CA
+TLT,Tuluksak,AK
+TMA,Tifton,GA
+TMB,Miami,FL
+TN1,Lebanon,TN
+TN2,Sparta,TN
+TN3,Lewisburg,TN
+TN4,Pulaski,TN
+TN5,Lafayette,TN
+TN6,Dyersburg,TN
+TN7,Winchester,TN
+TN8,Nashville,TN
+TN9,Sevierville,TN
+TNC,Tin City,AK
+TNK,Tununak,AK
+TNP,Twentynine Palms,CA
+TNT,Miami,FL
+TNU,Newton,IA
+TOA,Torrance,CA
+TOG,Togiak,AK
+TOI,Troy,AL
+TOL,Toledo,OH
+TOP,Topeka,KS
+TOR,Torrington,WY
+TPA,Tampa,FL
+TPB,Topeka,KS
+TPF,Tampa,FL
+TPH,Tonopah,NV
+TPL,Temple,TX
+TRH,Trona,CA
+TRI,Bristol/Johnson City/Kingsport,TN
+TRL,Terrell,TX
+TRM,Thermal,CA
+TSG,Tanacross,AK
+TSM,Taos,NM
+TSP,Tehachapi,CA
+TSS,New York,NY
+TTD,Troutdale,OR
+TTN,Trenton,NJ
+TUH,Tullahoma,TN
+TUL,Tulsa,OK
+TUP,Tupelo,MS
+TUS,Tucson,AZ
+TVC,Traverse City,MI
+TVF,Thief River Falls,MN
+TVI,Thomasville,GA
+TVL,Lake Tahoe,CA
+TWA,Twin Hills,AK
+TWD,Port Townsend,WA
+TWE,Taylor,AK
+TWF,Twin Falls,ID
+TWH,Two Harbors,CA
+TX1,Mesquite,TX
+TX2,Denver City,TX
+TX3,Port Isabel,TX
+TX4,Ballinger,TX
+TX5,Cleburne,TX
+TX6,Horseshoe Bay,TX
+TX7,Post,TX
+TX8,Slaton,TX
+TX9,Winters,TX
+TXK,Texarkana,AR
+TXX,Fulshear,TX
+TYE,Tyonek,AK
+TYR,Tyler,TX
+TYS,Knoxville,TN
+TYZ,Taylor,AZ
+U36,Aberdeen,ID
+UBF,Chatham,MA
+UBS,Columbus,MS
+UCA,Utica/Rome,NY
+UCY,Union City,TN
+UDD,Bermuda Dunes,CA
+UDG,Darlington,SC
+UES,Waukesha,WI
+UGA,Ugashik,AK
+UGB,Pilot Point,AK
+UGI,Uganik,AK
+UGN,Waukegan,IL
+UGS,Ugashik,AK
+UIN,Quincy,IL
+UKI,Ukiah,CA
+ULM,New Ulm,MN
+ULS,Ulysses,KS
+UMB,Umnak,AK
+UMM,Summit,AK
+UMT,Umiat,AK
+UNK,Unalakleet,AK
+UNS,Umnak,AK
+UNU,Juneau,WI
+UOS,Sewanee,TN
+UOX,Oxford,MS
+UPP,Upolo Point,HI
+UQE,Queens,AK
+USA,Concord,NC
+USI,Usibelli,AK
+UST,St. Augustine,FL
+UT1,Heber,UT
+UT2,North Salt Lake,UT
+UT3,Spanish Fork,UT
+UTM,Tunica,MS
+UTO,Utopia,AK
+UUK,Kuparuk,AK
+UVA,Uvalde,TX
+UXA,Lik Camp,AK
+UXC,Hawley,MN
+UXD,Chowchilla,CA
+UXE,Faulkton,SD
+UXF,St. Anthony,ID
+UXG,Dutch John,UT
+UXI,Calder Bay,AK
+UXJ,Richmond,KY
+UXK,Petaluma,CA
+UXL,Chariot,AK
+UXM,47-Mile Mine,AK
+UXN,Prestonsburg,KY
+UXO,Fitchburg,MA
+UXP,Bay St. Louis,MS
+UXR,Monument Valley,UT
+UXS,Cimarron,KS
+UXT,Lorain/Elyria,OH
+UXU,Cheboygan,MI
+UXV,Enterprise,OR
+UXW,Cookeville,TN
+UXX,Hot Springs,MT
+UXY,Circle,MT
+UXZ,Garrison,ND
+VA1,Emporia,VA
+VA2,Chesapeake,VA
+VA3,Marion/Wytheville,VA
+VA4,Leesburg,VA
+VA5,Richmond,VA
+VA6,Moneta,VA
+VA7,Bridgewater,VA
+VA8,Richmond,VA
+VA9,Norfolk,VA
+VAD,Valdosta,GA
+VAK,Chevak,AK
+VBG,Lompoc,CA
+VCB,View Cove,AK
+VCT,Victoria,TX
+VCV,Victorville,CA
+VDI,Vidalia,GA
+VDZ,Valdez,AK
+VEE,Venetie,AK
+VEL,Vernal,UT
+VEO,Versailles,MO
+VGC,Hamilton,NY
+VGT,Las Vegas,NV
+VHN,Van Horn,TX
+VIH,Vichy,MO
+VIK,Kavik River,AK
+VIS,Visalia,CA
+VJI,Abingdon,VA
+VKS,Vicksburg,MS
+VLD,Valdosta,GA
+VNC,Venice,FL
+VNY,Van Nuys,CA
+VOK,Camp Douglas,WI
+VPC,Cartersville,GA
+VPS,Valparaiso,FL
+VPZ,Valparaiso,IN
+VQQ,Jacksonville,FL
+VRB,Vero Beach,FL
+VSF,Springfield,VT
+VT1,West Dover,VT
+VT2,Warren,VT
+VTN,Valentine,NE
+VUJ,Albemarle,NC
+VUO,Vancouver,WA
+VWA,Headland,AL
+VWB,Myrtle Creek,OR
+VWC,Gallatin,TN
+VWD,Hanford,CA
+VWE,Chelan,WA
+VWF,Custer,SD
+VWG,Garibaldi,OR
+VWH,Midland/Odessa,TX
+VWI,California City,CA
+VWJ,Cameron,SC
+VWK,Saratoga Springs,NY
+VWL,Bemidji,MN
+VWM,Weed,CA
+VWN,Parker,AZ
+VWO,Arlington,WA
+VWP,Bernard,ID
+VWQ,Lodi,CA
+VWR,Independence,CA
+VWS,Wichita,KS
+VWT,Americus,GA
+VWW,Deer Lodge,MT
+VWX,Hondo,TX
+VWZ,Granite Creek Mine,AK
+VYS,Peru,IL
+VZA,Marvel Creek Mine,AK
+VZB,Mitrofania,AK
+VZC,Mush Bay,AK
+VZD,Campbell Lagoon,AK
+VZE,Frazer Lake,AK
+VZF,Afognak Straits,AK
+VZG,Moffet Bay,AK
+VZH,Mineola,TX
+VZI,Brundidge,AL
+VZJ,Payette,ID
+VZK,International Seafoods,AK
+VZL,Los Alamitos,CA
+VZM,Jensens Strip,AK
+VZN,Wildman Creek,AK
+VZO,Stepovak,AK
+VZQ,Puale Bay,AK
+VZR,Katmai Bay,AK
+VZS,Kashvik Bay,AK
+VZT,Cinder Mountain,AK
+VZU,Hagemeister Island,AK
+VZV,Cape Peirce,AK
+VZW,Cape Greig,AK
+VZY,Katmai Lodge,AK
+VZZ,South St. Paul,MN
+WA1,Camp Orkila Eastsound,WA
+WA2,Mansfield,WA
+WA3,Shaw Island,WA
+WA4,Medical Lake,WA
+WA5,Winthrop,WA
+WA6,Stehekin,WA
+WA7,Chelan,WA
+WA8,Eastsound,WA
+WA9,Brewster,WA
+WAA,Wales,AK
+WAL,Chincoteague,VA
+WAR,Warsaw,IN
+WAS,Washington,DC
+WAX,Warroad,MN
+WBB,Stebbins,AK
+WBH,Commerce/Montebello,CA
+WBN,Woburn,MA
+WBQ,Beaver,AK
+WBR,Big Rapids,MI
+WBS,Bennettsville,SC
+WBY,Downtown,CA
+WCL,Whalers Cove Lodge,AK
+WCR,Chandalar,AK
+WDB,Wide Bay,AK
+WDG,Enid,OK
+WDR,Winder,GA
+WFB,Ketchikan,AK
+WFK,Frenchville,ME
+WGO,Winchester,VA
+WHD,Hyder,AK
+WHP,Los Angeles,CA
+WHR,Eagle,CO
+WHT,Wharton,TX
+WI1,Black River Falls,WI
+WI2,Phillips,WI
+WI3,Ehpriam,WI
+WI4,Middleton,WI
+WI5,Moroe,WI
+WI6,Waupaca,WI
+WI7,Baraboo,WI
+WIB,Wilbur,WA
+WJF,Lancaster,CA
+WKK,Aleknagik,AK
+WKL,Waikoloa Village,HI
+WKV,Philadelphia,PA
+WLB,Labouchere Bay,AK
+WLD,Winfield,KS
+WLK,Selawik,AK
+WLM,Waltham,MA
+WLR,Loring,AK
+WLW,Willows,CA
+WMC,Winnemucca,NV
+WMH,Mountain Home,AR
+WMK,Meyers Chuck,AK
+WMO,White Mountain,AK
+WNA,Napakiak,AK
+WNC,Tuxekan Island,AK
+WOD,Wood River,AK
+WOW,Willow,AK
+WPO,Paonia,CO
+WQA,Ovid,NY
+WQB,Mandan,ND
+WQC,Hamilton,MT
+WQD,Tulelake,CA
+WQE,Dinsmore,CA
+WQF,Rigby,ID
+WQG,Hesperia,CA
+WQH,Dorris,CA
+WQI,Connell,WA
+WQJ,Peard Bay,AK
+WQK,Townsend,MT
+WQL,Bluff,AK
+WQM,Lake Charles,LA
+WQN,Campbellsville,KY
+WQO,Rosamond,CA
+WQP,Oceano,CA
+WQQ,Fairburn,SD
+WQR,Naknek,AK
+WQS,Poplar,MT
+WQT,Bridger,MT
+WQU,Portales,NM
+WQW,David River,AK
+WQX,Kiavak,AK
+WQY,Port Wakefield,AK
+WQZ,Chignik Lake,AK
+WRB,Macon,GA
+WRG,Wrangell,AK
+WRI,Fort Dix,NJ
+WRL,Worland,WY
+WSB,Steamboat Bay,AK
+WSG,Washington,PA
+WSH,Shirley,NY
+WSI,Wasilla,AK
+WSJ,San Juan,AK
+WSM,Wiseman,AK
+WSN,South Naknek,AK
+WST,Westerly,RI
+WSX,Westsound,WA
+WTC,New York,NY
+WTK,Noatak,AK
+WTL,Tuntutuliak,AK
+WTR,Whiteriver,AZ
+WTT,Whittier,AK
+WUJ,Duchesne,UT
+WUQ,Ocean Shores,WA
+WV1,Charleston,WV
+WV2,Logan,WV
+WVA,Falls Church,VA
+WVI,Watsonville,CA
+WVL,Augusta/Waterville,ME
+WWA,Wasilla,AK
+WWD,Cape May,NJ
+WWP,Whale Pass,AK
+WWR,Woodward,OK
+WWT,Newtok,AK
+WY1,Pinedale,WY
+WYB,Yes Bay,AK
+WYS,West Yellowstone,MT
+XES,Lake Geneva,WI
+XMD,Madison,SD
+XNA,Fayetteville,AR
+XRS,Reston,VA
+XSD,Tonopah,NV
+XSM,Leonardtown,MD
+XT1,New Braunfels,TX
+XT2,Bridgeport,TX
+XT3,Granbury,TX
+XT4,Fulton,TX
+XWA,Williston,ND
+XWC,Yantarni Bay,AK
+XWE,Copalis,WA
+XWF,Jerome,ID
+XWH,Aztec,NM
+XWJ,Dexter,ME
+XWK,Port Orchard,WA
+XWL,Blackfoot,ID
+XWN,Jupiter,FL
+XWO,Kimball,NE
+XWS,Oliktok,AK
+XWT,Nushagak Bay,AK
+XWU,Marion,AL
+XWW,Driggs,ID
+XXD,Clarendon,TX
+XXE,Lakewood,NJ
+XXG,Cambridge,MA
+XXN,Willits,CA
+XXO,Hurricane,UT
+XXP,Lakeport,CA
+XXR,Mariposa,CA
+XXS,Creswell,OR
+XXT,Polson,MT
+XXU,Ashland,OR
+XXV,Decatur,WA
+XXW,Lake City,FL
+XXX,Mena,AR
+XXY,Fortuna,CA
+XXZ,Zuni Pueblo,NM
+YAK,Yakutat,AK
+YIP,Detroit,MI
+YKM,Yakima,WA
+YKN,Yankton,SD
+YNG,Youngstown/Warren,OH
+YUM,Yuma,AZ
+ZBX,Branson,MO
+ZNC,Nyac,AK
+ZXB,Albuquerque,NM
+ZXC,Gasquet,CA
+ZXF,Illinois Creek,AK
+ZXH,Chomondely Sound,AK
+ZXI,Coal Bay,AK
+ZXJ,Happy Harbour,AK
+ZXK,Lancaster Cove,AK
+ZXL,Reid Cove,AK
+ZXM,Saltery Cove,AK
+ZXN,Clover Bay,AK
+ZXO,El Capitan,AK
+ZXP,Salmon Bay Lake,AK
+ZXQ,Santa Ynez,CA
+ZXT,Cloverdale,CA
+ZXU,North Kingstown,RI
+ZXV,Nappanee,IN
+ZXW,Paradise,CA
+ZXX,Kennewick,WA
+ZXY,Delta,CO
+ZXZ,Waterville,WA
+ZZV,Zanesville,OH
