@@ -22,6 +22,12 @@ create table airport (
   primary key (airport_id)
 ) engine = innodb;
 
+create table raw_origin (
+  airport_id varchar(4) not null,
+  origin_info varchar(128) not null,
+  primary key (airport_id)
+) engine = innodb;
+
 create table flight (
   flight_id varchar(10) not null,
   flight_date date not null,
