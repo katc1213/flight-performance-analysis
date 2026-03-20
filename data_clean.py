@@ -15,13 +15,16 @@ for file in csv_files:
 merged_df = pd.concat(df_list, ignore_index=True)
 
 # remove time from FL_DATE
-merged_df['FL_DATE'] = pd.to_datetime(merged_df['FL_DATE'], infer_datetime_format=True).dt.date
+merged_df['FL_DATE'] = pd.to_datetime(merged_df['FL_DATE'], format='mixed').dt.date
 merged_df = merged_df.infer_objects().fillna(0)
 
 merged_df[['OP_UNIQUE_CARRIER','OP_CARRIER_FL_NUM','ORIGIN','DEST']] = merged_df[['OP_UNIQUE_CARRIER','OP_CARRIER_FL_NUM','ORIGIN','DEST']].astype(str)
 
 # make unique flight ID
-merged_df['FL_UNIQUE_NUM'] = merged_df['OP_UNIQUE_CARRIER'] + merged_df['OP_CARRIER_FL_NUM']
+merged_df['FL_CODE'] = merged_df['OP_UNIQUE_CARRIER'] + merged_df['OP_CARRIER_FL_NUM']
+
+merged_df.set_index('FL_CODE', inplace=True)
+merged_df.reset_index(inplace=True)
 
 time_columns = ['CRS_DEP_TIME', 'DEP_TIME', 'CRS_ARR_TIME', 'ARR_TIME']
 
