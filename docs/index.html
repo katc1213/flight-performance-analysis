@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Flight Analysis</title>
+  <link href="https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet" />
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: #f5f0e8;
+      color: #2c2c2c;
+      font-family: 'Courier Prime', 'Courier New', monospace;
+      max-width: 1080px;
+      margin: 0 auto;
+      padding: 60px 24px 100px;
+    }
+
+    /* ── Header ── */
+    header {
+      margin-bottom: 48px;
+      border-bottom: 1px solid #c9bfad;
+      padding-bottom: 24px;
+    }
+    header h1 {
+      font-size: 1.8rem;
+      font-weight: 700;
+      margin-bottom: 6px;
+    }
+    header p {
+      font-size: 1.1rem;
+      color: #665d4d;
+      text-align: center;
+      line-height: 1.5;
+    }
+
+    /* ── Tabs ── */
+    nav {
+      display: flex;
+      gap: 24px;
+      margin-bottom: 48px;
+    }
+    .tab-btn {
+      background: none;
+      border: none;
+      font-family: 'Courier Prime', monospace;
+      font-size: 0.95rem;
+      cursor: pointer;
+      color: #7a6f5e;
+      padding: 0;
+      border-bottom: 2px solid transparent;
+      padding-bottom: 4px;
+    }
+    .tab-btn.active {
+      color: #2c2c2c;
+      border-bottom-color: #2c2c2c;
+    }
+    .tab-btn:hover { color: #2c2c2c; }
+
+    /* ── Panels ── */
+    .panel { display: none; }
+    .panel.active { display: block; }
+
+    /* ── Section headings ── */
+    h2 {
+      font-size: 1.1rem;
+      margin-bottom: 8px;
+    }
+    .section-note {
+      font-size: 0.82rem;
+      color: #7a6f5e;
+      margin-bottom: 20px;
+      font-style: italic;
+    }
+
+    .pdf-embed {
+      width: 100%;
+      height: 600px;
+      border: 0px solid #c9bfad;
+    }
+
+    .report-body {
+      line-height: 1.8;
+      font-size: 0.95rem;
+    }
+    .report-body h3 {
+      font-size: 1rem;
+      margin: 36px 0 10px;
+      font-weight: 700;
+    }
+    .report-body p {
+      margin-bottom: 16px;
+      color: #3a3a3a;
+    }
+    .report-body img {
+      width: 100%;
+      margin: 20px 0;
+      border: 1px solid #c9bfad;
+    }
+    .report-body hr {
+      border: none;
+      border-top: 1px solid #c9bfad;
+      margin: 40px 0;
+    }
+
+    /* ── Footer ── */
+    footer {
+      margin-top: 80px;
+      border-top: 1px solid #c9bfad;
+      padding-top: 20px;
+      font-size: 0.8rem;
+      color: #665d4d;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>&#9992; US Domestic Flight Performance Analysis and Prediction</h1>
+    <p>Team: Sishnukeshav Balamurali, Katherine Chang, & Sanvi Thota</p>
+    <p> <a href="https://github.com/katc1213/flight-performance-analysis.git" target="_blank">Click here to view our Github Repo</a></p>
+  </header>
+
+  <nav>
+    <button class="tab-btn active" onclick="showTab('analysis', this)">Data Analysis</button>
+    <button class="tab-btn"        onclick="showTab('report',    this)">ML Report</button>
+  </nav>
+
+  <!-- ── Analysis Panel ── -->
+  <div id="analysis" class="panel active">
+    <h2>Data Analysis</h2>
+    <p class="section-note">Created through Power BI</p>
+    <iframe
+      class="pdf-embed"
+      src="../flight-performance-analysis/img/overall-board.png"
+      title="Flight Analysis Dashboard">
+    </iframe>
+  </div>
+
+  <!-- ── ML Report Panel ── -->
+  <div id="report" class="panel">
+
+    <div class="report-body">
+
+      <h3>Introduction</h3>
+      <p>Write your introduction here. Describe the goal of the ML research and the flight data used.</p>
+
+      <h3>Data Overview</h3>
+      <p>Describe your dataset here — number of records, features, time range, sources, etc.</p>
+
+      <!-- Example image — replace src with your actual image file -->
+      <img src="your-image-1.png" alt="Data overview chart" />
+
+      <hr />
+
+      <h3>Methodology</h3>
+      <p>Explain the models or techniques you used here.</p>
+
+      <img src="your-image-2.png" alt="Model diagram" />
+
+      <hr />
+
+      <h3>Results</h3>
+      <p>Summarize your findings and key metrics here.</p>
+
+      <img src="your-image-3.png" alt="Results chart" />
+
+      <hr />
+
+      <h3>Conclusion</h3>
+      <p>Write your conclusions and next steps here.</p>
+
+      <!-- Add as many sections as you need by copying the pattern above -->
+
+    </div>
+  </div>
+
+  <footer>CS 4365 - Enterprise Computing | Georgia Institute of Technology | Spring 2026</footer>
+
+  <script>
+    function showTab(id, btn) {
+      document.querySelectorAll('.panel').forEach(p => p.classList.remove('active'));
+      document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+      document.getElementById(id).classList.add('active');
+      btn.classList.add('active');
+    }
+  </script>
+
+</body>
+</html>
