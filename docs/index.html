@@ -66,7 +66,7 @@
 
     /* ── Section headings ── */
     h2 {
-      font-size: 1.1rem;
+      font-size: 1.5rem;
       margin-bottom: 8px;
     }
     .section-note {
@@ -76,10 +76,19 @@
       font-style: italic;
     }
 
-    .pdf-embed {
+    .image-embed {
       width: 100%;
       height: 600px;
-      border: 0px solid #c9bfad;
+      object-fit: contain;
+      object-position: center;
+      display: block;
+    }
+
+    .image-embed-1 {
+      width: 600px;
+      height: 450px;
+      object-fit: contain;
+      display: block;
     }
 
     .report-body {
@@ -126,18 +135,25 @@
 
   <nav>
     <button class="tab-btn active" onclick="showTab('analysis', this)">Data Analysis</button>
-    <button class="tab-btn"        onclick="showTab('report',    this)">ML Report</button>
+    <button class="tab-btn"        onclick="showTab('report',    this)">Machine Learning</button>
   </nav>
+
+
+<!-- CONTENT STARTS HERE FOR ANALYSIS/ML-->
+
 
   <!-- ── Analysis Panel ── -->
   <div id="analysis" class="panel active">
-    <h2>Data Analysis</h2>
-    <p class="section-note">Created through Power BI</p>
-    <iframe
-      class="pdf-embed"
-      src="../img/overall-board.png"
-      title="Flight Analysis Dashboard">
-    </iframe>
+    <div class="report-body">
+
+      <h2>Introduction</h2>
+      <h2>Exploratory Data Analysis</h2>
+      <h3>I. Analyze Departure Data</h3>
+        <img src="../img/overall-board.png" class="image-embed">
+      <h3>II. Analyze Arrival Data</h3>
+        <img src="../img/chart2_hourly_delay_ripple.png" class="image-embed-1">
+        <img src="../img/chart5_worst_airports.png" class="image-embed-1">
+        <img src="../img/chart7_correlation_heatmap.png" class="image-embed-1">
   </div>
 
   <!-- ── ML Report Panel ── -->
