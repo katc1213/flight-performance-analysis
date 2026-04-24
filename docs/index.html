@@ -78,7 +78,7 @@
 
     .image-embed {
       width: 100%;
-      height: 600px;
+      height: 100%;
       object-fit: contain;
       object-position: center;
       display: block;
@@ -88,7 +88,14 @@
       width: 600px;
       height: 450px;
       object-fit: contain;
-      display: block;
+      
+      float: left; 
+      margin-right: 20px;
+      margin-bottom: 10px; 
+      
+      border: none !important; 
+      outline: none !important; 
+      box-shadow: none !important;
     }
 
     .report-body {
@@ -100,7 +107,7 @@
       margin: 36px 0 10px;
       font-weight: 700;
     }
-    .report-body p {
+    .report-body p {  
       margin-bottom: 16px;
       color: #3a3a3a;
     }
@@ -129,38 +136,62 @@
 
   <header>
     <h1>US Domestic Flight Performance Analysis and Prediction</h1>
-    <p>Team: Sishnukeshav Balamurali, Katherine Chang, & Sanvi Thota</p>
-    <p> <a href="https://github.com/katc1213/flight-performance-analysis.git" target="_blank">Click here to view our Github Repo</a></p>
+    <p>Team: Sishnukeshav Balamurali, Katherine Chang, &amp; Sanvi Thota</p>
+    <p><a href="https://github.com/katc1213/flight-performance-analysis.git" target="_blank">Click here to view our Github Repo</a></p>
   </header>
 
   <nav>
-    <button class="tab-btn active" onclick="showTab('analysis', this)">Data Analysis</button>
-    <button class="tab-btn"        onclick="showTab('report',    this)">Machine Learning</button>
+    <button class="tab-btn active"  onclick="showTab('overview',  this)">Overview</button>
+    <button class="tab-btn"         onclick="showTab('analysis',  this)">Data Analysis</button>
+    <button class="tab-btn"         onclick="showTab('report',    this)">Machine Learning</button>
   </nav>
 
 
-<!-- CONTENT STARTS HERE FOR ANALYSIS/ML-->
+  <!-- ── Overview Panel ── -->
+  <div id="overview" class="panel active">
+    <div class="report-body">
+      <h2>Introduction</h2>
+      <p>Over the past five years, U.S. domestic flight performance has continued to fluctuate after recovering from COVID-19 and other unexpected economic or natural events.
+        Thousands of delays and cancellations have been caused by weather events, staffing shortages, operational disruptions, and air traffic control constraints.
+        These disruptions affect passengers, airline operations, and airport logistics.</p>
+      <p>In this project, we analyze the U.S. domestic flight performance dataset from January to November 2025, which includes over 7 million records of flight data points.
+        We aim to identify patterns and trends in flight performance, understand the factors contributing to delays and cancellations, and explore potential predictive models for future flight performance.
+        Finally, we will go through three stages of data analysis: 1) Exploratory Data Analysis, 2) Descriptive Analysis, and 3) Explanatory Analysis.</p>
+
+      <h2>Workflow</h2>
+      <img src="../docs/img/workflow-diagram.png" class="image-embed" style="border: none !important; outline: none !important; box-shadow: none !important;" alt="Workflow Diagram">
+      <h2>Dashboard</h2>
+      <img src="../docs/img/overall-board.png" class="image-embed" alt="Overall Dashboard">
+    </div>
+  </div>
 
 
   <!-- ── Analysis Panel ── -->
-  <div id="analysis" class="panel active">
+  <div id="analysis" class="panel">
     <div class="report-body">
 
-      <h2>Introduction</h2>
+      <h2>Dataset Description</h2>
+      <p>Prior to data cleaning and processing, we collected data from the Bureau of Transportation Statistics (BTS) for U.S. domestic flights from January to November 2025.</p>
+
+      <h2>Descriptive Data Analysis</h2>
+        <img src="../docs/img/airline_delay.png" class="image-embed-1" style="float: left; margin-right: 15px;" alt="airline delay">
+        <img src="../docs/img/airport_delay.png" class="image-embed-1" style="float: left; margin-right: 15px;" alt="airport delay">
+
       <h2>Exploratory Data Analysis</h2>
-      <h3>I. Analyze Departure Data</h3>
-        <img src="../img/overall-board.png" class="image-embed">
-      <h3>II. Analyze Arrival Data</h3>
-        <img src="../img/chart2_hourly_delay_ripple.png" class="image-embed-1">
-        <img src="../img/chart5_worst_airports.png" class="image-embed-1">
-        <img src="../img/chart7_correlation_heatmap.png" class="image-embed-1">
-      <h3>III. Analyze Busiest Airport</h3>
-        <img src="../img/ORD_airline_delay.png" class="image-embed-1">
+       <img src="../docs/img/month_season_delay.png" class="image-embed-1" style="float: left; margin-right: 15px;" alt="month delay">
+        <img src="../docs/img/TOD_delay.png" class="image-embed-1" style="float: left; margin-right: 15px;" alt="Hourly Delay Ripple">
+        <img src="../docs/img/chart7_correlation_heatmap.png" class="image-embed-1" alt="Correlation Heatmap">
+        <div style="clear: both;"></div>
+
+      <h3>II. Analyze Busiest Airport</h3>
+        <img src="../img/ORD_airline_delay.png" class="image-embed-1" alt="ORD Airline Delay">
+
+    </div>
   </div>
+
 
   <!-- ── ML Report Panel ── -->
   <div id="report" class="panel">
-
     <div class="report-body">
 
       <h3>Introduction</h3>
@@ -169,7 +200,6 @@
       <h3>Data Overview</h3>
       <p>Describe your dataset here — number of records, features, time range, sources, etc.</p>
 
-      <!-- Example image — replace src with your actual image file -->
       <img src="your-image-1.png" alt="Data overview chart" />
 
       <hr />
@@ -191,10 +221,9 @@
       <h3>Conclusion</h3>
       <p>Write your conclusions and next steps here.</p>
 
-      <!-- Add as many sections as you need by copying the pattern above -->
-
     </div>
   </div>
+
 
   <footer>CS 4365 - Enterprise Computing | Georgia Institute of Technology | Spring 2026</footer>
 
