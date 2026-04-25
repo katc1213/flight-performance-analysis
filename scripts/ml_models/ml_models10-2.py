@@ -99,7 +99,7 @@ _os.chdir(_pl.Path(__file__).resolve().parent.parent.parent)
 _os.makedirs("charts", exist_ok=True)
 _os.makedirs("outputs/catboost_info", exist_ok=True)
 
-DB_PATH = "data/CleanedData/flights.db"
+DB_PATH = "data/flights.db"
 
 conn = sqlite3.connect(DB_PATH)
 query = """

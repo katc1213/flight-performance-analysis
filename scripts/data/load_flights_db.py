@@ -22,9 +22,9 @@ _os.chdir(_pl.Path(__file__).resolve().parent.parent.parent)
 # ─────────────────────────────────────────────
 # 0. CONFIG
 # ─────────────────────────────────────────────
-FLIGHTS_CSV  = 'data/CleanedData/merged_flights.csv'
-AIRPORTS_CSV = 'data/AIRPORT_ORIGIN.csv'
-DB_PATH      = 'data/CleanedData/flights.db'
+FLIGHTS_CSV  = 'data/merged_flights.csv'
+AIRPORTS_CSV = 'data/airports_origin_us_only.csv'
+DB_PATH      = 'data/flights.db'
 
 # ─────────────────────────────────────────────
 # 1. LOAD MAIN FLIGHT DATA

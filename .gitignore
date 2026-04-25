@@ -12,9 +12,9 @@ build/
 .ipynb_checkpoints/
 *.ipynb_checkpoints
 
-# ── ML / CatBoost training logs (auto-generated, not source code) ─────────────
+# ── ML / CatBoost training logs and generated outputs (auto-generated) ────────
 catboost_info/
-outputs/catboost_info/
+outputs/
 
 # ── Large data files (tracked via Git LFS — see .gitattributes) ───────────────
 # *.csv
