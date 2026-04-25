@@ -1,9 +1,14 @@
 import pandas as pd
 import glob
 import os
+import pathlib
 from datetime import time
 
-folder_path = r'C:\Users\Kat\Documents\repos\flight-performance-analysis\raw_data' # change this to own path
+# Set working directory to repo root so all relative paths resolve correctly
+os.chdir(pathlib.Path(__file__).resolve().parent.parent.parent)
+
+# Raw monthly CSVs live in data/raw/
+folder_path = 'data/raw'
 csv_files = glob.glob(os.path.join(folder_path, '*.csv'))
 
 df_list = []
@@ -51,4 +56,4 @@ merged_df = merged_df.drop(columns=columns_to_drop)
 print(merged_df.columns.tolist())
 print(merged_df.shape)
 
-merged_df.to_csv(r'C:\Users\Kat\Documents\repos\flight-performance-analysis\clean_data\merged_flights.csv', index=False)
+merged_df.to_csv('data/CleanedData/merged_flights.csv', index=False)
